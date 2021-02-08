@@ -17,7 +17,7 @@ We use the old and new versions of a web page as inputs to our DOM tree based ch
 
 Old and new version of the web page.
 
-+Ouput.
++ Ouput.
 
 Changes in the DOM tree structure.
 
