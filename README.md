@@ -1,7 +1,7 @@
 # WebEvo
 Implementation of the paper WEBEVO: Taming Web Application Evoluation via Detecting Semantic Structure Changes.
 ## Introduction
-In this work, we combined DOM tree based comparison of old and new version of a web page, history based semantic structure comparison, and visual information which identifies relevant structural changes together to monitor changes in a website.
+WebEvo combines two main modules to find semantic structure changes occuring between different versions of a web page. First module is called the Semantic Structure Change Detection module. The module first performs DOM-tree based change detection by comparing the DOM trees of two pages to find content-based changes and structural changes. Then the detected changes are further pruned via our History-based semantic structure change detection technique to output only semantic structure changes. Finally, these detected changes are used as input to our Semantics-based visual search module, which outputs the semantic structure changes with their mappings using content similarity analysis.
 
 ![Overview of Workflow of WebEvo](overview.png)
 ## Requirements
@@ -9,9 +9,9 @@ In this work, we combined DOM tree based comparison of old and new version of a 
 ## Usage
 The major modules of WebEvo are listed below:
 
-1. DOM tree based comparison.
+1. DOM-tree based change detection.
 
-We use the old and new versions of a web page as inputs to our DOM tree based change detection module to detect changes on a web page based on DOM tree structures.
+We use the old and new versions of a web page as inputs to our DOM-tree based change detection module to detect changes on a web page based on DOM tree structures.
 
 + Input.
 
@@ -26,6 +26,6 @@ To run the jar file:
 java -jar api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: <oldpage> -newpage: <newpage>
 ```
 
-api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [DOM Tree Based Comparison](DOMTreeBasedComparison).
+api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [DOM-tree based change detection](DOM-tree based change detection).
 
 to be continued tomorrow...
