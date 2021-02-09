@@ -11,7 +11,7 @@ The major modules of WebEvo are listed below:
 
 ### Semantic structure change detection module.
 
-#### DOM-tree based change detection.
+##### DOM-tree based change detection.
 
 We use the old and new versions of a web page as inputs to our DOM-tree based change detection module to detect changes on a web page based on DOM tree structures.
 
@@ -30,7 +30,7 @@ java -jar api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: <oldpag
 
 api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [DOM-tree-based-change-detection](DOM-tree-based-change-detection).
 
-#### History-based semantic structure change detection.
+##### History-based semantic structure change detection.
 
 The goal of History-based semantic structure change detection is to prune the detected changes from the previous step to find only semantic structure changes.
 
