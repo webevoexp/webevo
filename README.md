@@ -9,9 +9,9 @@ WebEvo combines two main modules to find semantic structure changes occuring bet
 ## Usage
 The major modules of WebEvo are listed below:
 
-1. Semantic structure change detection module.
+* Item 1. Semantic structure change detection module.
 
-1.1 DOM-tree based change detection.
+  * Item 1a. DOM-tree based change detection.
 
 We use the old and new versions of a web page as inputs to our DOM-tree based change detection module to detect changes on a web page based on DOM tree structures.
 
