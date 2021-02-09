@@ -26,6 +26,6 @@ To run the jar file:
 java -jar api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: <oldpage> -newpage: <newpage>
 ```
 
-api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [DOM-tree based change detection](DOM-tree based change detection).
+api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [DOM-tree-based-change-detection](DOM-tree based change detection).
 
 to be continued tomorrow...
