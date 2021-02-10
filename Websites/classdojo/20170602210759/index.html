@@ -1,0 +1,129 @@
+<html lang="en"><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+<title></title>
+<script>
+    /*
+    @licstart  The following is the entire license notice for the JavaScript code in this page.
+
+    Copyright (C) 2020 Internet Archive
+
+    The JavaScript code in this page is free software: you can
+    redistribute it and/or modify it under the terms of the GNU Affero
+    General Public License as published by the Free Software
+    Foundation, either version 3 of the License, or (at your option)
+    any later version.  The code is distributed WITHOUT ANY WARRANTY;
+    without even the implied warranty of MERCHANTABILITY or FITNESS
+    FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+    As additional permission under GNU AGPL version 3 section 7, you
+    may distribute non-source (e.g., minimized or compacted) forms of
+    that code without the copy of the GNU AGPL normally required by
+    section 4, provided you include this license notice and a URL
+    through which recipients can access the Corresponding Source.
+
+    @licend  The above is the entire license notice for the JavaScript code in this page.
+    */
+    </script>
+<script type="text/javascript">
+      window.webComponentLoaderConfig = {
+      baseUrl: 'https://archive.org',
+      version: '29e56e87'
+      }
+    </script>
+<script itwr_raw_link="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" src="https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/analytics.js?v=50de7c8b" src="https://archive.org/includes/analytics.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/npm/jquery-ui.min.js?v1.12.1" src="https://archive.org/includes/build/npm/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/bootstrap.min.js?v3.0.0" src="https://archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/components/npm/clipboard/dist/clipboard.js?v=50de7c8b" src="https://archive.org/components/npm/clipboard/dist/clipboard.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/polyfill.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/polyfill.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=50de7c8b" src="https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/more-facets.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/more-facets.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/radio-player-controller.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/radio-player-controller.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/ia-wayback-search.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/ia-wayback-search.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/ia-topnav.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/ia-topnav.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/npm/react/umd/react.production.min.js?v16.7.0" src="https://archive.org/includes/build/npm/react/umd/react.production.min.js?v16.7.0" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" src="https://archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/archive.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/archive.min.js?v=50de7c8b" type="text/javascript"></script>
+<script itwr_raw_link="//archive.org/includes/build/js/areact.min.js?v=50de7c8b" src="https://archive.org/includes/build/js/areact.min.js?v=50de7c8b" type="text/javascript"></script>
+<link href="https://archive.org/includes/build/css/archive.min.css?v=50de7c8b" itwr_raw_link="//archive.org/includes/build/css/archive.min.css?v=50de7c8b" rel="stylesheet" type="text/css"/>
+<meta content="" property="mediatype"/>
+<meta content="" property="primary_collection"/>
+<meta content="production_w3jccm3z_pqd7hz44swp6zvvw" property="braintree_token"/>
+<meta content="production" property="environment"/>
+<meta content="2878003111190856236" property="venmo_id"/>
+<script crossorigin="anonymous" itwr_raw_link="/_static/js/raven.min.js" src="https://web.archive.org/_static/js/raven.min.js"></script>
+<script>Raven.config('https://5588e3adb3e545248e893d6f2fc41ba2@wwwb-sentry.us.archive.org/3').install();</script>
+<script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='';v.service='wb';v.server_name='wwwb-app39.us.archive.org';v.server_ms=234;archive_analytics.send_pageview_on_load()}</script>
+<link href="https://web.archive.org/_static/images/archive.ico" itwr_raw_link="/_static/images/archive.ico" rel="shortcut icon"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<link href="https://web.archive.org/_static/css/styles.css?v=DbmV_ha7" itwr_raw_link="/_static/css/styles.css?v=DbmV_ha7" rel="stylesheet" type="text/css"/>
+<script charset="utf-8" itwr_raw_link="/_static/js/ui.js?v=EGgwKSpP" src="https://web.archive.org/_static/js/ui.js?v=EGgwKSpP" type="text/javascript"></script>
+<base target="_top"/> </head>
+<body class="navia" style="">
+<div class="ia-banners">
+<div class="ia-banner hidden new-lending-mechanism visible" data-campaign="new-lending-mechanism">
+<p><a href="http://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/" itwr_raw_link="http://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/" rel="nofollow">See what's new with book lending at the Internet Archive</a></p>
+<form action="" class="banner-close" data-action="ia-banner-close" method="get">
+<fieldset>
+<button type="submit"></button>
+</fieldset>
+</form>
+</div>
+</div>
+<div id="topnav">
+<ia-topnav config="eyJiYXNlSG9zdCI6ImFyY2hpdmUub3JnIiwic2NyZWVuTmFtZSI6ZmFsc2UsInVzZXJuYW1lIjoiIiwidXBsb2FkVVJMIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9jcmVhdGUiLCJldmVudENhdGVnb3J5IjoiVG9wTmF2Iiwid2F5YmFja1BhZ2VzQXJjaGl2ZWQiOiI0NTggYmlsbGlvbiIsImlzQWRtaW4iOjAsImhpZGVTZWFyY2giOmZhbHNlfQ==" menus="eyJhdWRpbyI6eyJoZWFkaW5nIjoiSW50ZXJuZXQgQXJjaGl2ZSBBdWRpbyIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvZXRyZWUiLCJ0aXRsZSI6IkxpdmUgTXVzaWMgQXJjaGl2ZSIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvZXRyZWUifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2xpYnJpdm94YXVkaW8iLCJ0aXRsZSI6IkxpYnJpdm94IEZyZWUgQXVkaW8iLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2xpYnJpdm94YXVkaW8ifV0sImZlYXR1cmVkTGlua3MiOlt7InRpdGxlIjoiQWxsIGF1ZGlvIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hdWRpbyJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOmF1ZGlvJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiR3JhdGVmdWwgRGVhZCIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvR3JhdGVmdWxEZWFkIn0seyJ0aXRsZSI6Ik5ldGxhYmVscyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvbmV0bGFiZWxzIn0seyJ0aXRsZSI6Ik9sZCBUaW1lIFJhZGlvIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9vbGR0aW1lcmFkaW8ifSx7InRpdGxlIjoiNzggUlBNcyBhbmQgQ3lsaW5kZXIgUmVjb3JkaW5ncyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvNzhycG0ifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkF1ZGlvIEJvb2tzICYgUG9ldHJ5IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hdWRpb19ib29rc3BvZXRyeSJ9LHsidGl0bGUiOiJDb21tdW5pdHkgQXVkaW8iLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL29wZW5zb3VyY2VfYXVkaW8ifSx7InRpdGxlIjoiQ29tcHV0ZXJzLCBUZWNobm9sb2d5IGFuZCBTY2llbmNlIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hdWRpb190ZWNoIn0seyJ0aXRsZSI6Ik11c2ljLCBBcnRzICYgQ3VsdHVyZSIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvYXVkaW9fbXVzaWMifSx7InRpdGxlIjoiTmV3cyAmIFB1YmxpYyBBZmZhaXJzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hdWRpb19uZXdzIn0seyJ0aXRsZSI6Ik5vbi1FbmdsaXNoIEF1ZGlvIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hdWRpb19mb3JlaWduIn0seyJ0aXRsZSI6IlNwaXJpdHVhbGl0eSAmIFJlbGlnaW9uIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hdWRpb19yZWxpZ2lvbiJ9LHsidGl0bGUiOiJQb2RjYXN0cyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvcG9kY2FzdHMifSx7InRpdGxlIjoiUG9kY2FzdHMiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL3BvZGNhc3RzIn1dfSwiaW1hZ2VzIjp7ImhlYWRpbmciOiJJbWFnZXMiLCJpY29uTGlua3MiOlt7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL21ldHJvcG9saXRhbm11c2V1bW9mYXJ0LWdhbGxlcnkiLCJ0aXRsZSI6Ik1ldHJvcG9saXRhbiBNdXNldW0iLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL21ldHJvcG9saXRhbm11c2V1bW9mYXJ0LWdhbGxlcnkifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2Jyb29rbHlubXVzZXVtIiwidGl0bGUiOiJCcm9va2x5biBNdXNldW0iLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2Jyb29rbHlubXVzZXVtIn1dLCJmZWF0dXJlZExpbmtzIjpbeyJ0aXRsZSI6IkFsbCBpbWFnZXMiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2ltYWdlIn0seyJ0aXRsZSI6IlRoaXMgSnVzdCBJbiIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VhcmNoLnBocD9xdWVyeT1tZWRpYXR5cGU6aW1hZ2Umc29ydD0tcHVibGljZGF0ZSJ9LHsidGl0bGUiOiJGbGlja3IgQ29tbW9ucyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvZmxpY2tyY29tbW9ucyJ9LHsidGl0bGUiOiJPY2N1cHkgV2FsbCBTdHJlZXQgRmxpY2tyIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9mbGlja3Itb3dzIn0seyJ0aXRsZSI6IkNvdmVyIEFydCIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvY292ZXJhcnRhcmNoaXZlIn0seyJ0aXRsZSI6IlVTR1MgTWFwcyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvbWFwc191c2dzIn1dLCJsaW5rcyI6W3sidGl0bGUiOiJOQVNBIEltYWdlcyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvbmFzYSJ9LHsidGl0bGUiOiJTb2xhciBTeXN0ZW0gQ29sbGVjdGlvbiIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvc29sYXJzeXN0ZW1jb2xsZWN0aW9uIn0seyJ0aXRsZSI6IkFtZXMgUmVzZWFyY2ggQ2VudGVyIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hbWVzcmVzZWFyY2hjZW50ZXJpbWFnZWxpYnJhcnkifV19LCJtb3JlIjpbeyJ0aXRsZSI6IkFib3V0IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9hYm91dFwvIn0seyJ0aXRsZSI6IkJsb2ciLCJ1cmwiOiJodHRwczpcL1wvYmxvZy5hcmNoaXZlLm9yZ1wvIn0seyJ0aXRsZSI6IlByb2plY3RzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9wcm9qZWN0c1wvIn0seyJ0aXRsZSI6IkhlbHAiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2Fib3V0XC9mYXFzLnBocCJ9LHsidGl0bGUiOiJEb25hdGUiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RvbmF0ZSJ9LHsidGl0bGUiOiJDb250YWN0IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9hYm91dFwvY29udGFjdC5waHAifSx7InRpdGxlIjoiSm9icyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvYWJvdXRcL2pvYnMucGhwIn0seyJ0aXRsZSI6IlZvbHVudGVlciIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvYWJvdXRcL3ZvbHVudGVlcnBvc2l0aW9ucy5waHAifSx7InRpdGxlIjoiUGVvcGxlIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9hYm91dFwvYmlvcy5waHAifV0sInNvZnR3YXJlIjp7ImhlYWRpbmciOiJTb2Z0d2FyZSIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvaW50ZXJuZXRhcmNhZGUiLCJ0aXRsZSI6IkludGVybmV0IEFyY2FkZSIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvaW50ZXJuZXRhcmNhZGUifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2NvbnNvbGVsaXZpbmdyb29tIiwidGl0bGUiOiJDb25zb2xlIExpdmluZyBSb29tIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9jb25zb2xlbGl2aW5ncm9vbSJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgc29mdHdhcmUiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL3NvZnR3YXJlIn0seyJ0aXRsZSI6IlRoaXMgSnVzdCBJbiIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VhcmNoLnBocD9xdWVyeT1tZWRpYXR5cGU6c29mdHdhcmUmc29ydD0tcHVibGljZGF0ZSJ9LHsidGl0bGUiOiJPbGQgU2Nob29sIEVtdWxhdGlvbiIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvdG9zZWMifSx7InRpdGxlIjoiTVMtRE9TIEdhbWVzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9zb2Z0d2FyZWxpYnJhcnlfbXNkb3NfZ2FtZXMifSx7InRpdGxlIjoiSGlzdG9yaWNhbCBTb2Z0d2FyZSIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvaGlzdG9yaWNhbHNvZnR3YXJlIn0seyJ0aXRsZSI6IkNsYXNzaWMgUEMgR2FtZXMiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2NsYXNzaWNwY2dhbWVzIn0seyJ0aXRsZSI6IlNvZnR3YXJlIExpYnJhcnkiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL3NvZnR3YXJlbGlicmFyeSJ9XSwibGlua3MiOlt7InRpdGxlIjoiS29kaSBBcmNoaXZlIGFuZCBTdXBwb3J0IEZpbGUiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2tvZGlfYXJjaGl2ZSJ9LHsidGl0bGUiOiJDb21tdW5pdHkgU29mdHdhcmUiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL29wZW5fc291cmNlX3NvZnR3YXJlIn0seyJ0aXRsZSI6IlZpbnRhZ2UgU29mdHdhcmUiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL3ZpbnRhZ2Vzb2Z0d2FyZSJ9LHsidGl0bGUiOiJBUEsiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2Fwa2FyY2hpdmUifSx7InRpdGxlIjoiTVMtRE9TIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9zb2Z0d2FyZWxpYnJhcnlfbXNkb3MifSx7InRpdGxlIjoiQ0QtUk9NIFNvZnR3YXJlIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9jZC1yb21zIn0seyJ0aXRsZSI6IkNELVJPTSBTb2Z0d2FyZSBMaWJyYXJ5IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9jZHJvbXNvZnR3YXJlIn0seyJ0aXRsZSI6IlNvZnR3YXJlIFNpdGVzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9zb2Z0d2FyZXNpdGVzIn0seyJ0aXRsZSI6IlR1Y293cyBTb2Z0d2FyZSBMaWJyYXJ5IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC90dWNvd3MifSx7InRpdGxlIjoiU2hhcmV3YXJlIENELVJPTXMiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2NkYmJzYXJjaGl2ZSJ9LHsidGl0bGUiOiJTb2Z0d2FyZSBDYXBzdWxlcyBDb21waWxhdGlvbiIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvc29mdHdhcmVjYXBzdWxlcyJ9LHsidGl0bGUiOiJDRC1ST00gSW1hZ2VzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9jZHJvbWltYWdlcyJ9LHsidGl0bGUiOiJaWCBTcGVjdHJ1bSIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvc29mdHdhcmVsaWJyYXJ5X3p4X3NwZWN0cnVtIn0seyJ0aXRsZSI6IkRPT00gTGV2ZWwgQ0QiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2Rvb20tY2RzIn1dfSwidGV4dHMiOnsiaGVhZGluZyI6IkJvb2tzIiwiaWNvbkxpbmtzIjpbeyJ0aXRsZSI6IkJvb2tzIHRvIEJvcnJvdyIsImljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2ltYWdlc1wvYm9vay1sZW5kLnBuZyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvaW5saWJyYXJ5In0seyJ0aXRsZSI6Ik9wZW4gTGlicmFyeSIsImljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2ltYWdlc1wvd2lkZ2V0T0wucG5nIiwidXJsIjoiaHR0cHM6XC9cL29wZW5saWJyYXJ5Lm9yZ1wvIn1dLCJmZWF0dXJlZExpbmtzIjpbeyJ0aXRsZSI6IkFsbCBCb29rcyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvYm9va3MifSx7InRpdGxlIjoiQWxsIFRleHRzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC90ZXh0cyJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOnRleHRzJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiU21pdGhzb25pYW4gTGlicmFyaWVzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9zbWl0aHNvbmlhbiJ9LHsidGl0bGUiOiJGRURMSU5LIChVUykiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2ZlZGxpbmsifSx7InRpdGxlIjoiR2VuZWFsb2d5IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9nZW5lYWxvZ3kifSx7InRpdGxlIjoiTGluY29sbiBDb2xsZWN0aW9uIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9saW5jb2xuY29sbGVjdGlvbiJ9XSwibGlua3MiOlt7InRpdGxlIjoiQW1lcmljYW4gTGlicmFyaWVzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9hbWVyaWNhbmEifSx7InRpdGxlIjoiQ2FuYWRpYW4gTGlicmFyaWVzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC90b3JvbnRvIn0seyJ0aXRsZSI6IlVuaXZlcnNhbCBMaWJyYXJ5IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC91bml2ZXJzYWxsaWJyYXJ5In0seyJ0aXRsZSI6IkNvbW11bml0eSBUZXh0cyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvb3BlbnNvdXJjZSJ9LHsidGl0bGUiOiJQcm9qZWN0IEd1dGVuYmVyZyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvZ3V0ZW5iZXJnIn0seyJ0aXRsZSI6IkJpb2RpdmVyc2l0eSBIZXJpdGFnZSBMaWJyYXJ5IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9iaW9kaXZlcnNpdHkifSx7InRpdGxlIjoiQ2hpbGRyZW4ncyBMaWJyYXJ5IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9pYWNsIn0seyJ0aXRsZSI6IkJvb2tzIGJ5IExhbmd1YWdlIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9ib29rc2J5bGFuZ3VhZ2UifSx7InRpdGxlIjoiQWRkaXRpb25hbCBDb2xsZWN0aW9ucyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvYWRkaXRpb25hbF9jb2xsZWN0aW9ucyJ9XX0sIndlYiI6eyJtb2JpbGVBcHBzTGlua3MiOlt7InVybCI6Imh0dHBzOlwvXC9hcHBzLmFwcGxlLmNvbVwvdXNcL2FwcFwvd2F5YmFjay1tYWNoaW5lXC9pZDEyMDE4ODgzMTMiLCJ0aXRsZSI6IldheWJhY2sgTWFjaGluZSAoaU9TKSIsImV4dGVybmFsIjp0cnVlfSx7InVybCI6Imh0dHBzOlwvXC9wbGF5Lmdvb2dsZS5jb21cL3N0b3JlXC9hcHBzXC9kZXRhaWxzP2lkPWNvbS5hcmNoaXZlLndheWJhY2ttYWNoaW5lJmhsPWVuX1VTIiwidGl0bGUiOiJXYXliYWNrIE1hY2hpbmUgKEFuZHJvaWQpIiwiZXh0ZXJuYWwiOnRydWV9XSwiYnJvd3NlckV4dGVuc2lvbnNMaW5rcyI6W3sidXJsIjoiaHR0cHM6XC9cL2FkZG9ucy5tb3ppbGxhLm9yZ1wvZW4tVVNcL2ZpcmVmb3hcL2FkZG9uXC93YXliYWNrLW1hY2hpbmVfbmV3XC8iLCJ0aXRsZSI6IkZpcmVmb3giLCJleHRlcm5hbCI6dHJ1ZX0seyJ1cmwiOiJodHRwczpcL1wvYXBwcy5hcHBsZS5jb21cL3VzXC9hcHBcL3dheWJhY2stbWFjaGluZVwvaWQxNDcyNDMyNDIyP210PTEyIiwidGl0bGUiOiJTYWZhcmkiLCJleHRlcm5hbCI6dHJ1ZX1dLCJhcmNoaXZlSXRMaW5rcyI6W3sidXJsIjoiaHR0cHM6XC9cL3d3dy5hcmNoaXZlLWl0Lm9yZ1wvZXhwbG9yZSIsInRpdGxlIjoiRXhwbG9yZSB0aGUgQ29sbGVjdGlvbnMifSx7InVybCI6Imh0dHBzOlwvXC93d3cuYXJjaGl2ZS1pdC5vcmdcL2Jsb2dcL2xlYXJuLW1vcmVcLyIsInRpdGxlIjoiTGVhcm4gTW9yZSJ9LHsidXJsIjoiaHR0cHM6XC9cL3d3dy5hcmNoaXZlLWl0Lm9yZ1wvY29udGFjdC11cyIsInRpdGxlIjoiQnVpbGQgQ29sbGVjdGlvbnMifV19LCJ2aWRlbyI6eyJoZWFkaW5nIjoiVmlkZW8iLCJpY29uTGlua3MiOlt7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL3R2IiwidGl0bGUiOiJUViBOZXdzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC90diJ9LHsiaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvOTExIiwidGl0bGUiOiJVbmRlcnN0YW5kaW5nIDlcLzExIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC85MTEifV0sImZlYXR1cmVkTGlua3MiOlt7InRpdGxlIjoiQWxsIHZpZGVvIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9tb3ZpZXMifSx7InRpdGxlIjoiVGhpcyBKdXN0IEluIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZWFyY2gucGhwP3F1ZXJ5PW1lZGlhdHlwZTptb3ZpZXMmc29ydD0tcHVibGljZGF0ZSJ9LHsidGl0bGUiOiJQcmVsaW5nZXIgQXJjaGl2ZXMiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL3ByZWxpbmdlciJ9LHsidGl0bGUiOiJEZW1vY3JhY3kgTm93ISIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvZGVtb2NyYWN5X25vd192aWQifSx7InRpdGxlIjoiT2NjdXB5IFdhbGwgU3RyZWV0IiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9vY2N1cHl3YWxsc3RyZWV0In0seyJ0aXRsZSI6IlRWIE5TQSBDbGlwIExpYnJhcnkiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL25zYSJ9XSwibGlua3MiOlt7InRpdGxlIjoiQW5pbWF0aW9uICYgQ2FydG9vbnMiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2FuaW1hdGlvbmFuZGNhcnRvb25zIn0seyJ0aXRsZSI6IkFydHMgJiBNdXNpYyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvYXJ0c2FuZG11c2ljdmlkZW9zIn0seyJ0aXRsZSI6IkNvbXB1dGVycyAmIFRlY2hub2xvZ3kiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL2NvbXB1dGVyc2FuZHRlY2h2aWRlb3MifSx7InRpdGxlIjoiQ3VsdHVyYWwgJiBBY2FkZW1pYyBGaWxtcyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvY3VsdHVyYWxhbmRhY2FkZW1pY2ZpbG1zIn0seyJ0aXRsZSI6IkVwaGVtZXJhbCBGaWxtcyIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvZXBoZW1lcmEifSx7InRpdGxlIjoiTW92aWVzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9tb3ZpZXNhbmRmaWxtcyJ9LHsidGl0bGUiOiJOZXdzICYgUHVibGljIEFmZmFpcnMiLCJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2RldGFpbHNcL25ld3NhbmRwdWJsaWNhZmZhaXJzIn0seyJ0aXRsZSI6IlNwaXJpdHVhbGl0eSAmIFJlbGlnaW9uIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9zcGlyaXR1YWxpdHlhbmRyZWxpZ2lvbiJ9LHsidGl0bGUiOiJTcG9ydHMgVmlkZW9zIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9zcG9ydHMifSx7InRpdGxlIjoiVGVsZXZpc2lvbiIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wvdGVsZXZpc2lvbiJ9LHsidGl0bGUiOiJWaWRlb2dhbWUgVmlkZW9zIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC9nYW1ldmlkZW9zIn0seyJ0aXRsZSI6IlZsb2dzIiwidXJsIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9kZXRhaWxzXC92bG9ncyJ9LHsidGl0bGUiOiJZb3V0aCBNZWRpYSIsInVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvZGV0YWlsc1wveW91dGhfbWVkaWEifV19LCJ1c2VyIjpbXSwic2lnbmVkT3V0IjpbeyJ1cmwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2FjY291bnRcL3NpZ251cCIsInRpdGxlIjoiU2lnbiB1cCBmb3IgZnJlZSIsImFuYWx5dGljc0V2ZW50IjoiQXZhdGFyTWVudS1TaWdudXAifSx7InVybCI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvYWNjb3VudFwvbG9naW4iLCJ0aXRsZSI6IkxvZyBpbiIsImFuYWx5dGljc0V2ZW50IjoiQXZhdGFyTWVudS1Mb2dpbiJ9XX0=">
+</ia-topnav>
+</div>
+<input class="js-tvsearch" type="hidden" value='{"ands":[],"minday":"06/04/2009","maxday":"08/10/2020"}'/>
+<script type="text/javascript">show_donation_banner();</script>
+<div id="positionHome">
+<section>
+<div id="logoHome">
+<a href="https://web.archive.org/" itwr_raw_link="/"><h1><span>Internet Archive's Wayback Machine</span></h1></a>
+</div>
+</section>
+<section>
+<div id="error">
+<script type="text/javascript">
+	    function go() {
+	      document.location.href = "https://web.archive.org/web/20170602210759/https://external.classdojo.com/";
+	    }
+	    window.setTimeout(go,  5000);
+	  </script>
+<p class="code">Loading...</p>
+<p class="code shift target">https://www.classdojo.com/ |
+	    21:07:59 June 02, 2017</p>
+<p class="code shift red">Got an HTTP 301 response at crawl time</p>
+<p class="code">Redirecting to...</p>
+<p class="code shift target">https://external.classdojo.com/</p>
+<p class="impatient"><a href="https://web.archive.org/web/20170602210759/https://external.classdojo.com/" itwr_raw_link="https://external.classdojo.com/">Impatient?</a></p>
+</div>
+</section>
+<div id="errorBorder"></div>
+<noscript>
+<div class="no-script-message">
+        The Wayback Machine requires your browser to support JavaScript, please email <a href="mailto:info@archive.org" itwr_raw_link="mailto:info@archive.org">info@archive.org</a><br/>if you have any questions about this.
+      </div>
+</noscript>
+<footer>
+<div id="footerHome">
+<p>
+          The Wayback Machine is an initiative of the
+          <a href="https://archive.org/" itwr_raw_link="//archive.org/">Internet Archive</a>,
+          a 501(c)(3) non-profit, building a digital library of
+          Internet sites and other cultural artifacts in digital form.
+          <br/>Other <a href="https://archive.org/projects/" itwr_raw_link="//archive.org/projects/">projects</a> include
+          <a href="https://openlibrary.org/" itwr_raw_link="https://openlibrary.org/">Open Library</a> &amp;
+          <a href="https://archive-it.org" itwr_raw_link="https://archive-it.org">archive-it.org</a>.
+        </p>
+<p>
+          Your use of the Wayback Machine is subject to the Internet Archive's
+          <a href="https://archive.org/about/terms.php" itwr_raw_link="//archive.org/about/terms.php">Terms of Use</a>.
+        </p>
+</div>
+</footer>
+</div></body></html>
