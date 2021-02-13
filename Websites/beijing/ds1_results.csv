@@ -1,0 +1,24 @@
+Api Content,Api Type
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[1],PROP_CHANGED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[3],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[2],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[1],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2],PROP_CHANGED
+/html/body/div[4]/div[1]/div[1]/div[4]/ul[1]/li[1],NODE_REMOVED
+/html/body/div[3]/div[1]/div[3]/ul[1]/li[2],PROP_CHANGED
+/html/body/div[3]/div[1]/div[3]/ul[1]/li[1],NODE_REMOVED
+/html/body/div[3]/div[1]/div[2]/div[1]/div[2],NODE_REMOVED
+/html/body/div[3]/div[1]/div[2]/div[1]/p[2],PROP_CHANGED
+/html/body/div[3]/div[1]/div[2]/div[1]/p[1],NODE_REMOVED
+/html/body/div[3]/div[1]/div[2]/div[1],NODE_ADDED
+/html/body/div[3]/div[1]/div[1]/a[2],PROP_CHANGED
+/html/body/div[3]/div[1]/div[1]/a[1],NODE_REMOVED
+/html/body/div[6]/div[1]/div[1]/div[2]/div[1]/div[1],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[7]/div[1]/div[1]/a[1],PROP_CHANGED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[10]/div[1]/div[1]/a[1],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[1]/div[1]/a[1],PROP_CHANGED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[1]/div[1]/a[1],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[7],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[5],NODE_ADDED
+/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[1]/div[1],NODE_REMOVED
