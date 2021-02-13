@@ -52,6 +52,9 @@ api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [History-based-change
 ### Semantics-based Visual Search
 This module detects the position and structure of different graphical elements through the use of optical character recognition (OCR), edge detection, and contour processing techniques to generate graphical areas that correspond to pictures or text areas on the web page. Then it is used to extract the visual hierarchical relationship among the web pages layout elements. The source code is in [graphic-image-analysis](graphic-image-analysis).
 
+### Results
+The experiment results are in [Results](Results). Please check out [Results/README.md](README.md) for more details.
+
 ## Acknowledgement
 [Vista](https://github.com/saltlab/vista)
 
