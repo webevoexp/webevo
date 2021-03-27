@@ -1,0 +1,128 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,Dynamic?,DOM,CV,Result,Vista,GroundTruth
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[4],Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<on>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[1],<>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[4],,,,FP,TP,TP,TP,?? link in ?? U
+[NODE_ADDED],a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[3],,,,,,,,,,,FP,TP,TP,NA,??? link in ?? U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[3],Y,FP,,,,
+[NODE_ADDED],a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[2],,,,,,,,,,,FP,FP,FP,NA,?? link in ?? U
+[NODE_ADDED],a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/a[1],,,,,,,,,,,FP,TP,TP,NA,?? link in ?? U
+[PROP_CHANGED],,,class,<btn-next btn-next-disabled>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2],<btn-next>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2],,,,TP,FP,TP,TP,right arrow in ???? U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[1]/div[1]/div[4]/ul[1]/li[1],,FP,TP,TP,TP,???? link in ???? U
+[PROP_CHANGED],,,class,<>,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[2],<on>,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[1],,,,FP,TP,TP,TP,?? button in header nav. U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[1],,FP,TP,TP,TP,?? button in header nav. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[3]/div[1]/div[2]/div[1]/div[2],,TP,TP,TP,TP-draw.cpp,invisible div. D
+[PROP_CHANGED],,,class,<slogan>,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[2],<appintro-title>,p,/html/body/div[3]/div[1]/div[2]/div[2]/p[1],,,,FP,TP,TP,TP-draw.cpp,invisible div. D
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[1],,TP,TP,TP,TP-draw.cpp,invisible div. D
+[NODE_ADDED],div,/html/body/div[3]/div[1]/div[2]/div[1],,,,,,,,,,,FP,FP,FP,NA,U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[2],Y,FP,,,,
+[PROP_CHANGED],,,class,<nav-register>,a,/html/body/div[3]/div[1]/div[1]/a[2],<nav-login>,a,/html/body/div[3]/div[1]/div[1]/a[1],,,,TP,TP,TP,TP,?? U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[3]/div[1]/div[1]/a[1],,FP,TP,TP,TP,?? U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[1],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[4],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[3],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[2],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[3]/div[2]/ul[1]/li[1],Y,FP,,,,
+[NODE_ADDED],div,/html/body/div[6]/div[1]/div[1]/div[2]/div[1]/div[1],,,,,,,,,,,TP,FP,TP,NA,A
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[7]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[10]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[7]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[10]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[7]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[10]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[10]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<on>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[7]/div[1]/div[1]/a[1],<>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[10]/div[1]/div[1]/a[2],,,,FP,TP,TP,FP,?? link in ?? U
+[NODE_ADDED],a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[10]/div[1]/div[1]/a[1],,,,,,,,,,,TP,TP,TP,NA,?? link in ?? A
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[6]/ul[1]/li[5]/div[1]/ul[1]/li[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[6]/ul[1]/li[1]/div[1]/ul[1]/li[1],Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[2]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<pic hot>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[2]/ul[1]/li[1]/div[1],<pic>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[2]/ul[1]/li[1]/div[1],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<on>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6]/div[1]/div[1]/a[1],<>,a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[1]/div[1]/a[2],,,,FP,TP,TP,FP,?? in ?? .U
+[NODE_ADDED],a,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[9]/div[1]/div[1]/a[1],,,,,,,,,,,FP,TP,TP,NA,?? link in ??
+[NODE_ADDED],div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[7],,,,,,,,,,,FP,FP,FP,NA,?? div. U
+[NODE_ADDED],div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[6],,,,,,,,,,,TP,FP,TP,NA,?? div A
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[9],Y,FP,,,,
+[NODE_ADDED],div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[5],,,,,,,,,,,FP,FP,FP,NA,?? div. U
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[8],Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[4],<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],Y,FP,,,,
+[PROP_CHANGED],,,class,<pic hot>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[2]/div[1],<pic>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[2]/div[1],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<pic hot>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[1]/div[1],<pic>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[2]/ul[1]/li[1]/div[1],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[3]/div[1]/div[1],,FP,TP,TP,TP,??tabs.U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[7],Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[6],Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[4]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[3]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<pic>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[2]/div[1],<pic hot>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[2]/div[1],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[6]/div[1]/div[1]/div[2]/div[5]/ul[1]/li[5],Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<pic>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[1],<pic hot>,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[2]/div[2]/ul[1]/li[1]/div[1],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[6]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<time>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[4],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[3],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<month>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],<day>,span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[2],,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/ul[1]/li[5]/div[2]/div[2]/span[1],,,,,,,,,,Y,FP,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,DELETE,,,,,,,,,,,,,,,
+??,,??,,,,,,,,,,,,,,,
+?? div.,/html/body/div[6]/div[1]/div/div[1]/div[5]/div[2],??,,,,,,,,,,,,,,,
+,,2016?????,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
