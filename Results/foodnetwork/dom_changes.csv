@@ -1,0 +1,163 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/span[1],,,,,,,,,
+[PROP_CHANGED],,,id,<mod-card-17>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1],<mod-card-11>,div,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[1],,
+[NODE_ADDED],a,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[1]/div[2]/a[1],,,,,,,,,
+[PROP_CHANGED],,,class,<m-FeatureCard__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],<a-Button a-Button m-FeatureCard__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[11]
+[PROP_CHANGED],,,class,<parbase storyPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[10],<storyPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[10],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/div[5]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/div[4]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/div[3]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[10]/section[1]/div[1]/div[1]/div[1]/div[1]
+[PROP_CHANGED],,,class,<videoPlaylistEmbed parbase section>,div,/html/body/section[1]/div[4]/div[1]/div[9],<videoPlaylistEmbed section>,div,/html/body/section[1]/div[4]/div[1]/div[9],,
+[PROP_CHANGED],,,class,<m-VideoPlayer__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1],<a-Button a-Button m-VideoPlayer__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1],,,,,,,,,
+[PROP_CHANGED],,,id,<player64768>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],<player68687>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],,
+[PROP_CHANGED],,,id,<player64768.controls>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[9],<player68687.controls>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[9],,
+[PROP_CHANGED],,,id,<player64768.overlays>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[8],<player68687.overlays>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[8],,
+[PROP_CHANGED],,,id,<player64768.cards>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[7],<player68687.cards>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[7],,
+[PROP_CHANGED],,,id,<player64768.subtitles>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6],<player68687.subtitles>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6],,
+[NODE_ADDED],div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1],,,,,,,,,
+[PROP_CHANGED],,,id,<player64768.standby>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5],<player68687.standby>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5],,
+[PROP_CHANGED],,,id,<player64768.standby.playButtonHolder>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1],<player68687.standby.playButtonHolder>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1],,
+[PROP_CHANGED],,,id,<player64768.blocker>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4],<player68687.blocker>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4],,
+[PROP_CHANGED],,,id,<player64768.plugins>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3],<player68687.plugins>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]
+[PROP_CHANGED],,,id,<player64768.controlBlocker>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2],<player68687.controlBlocker>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2],,
+[PROP_CHANGED],,,id,<player64768.player>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],<player68687.player>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],,
+[PROP_CHANGED],,,id,<player64768.content>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1],<player68687.content>,div,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1],,
+[NODE_ADDED],header,/html/body/section[1]/div[4]/div[1]/div[9]/section[1]/header[1],,,,,,,,,
+[PROP_CHANGED],,,class,<parbase storyPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[8],<storyPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[8],,
+[NODE_ADDED],p,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[9]/div[1]/p[1],,,,,,,,,
+[PROP_CHANGED],,,class,<m-StoryCard__m-TextWrap m-TextWrap>,div,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[8]/div[1],<m-StoryCard__m-TextWrap m-TextWrap has-Attribution>,div,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[8]/div[1],,
+[NODE_ADDED],p,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[8]/div[1]/p[1],,,,,,,,,
+[NODE_ADDED],p,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[7]/div[1]/p[1],,,,,,,,,
+[NODE_ADDED],p,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[6]/div[1]/p[1],,,,,,,,,
+[NODE_ADDED],p,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/p[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]
+[NODE_ADDED],p,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[4]/div[1]/p[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[8]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[7],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[7],,
+[PROP_CHANGED],,,id,<mod-full-width-promo-6>,section,/html/body/section[1]/div[4]/div[1]/div[7]/section[1],<mod-full-width-promo-5>,section,/html/body/section[1]/div[4]/div[1]/div[7]/section[1],,
+[PROP_CHANGED],,,id,<mod-card-12>,div,/html/body/section[1]/div[4]/div[1]/div[7]/section[1]/div[1]/div[1]/div[1]/div[1],<mod-card-10>,div,/html/body/section[1]/div[4]/div[1]/div[7]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<o-FullWidthPromo__m-FeatureCard m-FeatureCard m-FeatureCard--Gallery>,div,/html/body/section[1]/div[4]/div[1]/div[7]/section[1]/div[1]/div[1]/div[1]/div[1],<o-FullWidthPromo__m-FeatureCard m-FeatureCard m-FeatureCard--Article>,div,/html/body/section[1]/div[4]/div[1]/div[7]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[NODE_ADDED],div,/html/body/section[1]/div[4]/div[1]/div[7]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1],,,,,,,,,
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[6],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[6],,
+[PROP_CHANGED],,,id,<mod-full-width-promo-5>,section,/html/body/section[1]/div[4]/div[1]/div[6]/section[1],<mod-full-width-promo-4>,section,/html/body/section[1]/div[4]/div[1]/div[6]/section[1],,
+[PROP_CHANGED],,,id,<mod-card-11>,div,/html/body/section[1]/div[4]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]/div[1],<mod-card-9>,div,/html/body/section[1]/div[4]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[5],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[5],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[5]/div[1]
+[NODE_REMOVED],,,,,,,,,,section,/html/body/section[1]/div[4]/div[1]/div[5]/section[1]
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[5]/span[1]
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[4],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[4],,
+[PROP_CHANGED],,,class,<l-Columns l-Columns--2up>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1],<l-Columns l-Columns--1up>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[2]
+[PROP_CHANGED],,,class,<o-FullWidthPromo__m-Card m-Card m-Card--Article>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1],<o-FullWidthPromo__m-FeatureCard m-FeatureCard m-FeatureCard--Article>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[3]
+[PROP_CHANGED],,,class,<m-Card__m-TextWrap m-TextWrap>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2],<m-FeatureCard__m-TextWrap m-TextWrap>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2],,
+[NODE_ADDED],div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],,,,,,,,,
+[PROP_CHANGED],,,class,<m-Card__a-Headline>,h4,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h4[1],<m-FeatureCard__a-Headline>,h4,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h4[1],,
+[PROP_CHANGED],,,class,<m-Card__a-HeadlineText>,span,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h4[1]/a[1]/span[1],<m-FeatureCard__a-HeadlineText>,span,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h4[1]/a[1]/span[1],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<m-Card__m-MediaWrap m-MediaWrap>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1],<m-FeatureCard__m-MediaWrap m-MediaWrap>,div,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]
+[PROP_CHANGED],,,class,<m-Card__m-ResponsiveImage--Link>,a,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],<m-FeatureCard__m-ResponsiveImage--Link>,a,/html/body/section[1]/div[4]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],,
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[3],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[3],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+[PROP_CHANGED],,,class,<pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links>,div,/html/body/div[9],<>,div,/html/body/div[7],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[2],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[2],,
+[PROP_CHANGED],,,class,<m-Card__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/div[2]/a[1],<a-Button a-Button m-Card__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/div[2]/a[1],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/div[2]/a[1]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/div[2]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/span[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]
+[PROP_CHANGED],,,class,<o-FullWidthPromo__m-Card m-Card m-Card--Gallery>,div,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1],<o-FullWidthPromo__m-Card m-Card m-Card--Article>,div,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<footer parbase>,div,/html/body/section[1]/div[7],<footer>,div,/html/body/section[1]/div[7],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]
+[PROP_CHANGED],,,class,<superLeadHero parbase section>,div,/html/body/section[1]/div[4]/div[1]/div[1],<superLeadHero section>,div,/html/body/section[1]/div[4]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<parbase header>,div,/html/body/section[1]/div[1],<header>,div,/html/body/section[1]/div[1],,
+[NODE_ADDED],li,/html/body/section[1]/div[1]/header[1]/div[1]/nav[1]/div[2]/ul[1]/li[4],,,,,,,,,
+[NODE_ADDED],li,/html/body/section[1]/div[1]/header[1]/div[1]/nav[1]/div[2]/ul[1]/li[3],,,,,,,,,
+[NODE_ADDED],li,/html/body/section[1]/div[1]/header[1]/div[1]/nav[1]/div[2]/ul[1]/li[2],,,,,,,,,
+[NODE_ADDED],li,/html/body/section[1]/div[1]/header[1]/div[1]/nav[1]/div[2]/ul[1]/li[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[1]/header[1]/div[1]/div[3]/div[2]
+[PROP_CHANGED],,,class,<is-WatchSite>,li,/html/body/section[1]/div[1]/header[1]/div[1]/div[3]/div[1]/ul[1]/li[6],<o-HeaderFresh__IconLink>,li,/html/body/section[1]/div[1]/header[1]/div[1]/div[3]/div[1]/ul[1]/li[8],,
+[NODE_ADDED],span,/html/body/section[1]/div[1]/header[1]/div[1]/div[3]/div[1]/ul[1]/li[8]/a[1]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<is-AdChoices>,li,/html/body/section[1]/div[7]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3],<>,li,/html/body/section[1]/div[7]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[5],,
+[PROP_CHANGED],,,class,<>,li,/html/body/section[1]/div[1]/header[1]/div[1]/div[3]/div[1]/ul[1]/li[5],<is-WatchSite>,li,/html/body/section[1]/div[1]/header[1]/div[1]/div[3]/div[1]/ul[1]/li[7],,
+[PROP_CHANGED],,,class,<servicecomponents cloudservices>,div,/html/body/div[4],<wb-autocomplete-suggestions>,div,/html/body/div[2],,
+[PROP_CHANGED],,,id,<>,div,/html/body/div[3],<wm-ipp-base>,div,/html/body/div[1],,
+[PROP_CHANGED],,,class,<>,li,/html/body/section[1]/div[7]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1],<is-AdChoices>,li,/html/body/section[1]/div[7]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[1]
+[NODE_ADDED],li,/html/body/section[1]/div[7]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1],,,,,,,,,
+[PROP_CHANGED],,,class,<parsys main>,div,/html/body/section[1]/div[4]/div[1],<main parsys>,div,/html/body/section[1]/div[4]/div[1],,
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[17],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[16],,
+[PROP_CHANGED],,,id,<dfp_leaderboard_container_16>,div,/html/body/section[1]/div[4]/div[1]/div[17]/div[1],<dfp_leaderboard_container_15>,div,/html/body/section[1]/div[4]/div[1]/div[16]/div[1],,
+[NODE_ADDED],iframe,/html/body/iframe[2],,,,,,,,,
+[PROP_CHANGED],,,id,<mod-full-width-promo-13>,section,/html/body/section[1]/div[4]/div[1]/div[17]/section[1],<mod-full-width-promo-11>,section,/html/body/section[1]/div[4]/div[1]/div[16]/section[1],,
+[PROP_CHANGED],,,class,<l-Columns l-Columns--4up>,div,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1],<l-Columns l-Columns--3up>,div,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,id,<mod-card-30>,div,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1]/div[4],<mod-card-26>,div,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[3],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[3]/div[2]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1]/div[4]/div[1]/span[1]
+[PROP_CHANGED],,,id,<mod-card-29>,div,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1]/div[3],<mod-card-25>,div,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[2],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/span[1]
+[PROP_CHANGED],,,id,<mod-card-28>,div,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1]/div[2],<mod-card-24>,div,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[17]/section[1]/div[1]/div[1]/div[1]/div[1]
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[16],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[15],,
+[PROP_CHANGED],,,id,<dfp_leaderboard_container_15>,div,/html/body/section[1]/div[4]/div[1]/div[16]/div[1],<dfp_leaderboard_container_14>,div,/html/body/section[1]/div[4]/div[1]/div[15]/div[1],,
+[PROP_CHANGED],,,id,<mod-full-width-promo-12>,section,/html/body/section[1]/div[4]/div[1]/div[16]/section[1],<mod-full-width-promo-10>,section,/html/body/section[1]/div[4]/div[1]/div[15]/section[1],,
+[PROP_CHANGED],,,id,<mod-card-26>,div,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[3],<mod-card-23>,div,/html/body/section[1]/div[4]/div[1]/div[15]/section[1]/div[1]/div[1]/div[1]/div[3],,
+[PROP_CHANGED],,,id,<mod-card-25>,div,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[2],<mod-card-22>,div,/html/body/section[1]/div[4]/div[1]/div[15]/section[1]/div[1]/div[1]/div[1]/div[2],,
+[PROP_CHANGED],,,id,<mod-card-24>,div,/html/body/section[1]/div[4]/div[1]/div[16]/section[1]/div[1]/div[1]/div[1]/div[1],<mod-card-21>,div,/html/body/section[1]/div[4]/div[1]/div[15]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[15],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[14],,
+[PROP_CHANGED],,,id,<mod-full-width-promo-11>,section,/html/body/section[1]/div[4]/div[1]/div[15]/section[1],<mod-full-width-promo-9>,section,/html/body/section[1]/div[4]/div[1]/div[14]/section[1],,
+[PROP_CHANGED],,,id,<mod-card-23>,div,/html/body/section[1]/div[4]/div[1]/div[15]/section[1]/div[1]/div[1]/div[1],<mod-card-20>,div,/html/body/section[1]/div[4]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/section[1]/div[4]/div[1]/div[15]/section[1]/div[1]/div[1]/div[1]/div[2]/a[1]
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[14],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[13],,
+[PROP_CHANGED],,,id,<dfp_leaderboard_container_13>,div,/html/body/section[1]/div[4]/div[1]/div[14]/div[1],<dfp_leaderboard_container_12>,div,/html/body/section[1]/div[4]/div[1]/div[13]/div[1],,
+[PROP_CHANGED],,,id,<mod-full-width-promo-10>,section,/html/body/section[1]/div[4]/div[1]/div[14]/section[1],<mod-full-width-promo-8>,section,/html/body/section[1]/div[4]/div[1]/div[13]/section[1],,
+[PROP_CHANGED],,,id,<mod-card-22>,div,/html/body/section[1]/div[4]/div[1]/div[14]/section[1]/div[1]/div[1]/div[1]/div[1],<mod-card-19>,div,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[13],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[12],,
+[PROP_CHANGED],,,id,<dfp_leaderboard_container_12>,div,/html/body/section[1]/div[4]/div[1]/div[13]/div[1],<dfp_leaderboard_container_11>,div,/html/body/section[1]/div[4]/div[1]/div[12]/div[1],,
+[PROP_CHANGED],,,id,<mod-full-width-promo-9>,section,/html/body/section[1]/div[4]/div[1]/div[13]/section[1],<mod-full-width-promo-7>,section,/html/body/section[1]/div[4]/div[1]/div[12]/section[1],,
+[NODE_ADDED],div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[2],,,,,,,,,
+[PROP_CHANGED],,,id,<>,div,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1],<mod-card-15>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1],,
+[NODE_ADDED],div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[2],,,,,,,,,
+[PROP_CHANGED],,,id,<mod-card-21>,div,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1],<>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<m-FeatureCard__m-TextWrap m-TextWrap>,div,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2],<m-FeatureCard__m-ResponsiveImage m-FeatureCard__m-ResponsiveImage--3x2 m-ResponsiveImage m-ResponsiveImage--3x2>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]
+[NODE_REMOVED],,,,,,,,,,h4,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h4[1]
+[NODE_ADDED],a,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1],,,,,,,,,
+[PROP_CHANGED],,,class,<m-FeatureCard__m-MediaWrap m-MediaWrap>,div,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1],<>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<m-FeatureCard__m-ResponsiveImage--Link>,a,/html/body/section[1]/div[4]/div[1]/div[13]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],<a-Button a-Button m-FeatureCard__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],,
+[NODE_ADDED],svg,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/svg[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1],,,,,,,,,
+[NODE_ADDED],header,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/header[1],,,,,,,,,
+[PROP_CHANGED],,,class,<parbase fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[12],<fullWidthPromo section>,div,/html/body/section[1]/div[4]/div[1]/div[11],,
+[PROP_CHANGED],,,id,<dfp_leaderboard_container_11>,div,/html/body/section[1]/div[4]/div[1]/div[12]/div[1],<dfp_leaderboard_container_10>,div,/html/body/section[1]/div[4]/div[1]/div[11]/div[1],,
+[PROP_CHANGED],,,id,<mod-full-width-promo-8>,section,/html/body/section[1]/div[4]/div[1]/div[12]/section[1],<mod-full-width-promo-6>,section,/html/body/section[1]/div[4]/div[1]/div[11]/section[1],,
+[NODE_ADDED],div,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[4],,,,,,,,,
+[PROP_CHANGED],,,id,<mod-card-20>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[2]/div[3],<mod-card-14>,div,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[3],,
+[PROP_CHANGED],,,class,<o-FullWidthPromo__m-Card m-Card m-Card--Ulp>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[2]/div[3],<o-FullWidthPromo__m-Card m-Card m-Card--Gallery>,div,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[3],,
+[PROP_CHANGED],,,class,<m-Card__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[2]/div[3]/div[2]/a[1],<a-Button a-Button m-Card__a-Button>,a,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[3]/div[2]/a[1],,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[3]/div[2]/a[1]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[3]/div[2]/span[1],,,,,,,,,
+[PROP_CHANGED],,,id,<mod-card-19>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[2]/div[2],<mod-card-13>,div,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[2],,
+[NODE_ADDED],a,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[2]/div[2]/a[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[2]/div[2]/span[1],,,,,,,,,
+[PROP_CHANGED],,,id,<mod-card-18>,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[2]/div[1],<mod-card-12>,div,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[1],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/section[1]/div[4]/div[1]/div[12]/section[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]
+[NODE_ADDED],a,/html/body/section[1]/div[4]/div[1]/div[11]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1],,,,,,,,,
