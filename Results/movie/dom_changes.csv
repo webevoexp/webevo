@@ -1,0 +1,166 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath
+[NODE_ADDED],br,/html/body/div[5]/div[1]/div[1]/div[3]/br[1],,,,,,,,,
+[PROP_CHANGED],,,class,<rating-star allstar25>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[14]/ul[1]/li[3]/span[1],<rating-star allstar40>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[46]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[13],<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[45],,
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[13]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[45]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[13]/ul[1]/li[3]/span[1]
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[12]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[44]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[12]/ul[1]/li[3]/span[1]
+[PROP_CHANGED],,,class,<rating-star allstar20>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[9]/ul[1]/li[3]/span[1],<rating-star allstar30>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[41]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[8]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[40]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[8]/ul[1]/li[3]/span[1]
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[7]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[39]/ul[1]/li[3]/span[1],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[9],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[7]/ul[1]/li[3]/span[1]
+[NODE_ADDED],span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[39]/ul[1]/li[2]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<rating-star allstar35>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[6]/ul[1]/li[3]/span[1],<rating-star allstar40>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[38]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[5],<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[37],,
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[5]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[37]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[5]/ul[1]/li[3]/span[1]
+[PROP_CHANGED],,,class,<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[4],<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[36],,
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[4]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[36]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[4]/ul[1]/li[3]/span[1]
+[PROP_CHANGED],,,class,<rating-star allstar30>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/ul[1]/li[3]/span[1],<rating-star allstar20>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[35]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,id,<>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[8],<doulist>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[8],,
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[34]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[3]/span[1]
+[PROP_CHANGED],,,class,<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1],<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[33],,
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[33]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[3]/span[1]
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[32],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[31],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[30],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[29],,,,,,,,,
+[PROP_CHANGED],,,class,<mobile-app-entrance block5 app-movie>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[8],<>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[8],,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[28],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[27],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[26],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[25],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[24],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[23],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[22],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[21],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[20],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[19],,,,,,,,,
+[NODE_ADDED],ul,/html/body/div[5]/div[1]/div[1]/div[3]/div[8]/ul[1],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[18],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[17],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[16],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[15],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[14],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[13],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[12],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[11],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[10],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[9],,,,,,,,,
+[NODE_ADDED],h2,/html/body/div[5]/div[1]/div[1]/div[3]/div[8]/h2[1],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[8],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[7],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[6],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[5],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[4],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1],,,,,,,,,
+[NODE_ADDED],a,/html/body/div[4]/div[2]/a[1],,,,,,,,,
+[PROP_CHANGED],,,class,<nav-items nav-anon>,div,/html/body/div[4]/div[2]/div[1],<nav-items>,div,/html/body/div[4]/div[2]/div[1],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/div[1]/div[3]/div[8]/a[1]
+[PROP_CHANGED],,,class,<site-nav-bt>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[8],<>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[8],,
+[PROP_CHANGED],,,class,<site-nav-bt>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[7],<>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[7],,
+[PROP_CHANGED],,,class,<site-nav-bt>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[3],<>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[3],,
+[PROP_CHANGED],,,class,<site-nav-bt>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[2],<>,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[2],,
+[NODE_REMOVED],,,,,,,,,,img,/html/body/div[4]/div[2]/div[1]/ul[1]/li[2]/img[1]
+[NODE_REMOVED],,,,,,,,,,tr,/html/body/div[3]/div[1]/div[2]/ul[1]/li[10]/div[1]/table[1]/tbody[1]/tr[2]
+[NODE_REMOVED],,,,,,,,,,tr,/html/body/div[3]/div[1]/div[2]/ul[1]/li[10]/div[1]/table[1]/tbody[1]/tr[1]
+[PROP_CHANGED],,,class,<on>,li,/html/body/div[3]/div[1]/div[2]/ul[1]/li[3],<>,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[4],,
+[PROP_CHANGED],,,class,<>,li,/html/body/div[3]/div[1]/div[2]/ul[1]/li[2],<on>,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[3],,
+[NODE_ADDED],li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[1],,,,,,,,,
+[PROP_CHANGED],,,id,<contact-and-cooperation>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[7],<dale_movie_home_bottom_right>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[7],,
+[NODE_ADDED],div,/html/body/div[3]/div[1]/div[2],,,,,,,,,
+[PROP_CHANGED],,,class,<nav-register>,a,/html/body/div[3]/div[1]/div[1]/a[2],<nav-login>,a,/html/body/div[3]/div[1]/div[1]/a[1],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[3]/div[1]/div[1]/a[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[7]/div[2]
+[PROP_CHANGED],,,class,<contact-and-cooperation-hd>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[7]/div[1],<>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[7]/div[1],,
+[PROP_CHANGED],,,id,<SwfStore_dstat_0>,div,/html/body/div[6],<search_suggest>,div,/html/body/div[6],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[7]/div[1]/div[2],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[7]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/div[5]/div[1]/div[1]/div[3]/div[7]/div[1]/h2[1]
+[PROP_CHANGED],,,id,<dale_movie_home_bottom_right>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[6],<billboard>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[6],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[6]/div[2],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[6]/div[1],,,,,,,,,
+[PROP_CHANGED],,,id,<billboard>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[5],<dale_movie_home_top_right2>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[5],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[5]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[5]/div[1]
+[NODE_ADDED],ul,/html/body/div[6]/ul[1],,,,,,,,,
+[PROP_CHANGED],,,id,<dale_movie_home_top_right2>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[4],<dale_movie_home_top_right_ford>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[4],,
+[PROP_CHANGED],,,id,<dale_movie_home_top_right>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[3],<>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[3],,
+[NODE_ADDED],ul,/html/body/div[5]/div[1]/div[1]/div[3]/div[3]/ul[1],,,,,,,,,
+[NODE_ADDED],h2,/html/body/div[5]/div[1]/div[1]/div[3]/div[3]/h2[1],,,,,,,,,
+[PROP_CHANGED],,,id,<dale_movie_home_side_top>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[2],<dale_movie_home_top_right>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[2],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[2]/div[1],,,,,,,,,
+[PROP_CHANGED],,,id,<cinemas-search>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[1],<>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[1],,
+[PROP_CHANGED],,,class,<>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[1],<rating_answer>,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[1],,
+[NODE_REMOVED],,,,,,,,,,object,/html/body/div[6]/object[1]
+[NODE_ADDED],ul,/html/body/div[5]/div[1]/div[1]/div[3]/div[1]/ul[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]
+[PROP_CHANGED],,,class,<review>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[2]/div[3],<review last>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[2]/div[4],,
+[PROP_CHANGED],,,class,<allstar30>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[2]/div[2]/div[2]/div[1]/span[1],<allstar40>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[2]/div[3]/div[2]/div[1]/span[1],,
+[PROP_CHANGED],,,class,<allstar50>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[2]/div[1]/div[2]/div[1]/span[1],<allstar30>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[2]/div[2]/div[2]/div[1]/span[1],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[2]/div[1],,,,,,,,,
+[PROP_CHANGED],,,id,<doulists>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6],<gallery-frames>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6],,
+[PROP_CHANGED],,,class,<s>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6],<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6],,
+[PROP_CHANGED],,,id,<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2],<hot-gallery>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2],,
+[PROP_CHANGED],,,class,<doulists-bd>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2],<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[2]/span[2]/a[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2]/div[4]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2]/div[3]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2]/div[2]
+[NODE_ADDED],ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2]/ul[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[2]/div[1]
+[PROP_CHANGED],,,class,<doulists-hd>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1],<gallery-hd>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1],,,,,,,,,
+[PROP_CHANGED],,,id,<gallery-frames>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],,
+[PROP_CHANGED],,,class,<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],<gaia gaia-lite gaia-tv slide-mode>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[13],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[3],,,,,,,,,
+[PROP_CHANGED],,,id,<hot-gallery>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[2],<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[2],,
+[NODE_ADDED],h2,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[2]/h2[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[2]/ul[1]
+[NODE_ADDED],input,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/input[1],,,,,,,,,
+[PROP_CHANGED],,,class,<gallery-hd>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[1],<detail-pop>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[1],,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[1]/h2[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[12],,,,,,,,,
+[PROP_CHANGED],,,id,<gaia>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4],<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[4]/a[1]
+[PROP_CHANGED],,,class,<list>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[4]/div[1],<slider>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[3]/div[1],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[3]/div[1]/div[2],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[3]/div[1]/div[1],,,,,,,,,
+[PROP_CHANGED],,,class,<fliter-placeholder>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[3],<fliter-wp>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[2],,
+[NODE_ADDED],h2,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[2]/h2[1],,,,,,,,,
+[NODE_ADDED],input,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/input[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[2]
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[11],,,,,,,,,
+[NODE_ADDED],iframe,/html/body/div[5]/div[1]/div[1]/div[2]/div[3]/iframe[1],,,,,,,,,
+[NODE_ADDED],ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[60]/ul[1],,,,,,,,,
+[NODE_ADDED],ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[59]/ul[1],,,,,,,,,
+[NODE_ADDED],ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[58]/ul[1],,,,,,,,,
+[PROP_CHANGED],,,class,<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[25],<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[57],,
+[PROP_CHANGED],,,class,<rating-star allstar45>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[25]/ul[1]/li[3]/span[1],<rating-star allstar35>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[57]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[24],<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[56],,
+[PROP_CHANGED],,,class,<rating-star allstar20>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[24]/ul[1]/li[3]/span[1],<rating-star allstar45>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[56]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<rating-star allstar30>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[23]/ul[1]/li[3]/span[1],<rating-star allstar35>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[55]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<rating-star allstar35>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[22]/ul[1]/li[3]/span[1],<rating-star allstar40>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[54]/ul[1]/li[3]/span[1],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[3]/div[10],,,,,,,,,
+[PROP_CHANGED],,,class,<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[21],<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[53],,
+[PROP_CHANGED],,,class,<rating-star allstar15>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[21]/ul[1]/li[3]/span[1],<rating-star allstar40>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[53]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<subject-rate>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[20]/ul[1]/li[3]/span[2],<text-tip>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[52]/ul[1]/li[3]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[20]/ul[1]/li[3]/span[1]
+[PROP_CHANGED],,,class,<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[19],<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[51],,
+[PROP_CHANGED],,,class,<rating-star allstar25>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[19]/ul[1]/li[3]/span[1],<rating-star allstar40>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[51]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[17],<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[49],,
+[PROP_CHANGED],,,class,<rating-star allstar30>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[17]/ul[1]/li[3]/span[1],<rating-star allstar40>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[49]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<rating-star allstar15>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[15]/ul[1]/li[3]/span[1],<rating-star allstar45>,span,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[47]/ul[1]/li[3]/span[1],,
+[PROP_CHANGED],,,class,<ui-slide-item>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[14],<ui-slide-item s>,li,/html/body/div[5]/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[46],,
