@@ -1,0 +1,234 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,Dynamic?,DOM,CV,Result,Vista,GroundTruth
+[PROP_CHANGED],,,class,<fa fa-thumbs-o-up fa-2x>,i,/html/body/div[6]/footer[1]/a[2]/i[1],<fa fa-thumbs-o-up w3-xxlarge>,i,/html/body/div[9]/footer[1]/a[1]/i[1],,,,TP,FN,TP,FP,bottom i. U
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[9]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[9]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[8]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[8]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[3],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[3],,,,TP,TP,TP,FP,copyright 1999-2016. U
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[7]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[7]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[6]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[6]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[5]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[5]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[2],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[2],,,,TP,TP,TP,FP,cookie and privacy policy. U
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[4]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[4]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[3]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[3]/span[1],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[1],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[1],,,,TP,TP,TP,FN,terms of use. U
+[NODE_ADDED],h3,/html/body/div[9]/div[1]/div[2]/div[1]/h3[1],,,,,,,,,,,FP,TP,TP,NA,HTML Example. U
+[NODE_REMOVED],,,,,,,,,,h4,/html/body/div[6]/div[1]/div[2]/div[1]/h4[1],,FP,,,,HTML Example.
+[PROP_CHANGED],,,class,<w3-col l6 w3-center section>,div,/html/body/div[6]/div[1]/div[1],<w3-col l6 w3-center>,div,/html/body/div[9]/div[1]/div[1],,,,TP,TP,TP,FP,HTML... U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[1]/div[1]/a[2],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[1]/div[1]/a[2],,,,TP,TP,TP,TP,HTML Reference. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[1]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[1]/div[1]/a[1],,,,TP,TP,TP,TP,Learn HTML. U
+[PROP_CHANGED],,,class,<>,p,/html/body/div[6]/div[1]/div[1]/p[1],<w3-xlarge w3-text-dark-grey>,p,/html/body/div[9]/div[1]/div[1]/p[1],,,,TP,TP,TP,FP,The language for building.... U
+[PROP_CHANGED],,,id,<sidemenu>,nav,/html/body/nav[6],<nav_exercises>,nav,/html/body/nav[5],,,,FP,FN,FN,FP,U.
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[27],,TP,TP,TP,FP,learn ajax. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[26],,FP,FN,FN,FP,learn xslt. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[25],,FP,FN,FN,FP,learn xml. U
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[6],,FP,FN,FN,FP,XML Tutorials. U
+[NODE_REMOVED],,,,,,,,,,nav,/html/body/div[6]/footer[1]/nav[1],,FP,TP,TP,FP,Forum|About. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[24],,FP,FN,FN,FP,web certificates in nav. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[23],,FP,FN,FN,TP,web statistics. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[22],,TP,TP,TP,FP,web building .D
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[5],,FP,FN,FN,FP,Web Building h2 .U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[21],,TP,TP,TP,FP,learn asp.net D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[20],,FP,FN,FN,FP,learn asp U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[19],,FP,FN,FN,FP,learn php. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[18],,FP,FN,FN,FP,learn sql. U
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[4],,FP,TP,TP,FP,Server Side. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[17],,TP,TP,TP,FP,learn html games. D
+[NODE_REMOVED],,,,,,,,,,br,/html/body/div[6]/footer[1]/br[1],,TP,TP,TP,TP,D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[16],,TP,TP,TP,FP,learn google maps. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[15],,FP,FN,FN,FP,learn icons. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[14],,TP,TP,TP,FP,learn svg. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[13],,TP,TP,TP,FP,learn canvas. D
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[3],,TP,TP,TP,TP,Html Graphics. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[12],,FP,FN,FN,FP,learn json. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[11],,FP,FN,FN,FP,learn anularjs. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[10],,TP,TP,TP,FP,learn appml. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[9],,TP,TP,TP,FP,learn jquerymobile. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[8],,FP,FN,FN,FP,learn jquery. U
+[NODE_ADDED],div,/html/body/div[9]/footer[1]/div[1],,,,,,,,,,,TP,TP,TP,NA,A
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[7],,FP,FN,FN,FP,learn javascript. U
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[2],,FP,FN,FN,TP,JavaScript. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[6],,TP,FN,TP,FP,learn foundation. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[5],,FP,FN,FN,FP,learn bootstrap. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[4],,FP,FN,FN,FP,learn w3.css. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[3],,FP,FN,FN,FP,learn css. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[6]/footer[1]/a[1],,FP,TP,TP,FP,web certificates. U
+[NODE_ADDED],div,/html/body/div[9]/div[12],,,,,,,,,,,FP,,,,
+[NODE_ADDED],table,/html/body/table[1],,,,,,,,,,,TP,FN,TP,NA,invisible table. A
+[NODE_ADDED],div,/html/body/div[9]/div[11],,,,,,,,,,,TP,FP,TP,NA,How to section div. A
+[NODE_ADDED],div,/html/body/div[9]/div[10],,,,,,,,,,,TP,FP,TP,NA,Web Templates div. A
+[NODE_ADDED],div,/html/body/div[9]/div[9],,,,,,,,,,,TP,FP,TP,NA,Excercises div. A
+[PROP_CHANGED],,,class,<w3-row>,div,/html/body/div[6]/div[5],<w3-row w3-white>,div,/html/body/div[9]/div[8],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[5]/div[3]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[8]/div[3]/a[2],,,,FP,TP,TP,TP,Learn bootstrap ::Learn bootstrap3 U
+[NODE_ADDED],a,/html/body/div[9]/div[8]/div[3]/a[1],,,,,,,,,,,FP,TP,TP,NA,learn bootstrap3. U
+[NODE_ADDED],h4,/html/body/div[9]/div[8]/div[3]/h4[1],,,,,,,,,,,FP,TP,TP,NA,A CSS framework for designing...in Bootstrap div. U
+[NODE_ADDED],div,/html/body/div[8],,,,,,,,,,,TP,FN,TP,NA,myaccordion div. A
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[5]/div[3]/p[1],,FP,,,,Bootstrap is a css framework....
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[62],,,,,,,,,,,TP,FP,TP,NA,Exercises - bootstrap exercises. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[61],,,,,,,,,,,TP,FP,TP,NA,C# exercises. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[60],,,,,,,,,,,TP,FP,TP,NA,C++. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[59],,,,,,,,,,,TP,FP,TP,NA,Java. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[58],,,,,,,,,,,TP,FP,TP,NA,Python. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[57],,,,,,,,,,,TP,FP,TP,NA,PHP. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[56],,,,,,,,,,,TP,FP,TP,NA,SQL. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[55],,,,,,,,,,,TP,FP,TP,NA,Javascript. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[54],,,,,,,,,,,TP,FP,TP,NA,CSS. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[53],,,,,,,,,,,TP,FP,TP,NA,HTML. A
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[5]/div[3]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[8]/div[3]/h2[1],,,,TP,TP,TP,TP,Bootstrap h2 in lower div. U
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[8],,,,,,,,,,,TP,FP,TP,NA,Exercises A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[52],,,,,,,,,,,TP,FP,TP,NA,References-UTF-8. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[51],,,,,,,,,,,TP,FP,TP,NA,Sass. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[50],,,,,,,,,,,TP,FP,TP,NA,Angular. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[49],,,,,,,,,,,TP,FP,TP,NA,Java. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[48],,,,,,,,,,,TP,TP,TP,NA,w3.css. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[47],,,,,,,,,,,TP,TP,TP,NA,Bootstrap4. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[46],,,,,,,,,,,TP,TP,TP,NA,Bootstrap3. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[45],,,,,,,,,,,TP,FP,TP,NA,Python. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[44],,,,,,,,,,,TP,TP,TP,NA,JQuery. A
+[NODE_ADDED],iframe,/html/body/iframe[1],,,,,,,,,,,TP,TP,TP,NA,invisible. A
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[5]/div[2],<w3-col l4 w3-center>,div,/html/body/div[9]/div[8]/div[2],,,Y,FP,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[43],,,,,,,,,,,TP,FP,TP,NA,PHP. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[42],,,,,,,,,,,TP,FP,TP,NA,SQL. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[41],,,,,,,,,,,TP,FP,TP,NA,JS. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[40],,,,,,,,,,,TP,TP,TP,NA,CSS. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[39],,,,,,,,,,,TP,TP,TP,NA,HTML. A
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[7],,,,,,,,,,,TP,FP,TP,NA,References. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[38],,,,,,,,,,,TP,FP,TP,NA,XML Tutorials-learn xquery. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[37],,,,,,,,,,,TP,FP,TP,NA,Learn xpath. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[36],,,,,,,,,,,FP,,,,learn xslt.
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[35],,,,,,,,,,,TP,FP,TP,NA,learn xml schema. A
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/div[5]/div[2]/a[1],<w3-hover-opacity>,a,/html/body/div[9]/div[8]/div[2]/a[1],,,Y,FP,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[34],,,,,,,,,,,TP,FP,TP,NA,XML DTD. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[33],,,,,,,,,,,TP,FP,TP,NA,XML DOM. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[32],,,,,,,,,,,TP,TP,TP,NA,XML AJAX. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[31],,,,,,,,,,,FP,,,,Learn xml.
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[6],,,,,,,,,,,FP,,,,XML Tutorial
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[30],,,,,,,,,,,TP,FP,TP,NA,Web building-web development. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[29],,,,,,,,,,,TP,FP,TP,NA,web editor. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[28],,,,,,,,,,,TP,TP,TP,NA,web certificates. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[27],,,,,,,,,,,FP,,,,web statistics.
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[26],,,,,,,,,,,TP,FP,TP,NA,web templates. A
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[5]/div[2]/h2[1],<w3-xxlarge>,h2,/html/body/div[6]/div[5]/div[2]/h2[1],,,,FP,TP,TP,FN,Color Picker. U
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[5],,,,,,,,,,,FP,,,,Web Building
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[25],,,,,,,,,,,TP,FP,TP,NA,Programming-learn c# A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[24],,,,,,,,,,,TP,FP,TP,NA,C++. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[23],,,,,,,,,,,TP,FP,TP,NA,JAVA. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[22],,,,,,,,,,,TP,FP,TP,NA,Python. A
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[4],,,,,,,,,,,TP,FP,TP,NA,Programming. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[21],,,,,,,,,,,TP,FP,TP,NA,Raspberry pi. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[20],,,,,,,,,,,TP,FP,TP,NA,Node.js A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[19],,,,,,,,,,,FP,,,,ASP
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[18],,,,,,,,,,,FP,,,,PHP
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[5]/div[1],<w3-col l4 w3-center>,div,/html/body/div[9]/div[8]/div[1],,,,TP,TP,TP,FP,W3.CSS lower div. U
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[17],,,,,,,,,,,FP,,,,SQL
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[5]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[8]/div[1]/a[1],,,,TP,TP,TP,TP,Learn W3.CSS button. U
+[NODE_ADDED],h4,/html/body/nav[1]/div[1]/div[3]/h4[1],,,,,,,,,,,FP,,,,side nav-server side
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[16],,,,,,,,,,,TP,FP,TP,NA,Side nav-javascript-w3.js. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[15],,,,,,,,,,,TP,TP,TP,NA,Learn ajax. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[14],,,,,,,,,,,FP,,,,learn json.
+[NODE_ADDED],h4,/html/body/div[9]/div[8]/div[1]/h4[1],,,,,,,,,,,FP,TP,TP,NA,A modern css framework for faster...U
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[13],,,,,,,,,,,FP,,,,learn angular js.
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[12],,,,,,,,,,,TP,FP,TP,NA,learn react. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[11],,,,,,,,,,,FP,,,,learn jquery.
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[10],,,,,,,,,,,FP,,,,learn javascript.
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[5]/div[1]/p[1],,FP,,,,CSS for fast....
+[NODE_ADDED],h4,/html/body/nav[1]/div[1]/div[2]/h4[1],,,,,,,,,,,FP,,,,JavaScript in side nav
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[9],,,,,,,,,,,TP,FP,TP,NA,HTML and CSS - sass. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[8],,,,,,,,,,,TP,FP,TP,NA,learn how to. A
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[5]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[8]/div[1]/h2[1],,,,TP,TP,TP,TP,W3.CSS h2 in lower div. U
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[7],,,,,,,,,,,TP,FP,TP,NA,learn graphics. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[6],,,,,,,,,,,TP,TP,TP,NA,learn icons. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[5],,,,,,,,,,,TP,FP,TP,NA,learn colors. A
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[4],,,,,,,,,,,FP,,,,learn w3.css
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[3],,,,,,,,,,,FP,,,,learn bootstrap.
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[2],,,,,,,,,,,FP,,,,learn css
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[1],,,,,,,,,,,FP,,,,learn html
+[PROP_CHANGED],,,class,<w3-col m4>,div,/html/body/nav[2]/div[1]/div[1],<w3-container>,div,/html/body/nav[1]/div[1]/div[1],,,,FP,,,,References-HTML div+CSS div
+[PROP_CHANGED],,,class,<w3-row w3-light-grey>,div,/html/body/div[6]/div[4],<w3-row w3-dark-grey w3-padding-32>,div,/html/body/div[9]/div[7],,,,TP,TP,TP,FN,SQL+PHP+JQUERY lower div. U
+[NODE_ADDED],h4,/html/body/nav[1]/div[1]/div[1]/h4[1],,,,,,,,,,,FP,,,,side nav-HTML and css h4
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[4]/div[3],<w3-col l6 w3-center>,div,/html/body/div[9]/div[7]/div[4],,,,FP,TP,TP,FP,JQUERY lower div. U
+[NODE_ADDED],div,/html/body/div[7],,,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],div,/html/body/div[6],,,,,,,,,,,FP,FP,FP,NA,google translate.U
+[PROP_CHANGED],,,id,<nav_menu-xs>,div,/html/body/div[5],<googleSearch>,div,/html/body/div[5],,,,FP,FN,FN,FN,invisible D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[3],,TP,FN,TP,TP,invisible. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/a[3],,TP,FN,TP,TP,invisible. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[2],,TP,FN,TP,TP,invisible. D
+[PROP_CHANGED],,,class,<>,div,/html/body/div[6],<w3-main>,div,/html/body/div[9],,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/a[2],,TP,FN,TP,TP,invisible. D
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[1],,,,,,,,,,,FP,,,,google search.
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/a[1],,TP,FN,TP,TP,invisible. D
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/a[1],,TP,FN,TP,TP,invisible. D
+[PROP_CHANGED],,,class,<w3-theme w3-card-2 w3-topnav w3-right-align w3-slim>,div,/html/body/div[4],<w3-hide-large w3-hide-large w3-padding-16>,div,/html/body/div[4],,,,FP,TP,TP,TP,top nav. U
+[PROP_CHANGED],,,class,<topnavlinks>,div,/html/body/div[4]/div[1],<w3-center w3-wide w3-hide-small>,div,/html/body/div[4]/div[2],,,,FP,TP,TP,FP,part of top nav. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[5],,FP,FP,FP,FP,translate icon. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[4]/div[3]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[7]/div[4]/div[1]/a[1],,,,FP,TP,TP,TP,Learn jquery button. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[4],,FP,FP,FP,FP,search w3 icon. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[3],,FP,TP,TP,FP,Examples-navbtn. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[2],,FP,TP,TP,FP,References-navbtn. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[1],,FP,TP,TP,FP,Tutorials-navbtn. U
+[NODE_ADDED],div,/html/body/div[4]/div[1],,,,,,,,,,,TP,FP,TP,NA,invisible. D
+[NODE_ADDED],div,/html/body/div[3]/div[2]/div[1],,,,,,,,,,,FP,TP,TP,NA,The world's largest developer.....U
+[NODE_ADDED],div,/html/body/div[3]/div[1],,,,,,,,,,,FP,FP,FP,NA,W3schools.com U
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[4]/div[1]/div[1],,,,,,,,,,,TP,FP,TP,NA,Java lower div-A programming language. A
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[3]/a[1],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[4]/div[3]/div[1]/p[1],,FP,TP,TP,FP,A javascript library for developing....U
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[4]/div[3]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[7]/div[4]/div[1]/h2[1],,,,FP,TP,TP,TP,JQuery h2 in jquery lower div. U
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[9]/div[7]/div[2]/div,<w3-col l6 w3-center>,div,/html/body/div[9]/div[7]/div[3],,,,FP,TP,TP,FN,PHP lower div. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[4]/div[2]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[7]/div[3]/div[1]/a[1],,,,FP,TP,TP,FN,Learn PHP button. U
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[3]/div[1]/div[1],,,,,,,,,,,FP,,,,A javascript library for developing....
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[4]/div[2]/div[1]/p[1],,FP,TP,TP,FP,A webserver programming....U
+[PROP_CHANGED],,,class,<w3-container w3-light-grey w3-center w3-padding-jumbo w3-text-black-opacity>,footer,/html/body/div[6]/footer[1],<w3-container w3-dark-grey w3-center w3-padding-32>,footer,/html/body/div[9]/footer[1],,,,TP,TP,TP,FN,Web certificates lower div. U
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[4]/div[2]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[7]/div[3]/div[1]/h2[1],,,,FP,TP,TP,TP,PHP h2 in php lower div. U
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[4]/div[1],<w3-col l6 w3-center>,div,/html/body/div[9]/div[7]/div[2],,,,FP,TP,TP,FP,SQL lower div. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[4]/div[1]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[7]/div[2]/div[1]/a[1],,,,FP,TP,TP,TP,Learn SQL button. U
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[2]/div[1]/div[1],,,,,,,,,,,,,,,A webserver programming....
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[4]/div[1]/div[1]/p[1],,FP,TP,TP,FP,A language for accessing databases. U
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[4]/div[1]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[7]/div[2]/div[1]/h2[1],,,,FP,TP,TP,FP,SQL h2 in sql lower div. U
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[1],,,,,,,,,,,TP,FP,TP,NA,Python lower div. A
+[PROP_CHANGED],,,class,<w3-row>,div,/html/body/div[6]/div[3],<w3-row w3-light-grey w3-hide-large>,div,/html/body/div[9]/div[6],,,,FP,TP,TP,TP,Javascript middle div. U
+[PROP_CHANGED],,,class,<w3-col l6 section sectionexample>,div,/html/body/div[6]/div[3]/div[2],<w3-col l6 w3-hide-small>,div,/html/body/div[9]/div[6]/div[2],,,,FP,FP,FP,FP,Javascript example. U
+[NODE_ADDED],a,/html/body/div[9]/div[6]/div[2]/a[1],,,,,,,,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[6]/div[3]/div[2]/div[1]/a[1],,FP,TP,TP,TP,Try it yourself button. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[3]/div[2]/div[1]/div[1],,FP,TP,TP,FP,U
+[NODE_ADDED],span,/html/body/div[9]/div[6]/div[2]/div[1]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,h4,/html/body/div[6]/div[3]/div[2]/div[1]/h4[1],,FP,TP,TP,FP,Javascript example h U
+[NODE_ADDED],h3,/html/body/div[9]/div[6]/div[2]/h3[1],,,,,,,,,,,TP,TP,TP,NA,sql example h3 in sql middle div. A
+[PROP_CHANGED],,,class,<w3-col l6 w3-center section>,div,/html/body/div[6]/div[3]/div[1],<w3-col l6 w3-center>,div,/html/body/div[9]/div[6]/div[1],,,,FP,FP,FP,TP,left part of Javascript middle div. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[3]/div[1]/a[2],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[6]/div[1]/a[2],,,,FP,TP,TP,TP,javascript reference button. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[3]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[6]/div[1]/a[1],,,,FP,TP,TP,TP,Learn javascript button. U
+[PROP_CHANGED],,,class,<>,p,/html/body/div[6]/div[3]/div[1]/p[1],<w3-xlarge>,p,/html/body/div[9]/div[6]/div[1]/p[1],,,,FP,TP,TP,FP,The language for programming web pages. U
+[NODE_ADDED],div,/html/body/div[9]/div[5],,,,,,,,,,,TP,FP,TP,NA,SQL middle div. A
+[NODE_ADDED],div,/html/body/div[9]/div[4],,,,,,,,,,,FP,,,,Javascript middle div.
+[PROP_CHANGED],,,class,<w3-row w3-light-grey>,div,/html/body/div[6]/div[2],<w3-row w3-light-grey w3-hide-medium w3-hide-small>,div,/html/body/div[9]/div[2],,,,TP,TP,TP,TP,CSS middle div. U
+[PROP_CHANGED],,,class,<w3-col l6 w3-center section css-hide-when-small>,div,/html/body/div[6]/div[2]/div[3],<w3-col l6 w3-center>,div,/html/body/div[9]/div[2]/div[2],,,,TP,TP,TP,TP,right part of css middle div. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[2]/div[3]/a[2],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[2]/div[2]/a[2],,,,TP,TP,TP,TP,CSS reference button. U
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[2]/div[3]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[2]/div[2]/a[1],,,,TP,TP,TP,TP,Learn css button. U
+[PROP_CHANGED],,,class,<>,p,/html/body/div[6]/div[2]/div[3]/p[1],<w3-xlarge>,p,/html/body/div[9]/div[2]/div[2]/p[1],,,,TP,TP,TP,FP,The language for styling web pages. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[2]/div[2],,FP,TP,TP,TP,left part of css middle div. U
+[NODE_ADDED],div,/html/body/div[9]/div[2]/div[1]/div[1],,,,,,,,,,,FP,,,,left part of css middle div.
+[NODE_ADDED],h3,/html/body/div[9]/div[2]/div[1]/h3[1],,,,,,,,,,,FP,TP,TP,NA,css example h. U
+[PROP_CHANGED],,,class,<w3-row>,div,/html/body/div[6]/div[1],<w3-row w3-margin-bottom>,div,/html/body/div[9]/div[1],,,,TP,TP,TP,FP,HTML middle div. U
+[PROP_CHANGED],,,class,<w3-col l6 section sectionexample>,div,/html/body/div[6]/div[1]/div[2],<w3-col l6>,div,/html/body/div[9]/div[1]/div[2],,,,TP,TP,TP,FP,right part of HTML middle div. U
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/a[2],<w3-hover-text-light-grey>,a,/html/body/div[9]/footer[1]/a[1],,,,TP,,,,Line 1
+[PROP_CHANGED],,,class,<w3-btn w3-theme>,a,/html/body/div[6]/div[1]/div[2]/div[1]/a[1],<w3-button w3-theme w3-hover-green w3-hover-shadow>,a,/html/body/div[9]/div[1]/div[2]/div[1]/a[1],,,,TP,TP,TP,TP,U
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[11]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[11]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[10]/span[2],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[10]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[5]/div[1]/p[1],,FP,TP,TP,FN,CSS for fast....U
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not deteced by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,,,,,,,,,,,,,,,,
+Exercises middle div,,,,,,,,,,,,,,,,,
+Quizzes button in web certificates div.,,,,,,,,,,,,,,,,,
+Exercises button in web certificates div.,,,,,,,,,,,,,,,,,
+Browse Templates button in web templates div.,,,,,,,,,,,,,,,,,
+Learn how to button in How To Section div.,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicates the element is added/updated/deleted. Note without A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
