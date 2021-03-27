@@ -1,0 +1,111 @@
+ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,DOM,CV,Result,Vista,GroundTruth
+[PROP_CHANGED],,,,class,<>,div,/html/body/div[11],<clearfix>,div,/html/body/div[14],,,TP,FP,TP,FP-draw.cpp,blank div. U
+[NODE_ADDED],,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[5]/div[1]/ul[3]/li[2],,,,,,,,,,FP,FP,FP,NA,Business-return services S
+[NODE_REMOVED],,,,,,,,,,,span,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[3]/div[1]/ul[2]/div[1]/a[1]/span[1],TP,FP,TP,TP,"in Track&Manage, span below See what's coming....img. D"
+[PROP_CHANGED],,,,class,<>,div,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1],<repos>,div,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1],,,TP,FP,TP,FP,Mail&ship popup. U
+[NODE_ADDED],,ul,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[3],,,,,,,,,,FP,FP,FP,NA,Mail & ship - the 3rd column. A
+[NODE_REMOVED],,,,,,,,,,,ul,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/ul[2],FP,FP,FP,FN-ff,Mail&ship-shipping restrictions-location change. U
+[NODE_REMOVED],,,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[6],TP,FP,TP,TP,D
+[NODE_REMOVED],,,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[5],FP,FP,FP,FP+FN,location change. U
+[NODE_REMOVED],,,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[4],FP,FP,FP,FP+FN,location change. U
+[NODE_ADDED],,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/ul[1]/li[1],,,,,,,,,,TP,FP,TP,NA,Mail&ship-sending mail. U
+[NODE_REMOVED],,,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[2],FP,FP,FP,FP+FN,location change. U
+[PROP_CHANGED],Y,,,class,<bot-promos>,div,/html/body/div[10],<usps-updates>,div,/html/body/div[13],,,FP,,,,
+[NODE_REMOVED],,,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[1],TP,FP,TP,TP,D
+[PROP_CHANGED],Y,,,class,<homepage-rotating-photo-container>,div,/html/body/div[10]/div[1],<container-fluid>,div,/html/body/div[13]/div[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<secondImage>,div,/html/body/div[10]/div[1]/div[2],<row justify-content-center align-top>,div,/html/body/div[13]/div[1]/div[2],,,FP,,,,
+[NODE_ADDED],,a,/html/body/div[13]/div[1]/div[2]/div[3]/p[2]/a[1],,,,,,,,,,TP,TP,TP,NA,"read more under Europe, China...A"
+[NODE_ADDED],,p,/html/body/div[13]/div[1]/div[2]/div[3]/p[1],,,,,,,,,,TP,FP,TP,NA,"p under Europe, China...A"
+[NODE_ADDED],,h3,/html/body/div[13]/div[1]/div[2]/div[3]/h3[1],,,,,,,,,,TP,FP,TP,NA,"h3-Europe, China & Hong kong A"
+[NODE_ADDED],,noscript,/html/body/noscript[4],,,,,,,,,,TP,TP,TP,NA,invisible noscript. A
+[PROP_CHANGED],Y,,,class,<secondImageContentWrapper>,div,/html/body/div[10]/div[1]/div[2]/div[2],<col-12 col-sm-12 col-md-12 col-lg-4 text-left article>,div,/html/body/div[13]/div[1]/div[2]/div[2],,,FP,,,,
+[PROP_CHANGED],,,,class,<imageText>,p,/html/body/div[10]/div[1]/div[2]/div[2]/p[1],<>,p,/html/body/div[13]/div[1]/div[2]/div[2]/p[2],,,FP,FP,FP,FP-draw,"invisible -Labor day is Monday, Sep 1. U"
+[NODE_ADDED],,a,/html/body/div[13]/div[1]/div[2]/div[2]/p[2]/a[1],,,,,,,,,,TP,FP,TP,NA,find out more under Jobs with USPS. A
+[NODE_ADDED],,p,/html/body/div[13]/div[1]/div[2]/div[2]/p[1],,,,,,,,,,TP,FP,TP,NA,p under Jobs with USPS. A
+[NODE_REMOVED],,,,,,,,,,,h2,/html/body/div[10]/div[1]/div[2]/div[2]/h2[1],TP,TP,TP,TP-draw,h2-Postal Holidays. D
+[NODE_ADDED],,noscript,/html/body/noscript[3],,,,,,,,,,TP,TP,TP,NA,invisible noscript. A
+[NODE_ADDED],,h3,/html/body/div[13]/div[1]/div[2]/div[2]/h3[1],,,,,,,,,,TP,FP,TP,NA,h3-Jobs with USPS. A
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/div[10]/div[1]/div[2]/div[2]/a[1],TP,TP,TP,TP-draw,D
+[PROP_CHANGED],Y,,,class,<secondImageContentWrapper chosen>,div,/html/body/div[10]/div[1]/div[2]/div[1],<col-12 col-sm-12 col-md-12 col-lg-4 text-left article>,div,/html/body/div[13]/div[1]/div[2]/div[1],,,FP,,TP,,
+[PROP_CHANGED],Y,,,class,<imageText>,p,/html/body/div[10]/div[1]/div[2]/div[1]/p[1],<>,p,/html/body/div[13]/div[1]/div[2]/div[1]/p[2],,,FP,,TP,,
+[NODE_ADDED],,a,/html/body/div[13]/div[1]/div[2]/div[1]/p[2]/a[1],,,,,,,,,,TP,FP,TP,NA,see all holidays under Upcoming USPS Holidays.A
+[NODE_REMOVED],,,,,,,,,,,span,/html/body/div[10]/div[1]/div[2]/div[1]/p[1]/span[1],FP,FP,FP,FP+FN,Shop now link of Current stamp pricing Location change; link to button. U
+[NODE_ADDED],,p,/html/body/div[13]/div[1]/div[2]/div[1]/p[1],,,,,,,,,,TP,FP,TP,NA,p of Upcoming USPS Holidays. A
+[NODE_REMOVED],,,,,,,,,,,h2,/html/body/div[10]/div[1]/div[2]/div[1]/h2[1],TP,FP,TP,FP,h2-Current Stamp Pricing. D
+[NODE_ADDED],,h3,/html/body/div[13]/div[1]/div[2]/div[1]/h3[1],,,,,,,,,,TP,FP,TP,NA,h3-Upcoming USPS Holidays.A
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/div[10]/div[1]/div[2]/div[1]/a[1],TP,TP,TP,FP,remove-stamp img. D
+[NODE_ADDED],,noscript,/html/body/noscript[2],,,,,,,,,,TP,TP,TP,NA,invisible noscript. A
+[PROP_CHANGED],Y,,,class,<firstImage>,div,/html/body/div[10]/div[1]/div[1],<row justify-content-center align-items-center>,div,/html/body/div[13]/div[1]/div[1],,,FP,,,,Check mail outside the box div
+[PROP_CHANGED],,,,class,<firstImageContentWrapper chosen>,div,/html/body/div[10]/div[1]/div[1]/div[1],<col-12 col-sm-12 col-md-12 text-lg-center text-md-left>,div,/html/body/div[13]/div[1]/div[1]/div[1],,,TP,FP,TP,FP,U.
+[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[10]/div[1]/div[1]/div[1]/p[1],TP,FP,TP,FP,D
+[PROP_CHANGED],,,,class,<imageHeader>,h2,/html/body/div[10]/div[1]/div[1]/div[1]/h2[1],<header-2>,h2,/html/body/div[13]/div[1]/div[1]/div[1]/h2[1],,,FP,TP,TP,FP,Preparing to move. D
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/div[10]/div[1]/div[1]/div[1]/a[1],TP,TP,TP,FP,D
+[NODE_ADDED],,div,/html/body/div[12],,,,,,,,,,TP,FP,TP,NA,blank div. A
+[NODE_ADDED],,div,/html/body/div[11],,,,,,,,,,FP,FP,TP,NA,stamps div. U
+[NODE_ADDED],,div,/html/body/div[10],,,,,,,,,,TP,FP,TP,NA,blank div. A
+[PROP_CHANGED],,,,class,<mobile-panels>,div,/html/body/div[9],<featured-usps>,div,/html/body/div[9],,,FP,FP,FP,FN,invisible -mobile panels. D
+[NODE_ADDED],,img,/html/body/img[1],,,,,,,,,,TP,TP,TP,NA,invisible img. A
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[9]/div[3],TP,FP,TP,TP,Grow your business. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[9]/div[2],FP,FP,FP,FP+FN,Apply for a passport div location change. U
+[PROP_CHANGED],,,,class,<section--show-hide>,div,/html/body/div[9]/div[1],<container-fluid>,div,/html/body/div[9]/div[1],,,FP,TP,TP,FN,invisible -mobile panels. D
+[NODE_ADDED],,div,/html/body/div[9]/div[1]/div[5],,,,,,,,,,TP,TP,TP,NA,small business support div. A
+[PROP_CHANGED],,,,class,<panel>,div,/html/body/div[9]/div[1]/div[2],<row justify-content-center>,div,/html/body/div[9]/div[1]/div[4],,,FP,TP,FP,FN,invisible -mobile panels. D
+[NODE_REMOVED],,,,,,,,,,,span,/html/body/div[9]/div[1]/div[2]/span[2],TP,TP,TP,TP,Manage your po box. D
+[NODE_ADDED],,div,/html/body/div[9]/div[1]/div[4]/div[2],,,,,,,,,,TP,FP,TP,NA,change of address div. A
+[NODE_REMOVED],,,,,,,,,,,span,/html/body/div[9]/div[1]/div[2]/span[1],TP,TP,TP,TP,get a new po box. D
+[NODE_ADDED],,div,/html/body/div[9]/div[1]/div[4]/div[1],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[9]/div[1]/div[2]/p[1],TP,TP,TP,TP,a po box is a ....D
+[NODE_ADDED],,div,/html/body/div[16],,,,,,,,,,TP,FP,TP,NA,invisible div. A
+[NODE_ADDED],,div,/html/body/div[9]/div[1]/div[3],,,,,,,,,,FP,TP,TP,NA,Passport services div. Location change
+[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[9]/div[1]/p[2],TP,TP,TP,TP,Manage your po box. D
+[NODE_ADDED],,div,/html/body/div[9]/div[1]/div[2],,,,,,,,,,TP,TP,TP,NA,Click-N-Ship (and Save) div. A
+[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[9]/div[1]/p[1],TP,TP,TP,TP,a po box is a ....D
+[PROP_CHANGED],,,,class,<section-title>,div,/html/body/div[9]/div[1]/div[1],<row justify-content-center title-case>,div,/html/body/div[9]/div[1]/div[1],,,FP,TP,TP,FN,invisible -mobile panels. D
+[NODE_ADDED],,div,/html/body/div[9]/div[1]/div[1]/div[1],,,,,,,,,,TP,FP,TP,NA,Featured USPS ....A
+[NODE_ADDED],,section,/html/body/section[2],,,,,,,,,,TP,FP,TP,NA,Our priority is you div. A
+[NODE_ADDED],,section,/html/body/section[1],,,,,,,,,,TP,FP,TP,NA,Alert see how USPS...A
+[PROP_CHANGED],,,,id,<ge-overlay>,div,/html/body/div[8],<>,div,/html/body/div[8],,,FP,TP,TP,FN,blank div
+[NODE_REMOVED],,,,,,,,,,,iframe,/html/body/iframe[1],TP,TP,TP,TP,invisible iframe. D
+[NODE_ADDED],,div,/html/body/div[8]/div[2],,,,,,,,,,TP,FP,TP,NA,div below gallery. A
+[NODE_ADDED],,div,/html/body/div[8]/div[1],,,,,,,,,,FP,TP,TP,NA,div below gallery. U
+[PROP_CHANGED],,,,class,<homepage-blades>,div,/html/body/div[7],<clearfix>,div,/html/body/div[7],,,FP,TP,TP,FP,div contains PO BOX ~ Grow your...
+[NODE_REMOVED],,,,,,,,,,,ul,/html/body/div[7]/ul[1],TP,TP,TP,FP,div contains PO BOX ~ Grow your... D
+[PROP_CHANGED],,,,class,<qm-con>,div,/html/body/div[6],<jumbotron track-opt mobile>,div,/html/body/div[6],,,FP,TP,TP,FP,U.
+[PROP_CHANGED],,,,class,<quickMenu>,div,/html/body/div[6]/div[1],<container-fluid>,div,/html/body/div[6]/div[1],,,FP,TP,TP,FP,U.
+[PROP_CHANGED],,,,class,<stampContainer quickMenuItem>,div,/html/body/div[6]/div[1]/div[3],<row align-items-center d-block d-lg-none d-xl-none align-self-center mobile-text>,div,/html/body/div[6]/div[1]/div[3],,,FP,FP,FP,TP,U.
+[NODE_ADDED],,p,/html/body/div[6]/div[1]/div[3]/p[2],,,,,,,,,,TP,TP,TP,NA,disclaimer in gallery. A
+[NODE_ADDED],,p,/html/body/div[6]/div[1]/div[3]/p[1],,,,,,,,,,TP,TP,TP,NA,p in galllery. A
+[NODE_ADDED],,h2,/html/body/div[6]/div[1]/div[3]/h2[1],,,,,,,,,,TP,TP,TP,NA,h2 in gallery. A
+[NODE_REMOVED],,,,,,,,,,,li,/html/body/div[12]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[1],FP,FP,FP,TP,business customer gateway link in footer. U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[6]/div[1]/div[3]/div[1],FP,TP,TP,TP,stamps and supplies-location change. U
+[PROP_CHANGED],,,,class,<shipContainer quickMenuItem>,div,/html/body/div[6]/div[1]/div[2],<row align-items-center d-block d-lg-none d-xl-none>,div,/html/body/div[6]/div[1]/div[2],,,FP,TP,TP,FP,click-n-ship. U
+[NODE_ADDED],,img,/html/body/div[6]/div[1]/div[2]/img[1],,,,,,,,,,TP,TP,TP,NA,img in gallery. A
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[6]/div[1]/div[2]/div[1],FP,TP,TP,FP+FN,click-n-ship location change
+[PROP_CHANGED],,,,class,<trackContainer quickMenuItem>,div,/html/body/div[6]/div[1]/div[1],<row align-items-center d-block d-lg-none>,div,/html/body/div[6]/div[1]/div[1],,,FP,TP,TP,FP,track a package U
+[PROP_CHANGED],,,,class,<quickMenuItemWrapper>,div,/html/body/div[6]/div[1]/div[1]/div[1],<col-12 align-self-center>,div,/html/body/div[6]/div[1]/div[1]/div[1],,,FP,TP,TP,FP,track a package U
+[PROP_CHANGED],,,,id,<content--form-trackconfirm>,form,/html/body/div[6]/div[1]/div[1]/div[1]/form[1],<>,form,/html/body/div[6]/div[1]/div[1]/div[1]/form[1],,,FP,TP,TP,FP,track a package U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[6]/div[1]/div[1]/div[1]/form[1]/div[2],TP,FP,TP,FP,track package button D
+[NODE_ADDED],,span,/html/body/div[6]/div[1]/div[1]/div[1]/form[1]/span[1],,,,,,,,,,,,,,track a package search box in International popup S
+[NODE_ADDED],,li,/html/body/div[15]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[1],,,,,,,,,,FP,FP,FP,NA,Contact Us link in footer. U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[6]/div[1]/div[1]/div[1]/form[1]/div[1],FP,TP,TP,FP+FN,enter tracking number box. U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[1],TP,FP,TP,FP,h2 -Track a Package. D
+[PROP_CHANGED],Y,,,class,<hero-wrapper>,div,/html/body/div[5],<jumbotron premium track-opt>,div,/html/body/div[5],,,FP,,TP,,
+[PROP_CHANGED],Y,,,class,<homepage-hero-image>,div,/html/body/div[5]/div[1],<container-fluid>,div,/html/body/div[5]/div[1],,,FP,,TP,,
+[PROP_CHANGED],Y,,,class,<image-content>,div,/html/body/div[5]/div[1]/div[1],<row align-items-center d-none d-lg-block>,div,/html/body/div[5]/div[1]/div[1],,,FP,,TP,,
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1],,,,,,,,,,TP,,,,gallery div
+[NODE_REMOVED],Y,,,,,,,,,,a,/html/body/div[5]/div[1]/div[1]/a[1],TP,,,,
+[NODE_ADDED],,h1,/html/body/h1[1],,,,,,,,,,TP,FP,TP,NA,h1 -USPS.com Home Page. A
+[NODE_REMOVED],,,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[7]/div[1]/ul[1]/li[1],TP,FP,TP,FP,Help-finding missing mail. D
+[NODE_ADDED],,ul,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[6]/div[1]/ul[2]/ul[2],,,,,,,,,,TP,FP,TP,NA,International-shipping restrictions. A
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,,,,,,,,,,,,,,,,
+Informed Delivery,/html/body/div[8]/div[1]/div/div/div[4]/div,,,,,,,,,,,,,,,,
+Feedback link in footer,/html/body/div[15]/footer/nav/ol[1]/li/ol/li[4]/a,,,,,,,,,,,,,,,,
+DELETE,,,,,,,,,,,,,,,,,
+Our Innovations Help...,/html/body/div[5]/div/div/a/span[3],,,,,,,,,,,,,,,,
+Order Boxes button,"//*[@id=""orderButton""]",,,,,,,,,,,,,,,,
+CyberSafe at USPS link in footer,/html/body/div[12]/footer/nav/ol[2]/li[2]/ol/li[8]/a,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicate element is added/updated/deleted. Notes w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
