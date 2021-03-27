@@ -1,21 +1,21 @@
 ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,Dynamic?,DOM,CV,Result,Vista,GroundTruth
 [PROP_CHANGED],,,class,<fa fa-thumbs-o-up fa-2x>,i,/html/body/div[6]/footer[1]/a[2]/i[1],<fa fa-thumbs-o-up w3-xxlarge>,i,/html/body/div[9]/footer[1]/a[1]/i[1],,,,TP,FN,TP,FP,bottom i. U
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[9]/span[2],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[9]/span[1],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[8]/span[2],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[8]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[14],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[13],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[12],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[11],Y,FP,,,,
 [PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[3],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[3],,,,TP,TP,TP,FP,copyright 1999-2016. U
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[7]/span[2],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[7]/span[1],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[6]/span[2],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[6]/span[1],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[5]/span[2],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[5]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[10],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[9],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[8],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[7],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[6],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[5],Y,FP,,,,
 [PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[2],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[2],,,,TP,TP,TP,FP,cookie and privacy policy. U
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[4]/span[2],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[4]/span[1],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[3]/span[2],,,,,,,,,,Y,FP,,,,
-[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[3]/span[1],,,,,,,,,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[4],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[3],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[2],Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[6]/div[1]/div[2]/div[1]/div[1]/span[1],Y,FP,,,,
 [PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[1],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[1],,,,TP,TP,TP,FN,terms of use. U
 [NODE_ADDED],h3,/html/body/div[9]/div[1]/div[2]/div[1]/h3[1],,,,,,,,,,,FP,TP,TP,NA,HTML Example. U
 [NODE_REMOVED],,,,,,,,,,h4,/html/body/div[6]/div[1]/div[2]/div[1]/h4[1],,FP,,,,HTML Example.
