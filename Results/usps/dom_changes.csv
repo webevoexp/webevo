@@ -1,0 +1,99 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath
+[PROP_CHANGED],,,class,<>,div,/html/body/div[11],<clearfix>,div,/html/body/div[14],,
+[NODE_ADDED],li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[5]/div[1]/ul[3]/li[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[3]/div[1]/ul[2]/div[1]/a[1]/span[1]
+[PROP_CHANGED],,,class,<>,div,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1],<repos>,div,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1],,
+[NODE_ADDED],ul,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[3],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/ul[2]
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[6]
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[5]
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[4]
+[NODE_ADDED],li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/ul[1]/li[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[2]
+[PROP_CHANGED],,,class,<bot-promos>,div,/html/body/div[10],<usps-updates>,div,/html/body/div[13],,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[2]/div[1]/ul[2]/li[1]
+[PROP_CHANGED],,,class,<homepage-rotating-photo-container>,div,/html/body/div[10]/div[1],<container-fluid>,div,/html/body/div[13]/div[1],,
+[PROP_CHANGED],,,class,<secondImage>,div,/html/body/div[10]/div[1]/div[2],<row justify-content-center align-top>,div,/html/body/div[13]/div[1]/div[2],,
+[NODE_ADDED],a,/html/body/div[13]/div[1]/div[2]/div[3]/p[2]/a[1],,,,,,,,,
+[NODE_ADDED],p,/html/body/div[13]/div[1]/div[2]/div[3]/p[1],,,,,,,,,
+[NODE_ADDED],h3,/html/body/div[13]/div[1]/div[2]/div[3]/h3[1],,,,,,,,,
+[NODE_ADDED],noscript,/html/body/noscript[4],,,,,,,,,
+[PROP_CHANGED],,,class,<secondImageContentWrapper>,div,/html/body/div[10]/div[1]/div[2]/div[2],<col-12 col-sm-12 col-md-12 col-lg-4 text-left article>,div,/html/body/div[13]/div[1]/div[2]/div[2],,
+[PROP_CHANGED],,,class,<imageText>,p,/html/body/div[10]/div[1]/div[2]/div[2]/p[1],<>,p,/html/body/div[13]/div[1]/div[2]/div[2]/p[2],,
+[NODE_ADDED],a,/html/body/div[13]/div[1]/div[2]/div[2]/p[2]/a[1],,,,,,,,,
+[NODE_ADDED],p,/html/body/div[13]/div[1]/div[2]/div[2]/p[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/div[10]/div[1]/div[2]/div[2]/h2[1]
+[NODE_ADDED],noscript,/html/body/noscript[3],,,,,,,,,
+[NODE_ADDED],h3,/html/body/div[13]/div[1]/div[2]/div[2]/h3[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[10]/div[1]/div[2]/div[2]/a[1]
+[PROP_CHANGED],,,class,<secondImageContentWrapper chosen>,div,/html/body/div[10]/div[1]/div[2]/div[1],<col-12 col-sm-12 col-md-12 col-lg-4 text-left article>,div,/html/body/div[13]/div[1]/div[2]/div[1],,
+[PROP_CHANGED],,,class,<imageText>,p,/html/body/div[10]/div[1]/div[2]/div[1]/p[1],<>,p,/html/body/div[13]/div[1]/div[2]/div[1]/p[2],,
+[NODE_ADDED],a,/html/body/div[13]/div[1]/div[2]/div[1]/p[2]/a[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[10]/div[1]/div[2]/div[1]/p[1]/span[1]
+[NODE_ADDED],p,/html/body/div[13]/div[1]/div[2]/div[1]/p[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/div[10]/div[1]/div[2]/div[1]/h2[1]
+[NODE_ADDED],h3,/html/body/div[13]/div[1]/div[2]/div[1]/h3[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[10]/div[1]/div[2]/div[1]/a[1]
+[NODE_ADDED],noscript,/html/body/noscript[2],,,,,,,,,
+[PROP_CHANGED],,,class,<firstImage>,div,/html/body/div[10]/div[1]/div[1],<row justify-content-center align-items-center>,div,/html/body/div[13]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<firstImageContentWrapper chosen>,div,/html/body/div[10]/div[1]/div[1]/div[1],<col-12 col-sm-12 col-md-12 text-lg-center text-md-left>,div,/html/body/div[13]/div[1]/div[1]/div[1],,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[10]/div[1]/div[1]/div[1]/p[1]
+[PROP_CHANGED],,,class,<imageHeader>,h2,/html/body/div[10]/div[1]/div[1]/div[1]/h2[1],<header-2>,h2,/html/body/div[13]/div[1]/div[1]/div[1]/h2[1],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[10]/div[1]/div[1]/div[1]/a[1]
+[NODE_ADDED],div,/html/body/div[12],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[11],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[10],,,,,,,,,
+[PROP_CHANGED],,,class,<mobile-panels>,div,/html/body/div[9],<featured-usps>,div,/html/body/div[9],,
+[NODE_ADDED],img,/html/body/img[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[9]/div[3]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[9]/div[2]
+[PROP_CHANGED],,,class,<section--show-hide>,div,/html/body/div[9]/div[1],<container-fluid>,div,/html/body/div[9]/div[1],,
+[NODE_ADDED],div,/html/body/div[9]/div[1]/div[5],,,,,,,,,
+[PROP_CHANGED],,,class,<panel>,div,/html/body/div[9]/div[1]/div[2],<row justify-content-center>,div,/html/body/div[9]/div[1]/div[4],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[9]/div[1]/div[2]/span[2]
+[NODE_ADDED],div,/html/body/div[9]/div[1]/div[4]/div[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[9]/div[1]/div[2]/span[1]
+[NODE_ADDED],div,/html/body/div[9]/div[1]/div[4]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[9]/div[1]/div[2]/p[1]
+[NODE_ADDED],div,/html/body/div[16],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[9]/div[1]/div[3],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[9]/div[1]/p[2]
+[NODE_ADDED],div,/html/body/div[9]/div[1]/div[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[9]/div[1]/p[1]
+[PROP_CHANGED],,,class,<section-title>,div,/html/body/div[9]/div[1]/div[1],<row justify-content-center title-case>,div,/html/body/div[9]/div[1]/div[1],,
+[NODE_ADDED],div,/html/body/div[9]/div[1]/div[1]/div[1],,,,,,,,,
+[NODE_ADDED],section,/html/body/section[2],,,,,,,,,
+[NODE_ADDED],section,/html/body/section[1],,,,,,,,,
+[PROP_CHANGED],,,id,<ge-overlay>,div,/html/body/div[8],<>,div,/html/body/div[8],,
+[NODE_REMOVED],,,,,,,,,,iframe,/html/body/iframe[1]
+[NODE_ADDED],div,/html/body/div[8]/div[2],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[8]/div[1],,,,,,,,,
+[PROP_CHANGED],,,class,<homepage-blades>,div,/html/body/div[7],<clearfix>,div,/html/body/div[7],,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/div[7]/ul[1]
+[PROP_CHANGED],,,class,<qm-con>,div,/html/body/div[6],<jumbotron track-opt mobile>,div,/html/body/div[6],,
+[PROP_CHANGED],,,class,<quickMenu>,div,/html/body/div[6]/div[1],<container-fluid>,div,/html/body/div[6]/div[1],,
+[PROP_CHANGED],,,class,<stampContainer quickMenuItem>,div,/html/body/div[6]/div[1]/div[3],<row align-items-center d-block d-lg-none d-xl-none align-self-center mobile-text>,div,/html/body/div[6]/div[1]/div[3],,
+[NODE_ADDED],p,/html/body/div[6]/div[1]/div[3]/p[2],,,,,,,,,
+[NODE_ADDED],p,/html/body/div[6]/div[1]/div[3]/p[1],,,,,,,,,
+[NODE_ADDED],h2,/html/body/div[6]/div[1]/div[3]/h2[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[12]/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[1]/div[3]/div[1]
+[PROP_CHANGED],,,class,<shipContainer quickMenuItem>,div,/html/body/div[6]/div[1]/div[2],<row align-items-center d-block d-lg-none d-xl-none>,div,/html/body/div[6]/div[1]/div[2],,
+[NODE_ADDED],img,/html/body/div[6]/div[1]/div[2]/img[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[1]/div[2]/div[1]
+[PROP_CHANGED],,,class,<trackContainer quickMenuItem>,div,/html/body/div[6]/div[1]/div[1],<row align-items-center d-block d-lg-none>,div,/html/body/div[6]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<quickMenuItemWrapper>,div,/html/body/div[6]/div[1]/div[1]/div[1],<col-12 align-self-center>,div,/html/body/div[6]/div[1]/div[1]/div[1],,
+[PROP_CHANGED],,,id,<content--form-trackconfirm>,form,/html/body/div[6]/div[1]/div[1]/div[1]/form[1],<>,form,/html/body/div[6]/div[1]/div[1]/div[1]/form[1],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[1]/div[1]/div[1]/form[1]/div[2]
+[NODE_ADDED],span,/html/body/div[6]/div[1]/div[1]/div[1]/form[1]/span[1],,,,,,,,,
+[NODE_ADDED],li,/html/body/div[15]/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[1]/div[1]/div[1]/form[1]/div[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[1]/div[1]/div[1]/div[1]
+[PROP_CHANGED],,,class,<hero-wrapper>,div,/html/body/div[5],<jumbotron premium track-opt>,div,/html/body/div[5],,
+[PROP_CHANGED],,,class,<homepage-hero-image>,div,/html/body/div[5]/div[1],<container-fluid>,div,/html/body/div[5]/div[1],,
+[PROP_CHANGED],,,class,<image-content>,div,/html/body/div[5]/div[1]/div[1],<row align-items-center d-none d-lg-block>,div,/html/body/div[5]/div[1]/div[1],,
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/div[1]/a[1]
+[NODE_ADDED],h1,/html/body/h1[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[7]/div[1]/ul[1]/li[1]
+[NODE_ADDED],ul,/html/body/div[4]/div[1]/nav[1]/ul[1]/li[6]/div[1]/ul[2]/ul[2],,,,,,,,,
