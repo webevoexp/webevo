@@ -1,0 +1,70 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath
+[NODE_ADDED],form,/html/body/form[1],,,,,,,,,
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[4],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[4]
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[3],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[3]
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[2]
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[1]
+[NODE_ADDED],icon,/html/body/main[1]/section[8]/div[1]/icon[1],,,,,,,,,
+[PROP_CHANGED],,,class,<dropdown language-selector dropdown--footer language-selector--footer>,div,/html/body/footer[1]/ul[1]/li[10]/div[1],<collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up language-selector>,div,/html/body/footer[1]/ul[1]/li[11]/div[1],,
+[NODE_REMOVED],,,,,,,,,,li-icon,/html/body/main[1]/section[8]/div[1]/li-icon[1]
+[PROP_CHANGED],,,class,<marketing__iframe onload>,iframe,/html/body/main[1]/section[6]/div[1]/div[1]/iframe[1],<marketing__iframe>,iframe,/html/body/main[1]/section[6]/div[1]/div[1]/iframe[1],,
+[PROP_CHANGED],,,class,<section>,section,/html/body/main[1]/section[5],<section section--no-min-height>,section,/html/body/main[1]/section[5],,
+[PROP_CHANGED],,,class,<brand-discovery>,div,/html/body/main[1]/section[5]/div[1],<product-cta>,div,/html/body/main[1]/section[5]/div[1],,
+[NODE_REMOVED],,,,,,,,,,img,/html/body/main[1]/section[5]/div[1]/img[1]
+[PROP_CHANGED],,,class,<brand-discovery__cta>,div,/html/body/main[1]/section[5]/div[1]/div[1],<people-cta full-width-product-cta>,div,/html/body/main[1]/section[5]/div[1]/div[1],,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[5]/div[1]/div[1]/ul[1]
+[NODE_ADDED],div,/html/body/main[1]/section[5]/div[1]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h3,/html/body/main[1]/section[5]/div[1]/div[1]/h3[1]
+[NODE_ADDED],img,/html/body/main[1]/section[5]/div[1]/div[1]/img[1],,,,,,,,,
+[NODE_ADDED],button,/html/body/footer[1]/ul[1]/li[11]/div[1]/button[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[5]/div[1]/div[1]/h2[1]
+[NODE_ADDED],div,/html/body/main[1]/div[1],,,,,,,,,
+[PROP_CHANGED],,,class,<section>,section,/html/body/main[1]/section[4],<section section--full>,section,/html/body/main[1]/section[4],,
+[PROP_CHANGED],,,class,<product-cta>,div,/html/body/main[1]/section[4]/div[1],<talent-finder-cta>,div,/html/body/main[1]/section[4]/div[1],,
+[NODE_ADDED],a,/html/body/main[1]/section[4]/div[1]/a[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[4]/div[1]/div[2]
+[NODE_ADDED],h2,/html/body/main[1]/section[4]/div[1]/h2[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[4]/div[1]/div[1]
+[PROP_CHANGED],,,class,<section section--full>,section,/html/body/main[1]/section[3],<section section--no-min-height>,section,/html/body/main[1]/section[3],,
+[PROP_CHANGED],,,class,<talent-finder-cta>,div,/html/body/main[1]/section[3]/div[1],<search-cta>,div,/html/body/main[1]/section[3]/div[1],,
+[NODE_ADDED],ul,/html/body/footer[1]/ul[1]/li[11]/div[1]/ul[1],,,,,,,,,
+[NODE_ADDED],div,/html/body/main[1]/section[3]/div[1]/div[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/main[1]/section[3]/div[1]/a[1]
+[NODE_ADDED],div,/html/body/main[1]/section[3]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[3]/div[1]/h2[1]
+[PROP_CHANGED],,,class,<section section--full>,section,/html/body/main[1]/section[2],<section section--no-min-height>,section,/html/body/main[1]/section[2],,
+[PROP_CHANGED],,,class,<search-cta>,div,/html/body/main[1]/section[2]/div[1],<feature-learning>,div,/html/body/main[1]/section[2]/div[1],,
+[NODE_ADDED],section,/html/body/main[1]/section[2]/div[1]/section[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[2]/div[1]/div[2]
+[PROP_CHANGED],,,class,<job-finder-cta>,div,/html/body/main[1]/section[2]/div[1]/div[1],<learning-cta>,div,/html/body/main[1]/section[2]/div[1]/div[1],,
+[NODE_ADDED],div,/html/body/main[1]/section[2]/div[1]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/footer[1]/ul[1]/li[10]/div[1]/div[1]
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[2]/div[1]/div[1]/h2[1]
+[NODE_ADDED],div,/html/body/main[1]/section[1]/div[2],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[11],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[9],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[8],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[7],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[6],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[5],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[4],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/footer[1]/ul[1]/li[1]/span[1]
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[3],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[2],,,,,,,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,section,/html/body/main[1]/section[1]/section[1]
+[PROP_CHANGED],,,class,<hero>,div,/html/body/main[1]/section[1]/div[1],<hero hero--with-form>,div,/html/body/main[1]/section[1]/div[1],,
+[PROP_CHANGED],,,class,<hero__illustration--mobile>,img,/html/body/main[1]/section[1]/div[1]/img[2],<hero__illustration--mobile flip-rtl>,img,/html/body/main[1]/section[1]/div[1]/img[2],,
+[PROP_CHANGED],,,class,<hero__illustration--desktop>,img,/html/body/main[1]/section[1]/div[1]/img[1],<hero__illustration--desktop flip-rtl>,img,/html/body/main[1]/section[1]/div[1]/img[1],,
+[NODE_REMOVED],,,,,,,,,,section,/html/body/nav[1]/section[2]
+[NODE_REMOVED],,,,,,,,,,section,/html/body/nav[1]/section[1]
+[NODE_ADDED],icon,/html/body/nav[1]/a[1]/icon[1],,,,,,,,,
+[NODE_ADDED],a,/html/body/footer[1]/ul[1]/li[2]/a[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/nav[1]/a[1]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[1]/a[1]
+[NODE_REMOVED],,,,,,,,,,li-icon,/html/body/footer[1]/ul[1]/li[1]/li-icon[1]
+[NODE_ADDED],li,/html/body/footer[1]/ul[1]/li[1],,,,,,,,,
