@@ -1,0 +1,73 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[2]/div[1]/div[2]/div[7]/div[1]/a[1]
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[2]/div[6],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/div[5]/div[2]/div[1]/div[2]/ul[2]
+[NODE_ADDED],span,/html/body/div[5]/div[2]/div[1]/div[2]/div[5]/div[1]/dl[7]/dd[1]/p[1]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[5]/div[2]/div[1]/div[2]/div[5]/div[1]/dl[6]/dd[1]/p[1]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[5]/div[2]/div[1]/div[2]/div[5]/div[1]/dl[4]/dd[1]/p[1]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/div[5]/div[2]/div[1]/div[2]/div[4]/div[2]/ul[2]
+[PROP_CHANGED],,,id,<amazon-book-chart-hd>,li,/html/body/div[5]/div[2]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[2],<jd-book-chart-hd>,li,/html/body/div[5]/div[2]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[1],,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[5]/div[2]/div[1]/div[2]/div[4]/div[2]/ul[1]/li[1]
+[NODE_ADDED],div,/html/body/div[6],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[2]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,iframe,/html/body/div[5]/div[2]/div[1]/div[2]/div[1]/iframe[1]
+[PROP_CHANGED],,,id,<>,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[7],<reviews>,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[8],,
+[PROP_CHANGED],,,class,<bd>,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[7]/div[2],<reviews-bd>,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[8]/div[2],,
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[1]/div[8]/div[2]/div[4],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[1]/div[8]/div[2]/div[3],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[1]/div[8]/div[2]/div[2],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[1]/div[8]/div[2]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/div[5]/div[2]/div[1]/div[1]/div[7]/div[2]/ul[1]
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[3]/div[1],,,,,,,,,
+[PROP_CHANGED],,,class,<hd>,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[7]/div[1],<reviews-hd>,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[8]/div[1],,
+[NODE_ADDED],a,/html/body/div[5]/div[2]/div[1]/div[1]/div[8]/div[1]/h2[1]/span[1]/a[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[5]/div[2]/div[1]/div[1]/div[6]/div[2]/div[1]/div[2]/p[1]/span[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[10]/div[2]/p[5]
+[PROP_CHANGED],,,class,<allstar40 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[10]/div[2]/p[1]/span[1],<allstar45 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[10]/div[2]/p[1]/span[1],,
+[PROP_CHANGED],,,class,<ml8>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[9]/div[2]/p[1]/span[3],<average-rating>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[9]/div[2]/p[1]/span[2],,
+[PROP_CHANGED],,,class,<average-rating>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[9]/div[2]/p[1]/span[2],<allstar45 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[9]/div[2]/p[1]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[9]/div[2]/p[1]/span[1]
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[2]/div[9]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[8]/div[2]/p[4]/span[1]
+[PROP_CHANGED],,,class,<allstar35 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[8]/div[2]/p[1]/span[1],<allstar45 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[8]/div[2]/p[1]/span[1],,
+[PROP_CHANGED],,,class,<ml8>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[7]/div[2]/p[1]/span[3],<average-rating>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[7]/div[2]/p[1]/span[2],,
+[PROP_CHANGED],,,class,<average-rating>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[7]/div[2]/p[1]/span[2],<allstar40 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[7]/div[2]/p[1]/span[1],,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[7]/div[2]/p[1]/span[1]
+[NODE_REMOVED],,,,,,,,,,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[6]/div[2]/p[4]/span[1]
+[PROP_CHANGED],,,class,<allstar40 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/div[2]/p[1]/span[1],<allstar50 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[4]/div[2]/p[1]/span[1],,
+[NODE_ADDED],span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]/div[2]/p[4]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<allstar45 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/div[2]/p[1]/span[1],<allstar50 star-img>,span,/html/body/div[5]/div[2]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[2]/div[2]/p[1]/span[1],,
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[1]/div[3],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,iframe,/html/body/div[5]/div[2]/div[1]/div[2]/div[8]/iframe[1]
+[NODE_ADDED],iframe,/html/body/div[5]/div[2]/div[1]/div[1]/div[2]/iframe[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[2]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[2]
+[NODE_ADDED],a,/html/body/div[4]/div[2]/a[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[2]/ul[1]/li[4]
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[2]/ul[1]/li[3]
+[NODE_ADDED],div,/html/body/div[5]/div[2]/div[1]/div[2]/div[8]/div[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[2]/ul[1]/li[2]
+[NODE_ADDED],ul,/html/body/div[4]/div[2]/div[1]/ul[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,li,/html/body/div[4]/div[2]/ul[1]/li[1]
+[NODE_REMOVED],,,,,,,,,,tr,/html/body/div[3]/div[1]/div[3]/ul[1]/li[11]/div[1]/table[1]/tbody[1]/tr[1]
+[PROP_CHANGED],,,id,<doubanapp-tip>,div,/html/body/div[3]/div[1]/div[2]/div[2],<top-nav-appintro>,div,/html/body/div[3]/div[1]/div[2]/div[2],,
+[NODE_ADDED],div,/html/body/div[3]/div[1]/div[2]/div[2]/div[1],,,,,,,,,
+[NODE_ADDED],p,/html/body/div[3]/div[1]/div[2]/div[2]/p[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[3]/div[1]/div[2]/div[2]/a[2]
+[NODE_ADDED],p,/html/body/div[3]/div[1]/div[2]/div[2]/p[1],,,,,,,,,
+[PROP_CHANGED],,,id,<>,div,/html/body/div[5]/div[2]/div[1]/div[2]/div[7]/div[1],<dale_book_home_inner_middle>,div,/html/body/div[5]/div[2]/div[1]/div[2]/div[8]/div[1],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[3]/div[1]/div[2]/div[2]/a[1]
+[PROP_CHANGED],,,id,<top-nav-appintro>,div,/html/body/div[3]/div[1]/div[2]/div[1],<doubanapp-tip>,div,/html/body/div[3]/div[1]/div[2]/div[1],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[3]/div[1]/div[2]/div[1]/div[1]
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[3]
+[NODE_ADDED],a,/html/body/div[3]/div[1]/div[2]/div[1]/a[2],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[2]
+[NODE_ADDED],a,/html/body/div[3]/div[1]/div[2]/div[1]/a[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[1]
+[PROP_CHANGED],,,class,<nav-register>,a,/html/body/div[3]/div[1]/div[1]/a[2],<nav-login>,a,/html/body/div[3]/div[1]/div[1]/a[1],,
+[PROP_CHANGED],,,class,<qrcode-app>,div,/html/body/div[5]/div[2]/div[1]/div[2]/div[7]/div[1],<>,div,/html/body/div[5]/div[2]/div[1]/div[2]/div[8]/div[1],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[3]/div[1]/div[1]/a[1]
+[NODE_ADDED],iframe,/html/body/div[5]/div[2]/div[1]/div[2]/div[8]/div[1]/iframe[1],,,,,,,,,
