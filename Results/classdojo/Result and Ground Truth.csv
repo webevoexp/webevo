@@ -1,0 +1,33 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,Dynamic?,DOM,CV,Result,Vista,GroundTruth
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[3],,FP,TP,TP,TP,whole footer. U
+[PROP_CHANGED],,,id,<>,div,/html/body/div[4]/div[2],<gatsby-announcer>,div,/html/body/div[3]/div[2],,,,FP,TP,TP,FP,learn more pages' div in main content. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[8],,FP,TP,TP,TP,Any classroom....100% free. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[7],,FP,TP,TP,FP,Bring your ...community together. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[6],,FP,TP,TP,FP,Share the story. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[5],,FP,TP,TP,FP,...digital portfolios. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[4],,TP,FP,TP,FP,Encourage...school values. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[3],,TP,FP,TP,FP,Create a positive...culture. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[2],,FP,TP,TP,TP,"Create a positive culture, Give students a voice,Share moments with parents. U"
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[8],,TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[2]/div[1],,FP,TP,TP,TP,ClassDojo connects teachers with students and parents to build amazing classroom communities. U
+[PROP_CHANGED],,,id,<>,div,/html/body/div[4]/div[1],<gatsby-focus-wrapper>,div,/html/body/div[3]/div[1],,,,FP,FP,FP,FP,top nav bar+happier classrooms
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[1]/div[1],,FP,FP,FP,FP,top nav bar+happier classrooms. U
+[NODE_REMOVED],,,,,,,,,,nav,/html/body/div[4]/nav[1],,FP,TP,FP,FP,top nav bar. U
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[1],,TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[7],,TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6],,TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5],,TP,TP,TP,TP,invisible div. D
+[PROP_CHANGED],,,id,<>,div,/html/body/div[4],<___gatsby>,div,/html/body/div[3],,,,FP,TP,TP,FP,"whole page except top ""are you a parent..."" U"
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[5],,TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[4]/div[4],,TP,TP,TP,TP,invisible div. D
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,DELETE,,UPDATE,,,,,,,,,,,,,
+Schools,/html/body/div[3]/div[1]/main/nav/div[1]/div/div/div[2]/a[2],Teacher login,/html/body/div[4]/nav/div[3]/div[2]/ul/li[3]/a,"//*[@id=""parent-code-banner""] -> /html/body/div[3]/div[1]/main/nav/div[2]",,,,,,,,,,,,,
+Login,/html/body/div[3]/div[1]/main/nav/div[1]/div/div/div[2]/a[4],Parent login,/html/body/div[4]/nav/div[3]/div[2]/ul/li[4]/a,,,,,,,,,,,,,,
+All your ...tools in one place,/html/body/div[3]/div[1]/main/section[2]/div/div[2],,,,,,,,,,,,,,,,
+Presenting?...,/html/body/div[3]/div[1]/main/section[3]/div[1],,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
