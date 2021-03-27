@@ -1,0 +1,69 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,Dynamic?,DOM,CV,Result,Vista,GroundTruth
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[4],,FP,TP,TP,FP,inclusion and diversity. U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[3],,FP,TP,TP,FP,environment. U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[2],,FP,TP,TP,FP,education. U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[1],,FP,TP,TP,FP,accessibility. U
+[NODE_ADDED],div,/html/body/footer[1]/div[1]/nav[1]/div[4]/div[2],,,,,,,,,,,FP,TP,TP,FN,Apple Values. U
+[NODE_ADDED],div,/html/body/footer[1]/div[1]/nav[1]/div[4]/div[1],,,,,,,,,,,FP,TP,TP,FN,Account. U
+[PROP_CHANGED],,,id,<viewport-emitter>,div,/html/body/div[6],<>,div,/html/body/div[8],,,,TP,FN,TP,FP-exception thrown from draw.cpp,invisible div. U
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[9],,,,,,,,,,,TP,FP,TP,NA -nosuchelementexception,Apple Trade In. A
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[8],,,,,,,,,,,FP,TP,TP,NA,Financing. U
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[7],,,,,,,,,,,FP,TP,TP,NA,Refurbished and Clearance. U
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[6],,,,,,,,,,,FP,TP,TP,NA,Apple Store App. U
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[5],,,,,,,,,,,FP,TP,TP,NA,Apple Camp. U
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[4],,,,,,,,,,,FP,TP,TP,NA,Today at Apple. U
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[3],,,,,,,,,,,FP,TP,TP,NA,Genius Bar. U
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[2],,,,,,,,,,,TP,FP,TP,NA,Shop Online. A
+[NODE_ADDED],li,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[1],,,,,,,,,,,FP,FP,FP,NA,Find a Store. U
+[NODE_ADDED],div,/html/body/div[7],,,,,,,,,,,TP,FN,TP,NA,invisible div
+[NODE_REMOVED],,,,,,,,,,div,/html/body/footer[1]/div[1]/nav[1]/div[3]/div[1],,FP,TP,TP,FP,For Education
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[8],,FP,TP,TP,FP,financing
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[7],,FP,TP,TP,FP,Refurbished and Clearance
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[6],,FP,TP,TP,FP,Apple Store App
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[5],,TP,FP,TP,FP,Field Trip. D
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[4],,FP,TP,TP,FP,Apple Camp
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[3],,FP,TP,TP,FP,Today at Apple. U
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[2],,FP,TP,TP,FP,Genius Bar
+[NODE_REMOVED],,,,,,,,,,li,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[1],,FP,TP,TP,FP,Find a Store
+[NODE_ADDED],span,/html/body/span[1],,,,,,,,,,,TP,FN,TP,NA,left invisible narrow span. A
+[NODE_ADDED],div,/html/body/footer[1]/div[1]/nav[1]/div[2]/div[1],,,,,,,,,,,TP,FP,TP,NA,Services. A
+[NODE_ADDED],section,/html/body/footer[1]/div[1]/section[1],,,,,,,,,,,TP,FP,TP,NA,trade in section. A
+[PROP_CHANGED],,,class,<main with-heroes with-promos>,main,/html/body/main[1],<main>,main,/html/body/main[1],,,Y,FP,,,,
+[NODE_ADDED],section,/html/body/main[1]/section[3],,,,,,,,,,Y,FP,,,,
+[PROP_CHANGED],,,id,<section-promos>,section,/html/body/main[1]/section[2],<>,section,/html/body/main[1]/section[2],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<homepage-section>,section,/html/body/main[1]/section[2],<homepage-section collection-module>,section,/html/body/main[1]/section[2],,,Y,FP,,,,
+[NODE_ADDED],div,/html/body/main[1]/section[2]/div[3],,,,,,,,,,Y,FP,,,,
+[NODE_ADDED],div,/html/body/main[1]/section[2]/div[2],,,,,,,,,,Y,TP,TP,,,
+[PROP_CHANGED],,,class,<js>,footer,/html/body/footer[1],<js flexbox>,footer,/html/body/footer[1],,,,TP,TP,TP,TP,whole footer. U
+[NODE_ADDED],div,/html/body/main[1]/section[2]/div[1],,,,,,,,,,Y,FP,,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[2]/ul[1],Y,FP,,,,
+[PROP_CHANGED],,,id,<section-heroes>,section,/html/body/main[1]/section[1],<>,section,/html/body/main[1]/section[1],,,Y,FP,,,,
+[PROP_CHANGED],,,class,<homepage-section>,section,/html/body/main[1]/section[1],<homepage-section collection-module>,section,/html/body/main[1]/section[1],,,Y,FP,,,,
+[NODE_ADDED],div,/html/body/main[1]/section[1]/div[2],,,,,,,,,,,TP,FP,TP,NA,shop online and get free... -second top bar. A
+[NODE_ADDED],div,/html/body/main[1]/section[1]/div[1],,,,,,,,,,,TP,FP,TP,NA,evaluate covid... -first top bar. A
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[1]/ul[1],Y,FP,,,,
+[NODE_ADDED],div,/html/body/div[3],,,,,,,,,,,FP,FP,FP,,invisible div. S
+[PROP_CHANGED],,,class,<js no-touch>,nav,/html/body/nav[1],<js no-touch no-windows>,nav,/html/body/nav[1],,,,TP,TP,TP,TP,nav. U
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/aside[1]/div[1]/div[1],,,,,,,,,,,TP,FP,TP,NA,search. A
+[NODE_REMOVED],,,,,,,,,,a,/html/body/footer[1]/div[1]/section[1]/div[1]/span[1]/a[1],,FP,FP,FP,TP,find a reseller -bottom link. U
+[NODE_REMOVED],,,,,,,,,,form,/html/body/nav[1]/div[1]/aside[1]/div[1]/form[1],,TP,FP,TP,TP draw.cpp exception,search form. D
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/ul[2]/li[10]/div[1],,,,,,,,,,,FP,TP,TP,FN,shopping bag div. U
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[1]/div[1]/ul[2]/li[10]/a[1],,FP,TP,TP,FP,shopping bag. U
+[PROP_CHANGED],,,id,<>,a,/html/body/nav[1]/div[1]/ul[2]/li[9]/a[1],<ac-gn-link-search>,a,/html/body/nav[1]/div[1]/ul[2]/li[9]/a[1],,,,TP,FP,TP,FP,search button. U
+[NODE_REMOVED],,,,,,,,,,span,/html/body/nav[1]/div[1]/ul[2]/li[9]/a[1]/span[1],,TP,FP,TP,TP -Element not found by either DOM or visual locators. Visual assertion failed. Element might be deleted?,Search apple.com. D
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[1],,,,,,,,,,,TP,FP,TP,NA,invisible search. A
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/ul[1]/li[3]/div[1],,,,,,,,,,,TP,FP,TP,NA,invisible bag div.A
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[1]/div[1]/ul[1]/li[3]/a[1],,TP,FP,TP,TP draw.cpp exception,invisible bag button. D
+[NODE_ADDED],h1,/html/body/h1[1],,,,,,,,,,,TP,FP,TP,NA,invisible h1.A
+[NODE_REMOVED],,,,,,,,,,aside,/html/body/aside[1],,,,,,invisible div. S
+[NODE_ADDED],a,/html/body/footer[1]/div[1]/section[2]/div[1]/a[1],,,,,,,,,,,FP,TP,TP,FN,Find an Apple Store -bottom link.U
+[NODE_ADDED],div,/html/body/footer[1]/div[1]/nav[1]/div[5]/div[1],,,,,,,,,,,FP,FP,FP,NA,Apple Values.
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,DELETE,,UPDATE,,,,,,,,,,,,,
+Shop for K-12,/html/body/footer/div/nav/div[4]/div[2]/ul/li[2],Reuse and Recycling,/html/body/footer/div/nav/div[2]/div/ul/li[9],iTunes -> Airpods,/html/body/footer/div/nav/div[1]/div/ul/li[7],,,,,,,,,,,,
+For Healthcare,/html/body/footer/div/nav/div[4]/div[3],,,,,,,,,,,,,,,,
+For Government,/html/body/footer/div/nav/div[4]/div[4],,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
