@@ -1,0 +1,83 @@
+ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,DOM,CV,Result,Vista,GroundTruth
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[10],,,,,,,,,,TP,TP,TP,NA,HDX. A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[9],,,,,,,,,,TP,TP,TP,NA,Stylewell A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[8],,,,,,,,,,TP,TP,TP,NA,Everbilt. A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[7],,,,,,,,,,TP,TP,TP,NA,Glacier. A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[6],,,,,,,,,,TP,TP,TP,NA,Lifeproof. A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[5],,,,,,,,,,TP,TP,TP,NA,Husky. A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[4],,,,,,,,,,TP,TP,TP,NA,Hampton Bay. A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[3],,,,,,,,,,TP,TP,TP,NA,Home. A
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[2],,,,,,,,,,FP,FP,FP,NA,blinds.com link->img. U
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[1],,,,,,,,,,FP,FP,FP,NA,company store link->img. U
+[NODE_REMOVED],disabled div,,,,,,,,,,div,/html/body/div[5],TP,TP,TP,TP,invisible div. D
+[PROP_CHANGED],,,,id,<>,li,/html/body/div[3]/div[3]/footer[1]/div[2]/nav[1]/ul[1]/li[1],<B2XCheckOrder>,li,/html/body/div[3]/div[7]/footer[1]/div[2]/nav[1]/ul[1]/li[2],,,FP,TP,TP,TP,Check Order Status <a> U
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/div[2]/nav[1]/ul[1]/li[1],,,,,,,,,,FP,TP,TP,NA,Check Order Status <li>
+[NODE_ADDED],js div,div,/html/body/div[3]/div[6],,,,,,,,,,FP,TP,TP,NA,js div-the same on both pages with different xpath. U
+[NODE_ADDED],Y,div,/html/body/div[3]/div[5],,,,,,,,,,FP,TP,,,main content
+[NODE_ADDED],,div,/html/body/div[3]/div[4],,,,,,,,,,FP,TP,TP,NA,flex container. same on both pages with different xpath. U
+[NODE_ADDED],,div,/html/body/div[3]/div[3],,,,,,,,,,FP,TP,TP,NA,invisible messagebar
+[PROP_CHANGED],Y,,,class,<>,div,/html/body/div[3]/div[2],<Header3>,div,/html/body/div[3]/div[2],,,FP,,,,
+[NODE_REMOVED],js div,,,,,,,,,,div,/html/body/div[3]/div[2]/div[22],FP,TP,TP,FN,js div-the same on both pages.
+[PROP_CHANGED],,,,id,<>,div,/html/body/div[3]/div[2]/div[21],<myStore-wrapper>,div,/html/body/div[3]/div[2]/div[2],,,FP,TP,TP,FP,Supporting local communities.
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[4],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[21]/div[1]/div[1]/div[1],TP,TP,TP,FP,Supporting local communities. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[20],TP,TP,TP,TP,invisible div.D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[19],FP,TP,TP,TP,popular categories. U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[18],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[17],TP,TP,TP,TP,invisible div. D
+[NODE_ADDED],,li,/html/body/div[3]/div[7]/footer[1]/div[3]/div[1]/ul[1]/li[1],,,,,,,,,,FP,TP,TP,NA,privacy & security statement. U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[16],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[15],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[14],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[13],FP,TP,TP,TP,"How doers get more done (moved to the top in new page, with contents changed a lot). U"
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[12],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[11],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[10],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[3]/div[2]/div[9],FP,,,,content below Today is the day for doing
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[8],TP,TP,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[7],TP,FP,TP,FP,Today is the day for doing. D
+[NODE_ADDED],,img,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[15]/a[1]/img[1],,,,,,,,,,TP,TP,TP,NA,Home Accents Holiday. A
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[6],TP,TN,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[5],TP,TN,TP,TP,invisible div. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[4],FP,TP,TP,FN,flex container
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3],FP,,,,gallery & More ways to save
+[NODE_ADDED],,span,/html/body/div[3]/div[2]/span[1],,,,,,,,,,TP,TP,TP,NA,blank span. A
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2],FP,TP,FP,TP,invisible div. D
+[NODE_ADDED],,div,/html/body/div[3]/div[2]/div[1]/div[10],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],,div,/html/body/div[3]/div[2]/div[1]/div[9],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],,div,/html/body/div[3]/div[2]/div[1]/div[8],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],invisible div:menu content,div,/html/body/div[3]/div[2]/div[1]/div[7],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],,img,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[14]/a[1]/img[1],,,,,,,,,,TP,TP,TP,NA,ecosmart. A
+[NODE_ADDED],invisible div:menu content,div,/html/body/div[3]/div[2]/div[1]/div[6],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],invisible div:menu content,div,/html/body/div[3]/div[2]/div[1]/div[5],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],,div,/html/body/div[3]/div[2]/div[1]/div[4],,,,,,,,,,FP,TP,TP,NA,menu bar-all departments ~ Local Ad. U
+[NODE_ADDED],disabled div:TypeAhead,div,/html/body/div[3]/div[2]/div[1]/div[3],,,,,,,,,,TP,TN,TP,NA,A
+[NODE_ADDED],,div,/html/body/div[3]/div[2]/div[1]/div[2],,,,,,,,,,FP,TP,TP,NA,search section. U
+[PROP_CHANGED],,,,class,<col__12-12>,div,/html/body/div[3]/div[2]/div[1]/div[1],<grid hide show--sm>,div,/html/body/div[3]/div[2]/div[1]/div[1],,,TP,FP,TP,exception. FN,narrow blank bar above gallery. U
+[NODE_ADDED],,div,/html/body/div[3]/div[2]/div[1]/div[1]/div[1],,,,,,,,,,FP,TP,TP,NA,top-store finder ~ help. U
+[PROP_CHANGED],Y,,,id,<>,div,/html/body/div[3]/div[1],<lpbuttondiv-hd>,div,/html/body/div[3]/div[1],,,FP,,,,header
+[PROP_CHANGED],,,,id,<messageBar>,div,/html/body/div[3]/div[1]/div[3],<lpbuttondiv-global>,div,/html/body/div[3]/div[1]/div[1],,,FP,FP,FP,FN,invisible messagebar. U
+[NODE_ADDED],,img,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[13]/a[1]/img[1],,,,,,,,,,TP,TP,TP,NA,DEFIANT. A
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[3]/div[1]/div[2],FP,,,,header
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[1]/div[1],TP,TP,TP,FP,60x60 blank buttondiv. D
+[NODE_REMOVED],,,,,,,,,,,cookiejar,/html/body/cookiejar[3],TP,TP,TP,TP,D
+[NODE_REMOVED],,,,,,,,,,,cookiejar,/html/body/cookiejar[2],TP,TP,TP,TP,D
+[NODE_REMOVED],,,,,,,,,,,cookiejar,/html/body/cookiejar[1],TP,TP,TP,TP,D
+[NODE_ADDED],,img,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[12]/a[1]/img[1],,,,,,,,,,TP,TP,TP,NA,traficMASTER. A
+[NODE_ADDED],,img,/html/body/div[3]/div[7]/footer[1]/nav[1]/div[2]/ul[1]/li[11]/a[1]/img[1],,,,,,,,,,TP,TP,TP,NA,Vigoro. A
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,,,,,,,,,,,,,,,,
+menu-Project Calculators,/html/body/div[3]/div[2]/div[1]/div[4]/div/ul/li[4]/a,,,,,,,,,,,,,,,,
+NEW! We deliver curbside,/html/body/div[3]/div[5]/div[2]/div[1]/div/div/nav/div[2]/a[1]/img,,,,,,,,,,,,,,,,
+Search by image or voice,/html/body/div[3]/div[5]/div[2]/div[1]/div/div/nav/div[3]/a[1]/img,,,,,,,,,,,,,,,,
+See what's in stock...,/html/body/div[3]/div[5]/div[2]/div[1]/div/div/nav/div[4]/a[1]/img,,,,,,,,,,,,,,,,
+DELETE,,,,,,,,,,,,,,,,,
+New lower prices,/html/body/div[3]/div[2]/div[13]/div/div/div[2]/div[2]/div/div/a/img,,,,,,,,,,,,,,,,
+Free & easy returns,/html/body/div[3]/div[2]/div[13]/div/div/div[2]/div[5]/div/div/a/img,,,,,,,,,,,,,,,,
+"Shop Anywhere, anytime",/html/body/div[3]/div[2]/div[13]/div/div/div[2]/div[6]/div/div/a/img,,,,,,,,,,,,,,,,
+Home Services,/html/body/div[3]/div[2]/div[13]/div/div/div[2]/div[7]/div/div/a/img,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
