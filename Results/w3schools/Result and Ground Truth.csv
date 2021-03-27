@@ -221,17 +221,3 @@ ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newT
 [NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[10]/span[2],,,,,,,,,,Y,FP,,,,
 [NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[10]/span[1],,,,,,,,,,Y,FP,,,,
 [NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[5]/div[1]/p[1],,FP,TP,TP,FN,CSS for fast....U
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-* Changed elements not deteced by WebEvo,,,,,,,,,,,,,,,,,
-ADD,,,,,,,,,,,,,,,,,
-Exercises middle div,,,,,,,,,,,,,,,,,
-Quizzes button in web certificates div.,,,,,,,,,,,,,,,,,
-Exercises button in web certificates div.,,,,,,,,,,,,,,,,,
-Browse Templates button in web templates div.,,,,,,,,,,,,,,,,,
-Learn how to button in How To Section div.,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-"* A/U/D in GroundTruth column indicates 
-the element is added/updated/deleted. 
-Note without A/U/D means the element 
-has already been counted, don't double count.",,,,,,,,,,,,,,,,,
