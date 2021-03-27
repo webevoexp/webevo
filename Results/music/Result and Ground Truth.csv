@@ -1,0 +1,119 @@
+ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,DOM,CV,Result,Vista,GroundTruth
+[NODE_ADDED],,a,/html/body/div[5]/div[2]/a[1],,,,,,,,,,TP,FP,TP,NA,A
+[NODE_ADDED],,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[5],,,,,,,,,,FP,TP,TP,NA,??? U
+[NODE_ADDED],,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[4],,,,,,,,,,TP,FP,TP,NA,?? A
+[NODE_ADDED],,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[3],,,,,,,,,,TP,FP,TP,NA,????? A
+[NODE_ADDED],,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[2],,,,,,,,,,TP,FP,TP,NA,??????? A
+[NODE_ADDED],,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[1],,,,,,,,,,FP,TP,TP,NA,??? U
+[NODE_REMOVED],,,,,,,,,,,tr,/html/body/div[3]/div[1]/div[2]/ul[1]/li[10]/div[1]/table[1]/tbody[1]/tr[2],TP,FN,TP,TP,invisible tr of ?? D
+[NODE_REMOVED],,,,,,,,,,,tr,/html/body/div[3]/div[1]/div[2]/ul[1]/li[10]/div[1]/table[1]/tbody[1]/tr[1],TP,FN,TP,TP,invisible tr of ?? D
+[PROP_CHANGED],,,,class,<on>,li,/html/body/div[3]/div[1]/div[2]/ul[1]/li[4],<>,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[5],,,FP,TP,TP,TP,?? U
+[PROP_CHANGED],,,,class,<>,li,/html/body/div[3]/div[1]/div[2]/ul[1]/li[3],<on>,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[4],,,FP,TP,TP,TP,?? U
+[NODE_ADDED],,li,/html/body/div[3]/div[1]/div[3]/ul[1]/li[1],,,,,,,,,,FP,TP,TP,NA,?? U
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[10],,,,,,,,,,TP,FN,TP,TP,invisible div. A
+[NODE_ADDED],,div,/html/body/div[3]/div[1]/div[2],,,,,,,,,,TP,TP,TP,NA,??????? A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[9],,,,,,,,,,TP,FP,TP,NA,???? A
+[PROP_CHANGED],,,,class,<s>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[7],<artist-wx-qrcode-wrap>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[8],,,FP,TP,TP,FP,??fm???+???????? div U
+[PROP_CHANGED],,,,class,<mobile-app-entrance block5 app-music>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[1],<artist-wx-qrcode>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[8]/div[1],,,FP,TP,TP,FP,U
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1],,,,,,,,,,TP,TP,TP,NA,???????? A
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[1]/a[2],TP,FP,TP,FP,???????? D
+[NODE_ADDED],,img,/html/body/div[5]/div[1]/div[1]/div[2]/div[8]/div[1]/img[1],,,,,,,,,,TP,FP,TP,NA,????????img A
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[7]/div[1]/a[1],FP,TP,TP,TP,??FM??? U
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[7],,,,,,,,,,FP,TP,TP,NA,??FM???
+[NODE_REMOVED],,,,,,,,,,,iframe,/html/body/iframe[1],TP,FN,TP,FN,invisible iframe
+[PROP_CHANGED],Y,,,class,<block5 movie_show>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6],<rec-info>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[6],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[9]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[9]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[8]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[8]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[7]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[7]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[6]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[6]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[5]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[5]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[4]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[4]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[3]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[3]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[2]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[2]/dd[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[1]/dd[1]/a[1],<primary-link>,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[6]/div[1]/dl[1]/dd[1]/a[1],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,audio,/html/body/audio[1],FP,,,,
+[PROP_CHANGED],Y,,,id,<song-chart>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<song-chart new-player>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],<hot-artist-songs>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[5],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/ul[4],FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/ul[3],FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/ul[2],FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/ul[1],FP,,,,
+[NODE_REMOVED],,,,,,,,,,,h2,/html/body/div[5]/div[1]/div[1]/div[2]/div[5]/h2[1],TP,FP,TP,FP,????????? D
+[PROP_CHANGED],,,,class,<newtags s>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4],<tag-block>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4],,,FP,FP,FP,FP,??????div D
+[NODE_ADDED],,table,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/table[1],,,,,,,,,,TP,FP,TP,NA,???????table A
+[NODE_REMOVED],,,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/ul[3],TP,FP,TP,FP,???ul D
+[PROP_CHANGED],Y,,,id,<SwfStore_dstat_0>,div,/html/body/div[7],<search_suggest>,div,/html/body/div[6],,,FP,,,,
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[3],,,,,,,,,,TP,FP,TP,NA,??????? A
+[NODE_REMOVED],,,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/ul[2],TP,FP,TP,FP,??ul D
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[2],,,,,,,,,,TP,TP,TP,NA,?? A
+[NODE_REMOVED],,,,,,,,,,,ul,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/ul[1],TP,FP,TP,FP,??ul D
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/div[1],,,,,,,,,,TP,FP,TP,NA,???????div A
+[NODE_REMOVED],,,,,,,,,,,h2,/html/body/div[5]/div[1]/div[1]/div[2]/div[4]/h2[1],TP,FP,TP,FP,??????h2 D
+[PROP_CHANGED],,,,id,<dale_music_home_top_right2>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[3],<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[3],,,FP,FN,FP,FN,blank div D
+[NODE_ADDED],,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[3]/a[1],,,,,,,,,,TP,FP,TP,NA,???? A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[3]/div[4],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],,ul,/html/body/div[6]/ul[1],,,,,,,,,,TP,TP,TP,NA,blank ul A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[3]/div[3],,,,,,,,,,TP,FP,TP,NA,?? A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[3]/div[2],,,,,,,,,,TP,FP,TP,NA,?? A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[3]/div[1],,,,,,,,,,TP,FP,TP,NA,???A
+[PROP_CHANGED],,,,id,<dale_music_home_top_right>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[2],<dale_music_home_top_right2>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[2],,,TP,TP,TP,FN,invisible div
+[PROP_CHANGED],Y,,,id,<>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[1],<dale_music_home_top_right>,div,/html/body/div[5]/div[1]/div[1]/div[2]/div[1],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,a,/html/body/div[5]/div[1]/div[1]/div[2]/div[1]/a[1],FP,,,,
+[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[5]/div[1]/div[1]/div[2]/div[1]/p[2],TP,FP,TP,FP,???????? D
+[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[5]/div[1]/div[1]/div[2]/div[1]/p[1],TP,FP,TP,FP,??????? D
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[7],,,,,,,,,,TP,FP,TP,NA,invisible div A
+[NODE_REMOVED],Y,,,,,,,,,,object,/html/body/div[7]/object[1],FP,,,,
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[6],,,,,,,,,,TP,FP,TP,NA,invisible div A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[5],,,,,,,,,,TP,FP,TP,NA,invisible div A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[4],,,,,,,,,,TP,FP,TP,NA,invisible div A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[3],,,,,,,,,,TP,FP,TP,NA,????div A
+[NODE_ADDED],,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[2],,,,,,,,,,FP,FP,FP,NA,???????div U
+[PROP_CHANGED],Y,,,class,<>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1],<slick top-banner slick-initialized slick-slider slick-dotted>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[5],FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[4],FP,,,,
+[NODE_ADDED],,ul,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/ul[1],,,,,,,,,,TP,FP,TP,NA,A
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[3],FP,,,,
+[NODE_ADDED],,noscript,/html/body/noscript[1],,,,,,,,,,TP,TP,TP,NA,A
+[NODE_ADDED],,button,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/button[2],,,,,,,,,,TP,FP,TP,NA,blank next button A
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[2],TP,TP,TP,TP,invisible D
+[PROP_CHANGED],Y,,,class,<clearfix hot_artists s>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1],<slick-list draggable>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],FP,,,,
+[PROP_CHANGED],Y,,,class,<first_artist>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],<slick-track>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],,,FP,,,,
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11],,,,,,,,,,FP,,,,????
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10],,,,,,,,,,FP,,,,????
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9],,,,,,,,,,FP,,,,????
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8],,,,,,,,,,FP,,,,????
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7],,,,,,,,,,FP,,,,????
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/div[6],TP,FP,TP,TP,invisible D
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6],,,,,,,,,,FP,,,,????
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5],,,,,,,,,,FP,,,,????
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4],,,,,,,,,,FP,,,,????
+[NODE_ADDED],Y,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3],,,,,,,,,,FP,,,,????
+[PROP_CHANGED],Y,,,id,<>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],<slick-slide00>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],,,FP,,,,????
+[PROP_CHANGED],Y,,,class,<ll name>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],<slick-slide>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],,,FP,,,,????
+[NODE_REMOVED],,,,,,,,,,,br,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/br[2],TP,TP,TP,TP,br D
+[NODE_REMOVED],,,,,,,,,,,br,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/br[1],TP,TP,TP,TP,br D
+[NODE_ADDED],Y,a,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1],,,,,,,,,,FP,,,,????
+[NODE_REMOVED],Y,,,,,,,,,,span,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1],FP,,,,????
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/div[5]/div[2]/span[2]/a[1],,,,,???? S
+[PROP_CHANGED],Y,,,class,<artist_img player-playable>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],<slick-slide slick-cloned>,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],FP,,,,
+[PROP_CHANGED],Y,,,class,<artist_photo>,a,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],<>,a,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<artist_s>,img,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1],<>,img,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1],,,FP,,,,
+[NODE_ADDED],,button,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/button[1],,,,,,,,,,TP,FP,TP,NA,previous button A
+[NODE_REMOVED],,,,,,,,,,,h2,/html/body/div[5]/div[1]/div[1]/div[1]/div[1]/h2[1],TP,FP,TP,FP,???????h2 D
+[NODE_ADDED],,a,/html/body/div[4]/div[2]/a[1],,,,,,,,,,TP,TP,TP,NA,2018????. A
+[PROP_CHANGED],,,,class,<nav-items nav-anon>,div,/html/body/div[4]/div[2]/div[1],<nav-items>,div,/html/body/div[4]/div[2]/div[1],,,TP,TP,TP,FP,nav under ???? U
+[NODE_ADDED],,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[7],,,,,,,,,,TP,FP,TP,NA,?? A
+[NODE_ADDED],,li,/html/body/div[4]/div[2]/div[1]/ul[1]/li[6],,,,,,,,,,FP,TP,TP,NA,???? U
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,UPDATE,,DELETE,,,,,,,,,,,,,
+??,/html/body/div[3]/div/div[3]/ul/li[9],??FM,/html/body/div[4]/div[2]/div/ul/li[4],??,/html/body/div[3]/div/div[2]/ul/li[9],,,,,,,,,,,,
+??,/html/body/div[3]/div/div[3]/ul/li[10],,,,,,,,,,,,,,,,
+??,/html/body/div[4]/div[2]/div/ul/li[9],,,,,,,,,,,,,,,,
+??????,/html/body/div[4]/div[2]/div/ul/li[11],,,,,,,,,,,,,,,,
+six icon links below ????,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
