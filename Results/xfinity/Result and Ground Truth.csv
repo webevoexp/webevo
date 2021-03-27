@@ -1,0 +1,90 @@
+ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,DOM,CV,Result,Vista,GroundTruth
+[PROP_CHANGED],,,,class,<promo-grid promo-grid--secondary>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3],<info x-ui-theme--light>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4],,,TP,FP,TP,FP,U
+[PROP_CHANGED],,,,class,<x-flex>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1],<x-content>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1],,,TP,FP,TP,FP,U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1]/div[6],TP,FP,TP,FP,Our ultimate tv experience. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1]/div[5],TP,FP,TP,FP,Channel lineups. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1]/div[4],TP,FP,TP,FP,Fast internet speeds. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1]/div[3],TP,FP,TP,FP,Shop triple play. D
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1]/div[2],TP,FP,TP,FP,Shop double play. D
+[PROP_CHANGED],Y,,,class,<>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1]/div[1],<x-flex-row center-xs>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1],,,,,,,Shop internet.
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1]/div[3],,,,,,,,,,TP,FN,TP,NA,invisible div. A
+[PROP_CHANGED],,,,id,<>,iframe,/html/body/iframe[1],<polarisIframe>,iframe,/html/body/iframe[1],,,TP,FP,TP,FP,U
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1]/div[2]/div[5],,,,,,,,,,FP,FP,FP,NA,home phone. U
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1]/div[2]/div[4],,,,,,,,,,FP,TP,TP,NA,home security. U
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1]/div[2]/div[3],,,,,,,,,,TP,FP,TP,NA,mobile. A
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1]/div[2]/div[2],,,,,,,,,,TP,FP,TP,NA,tv streaming. A
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1]/div[2]/div[1],,,,,,,,,,FP,FP,FP,NA,internet. U
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[4]/div[1]/div[1]/div[1],,,,,,,,,,TP,FP,TP,NA,Our services work even better together div. A
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1]/div[1]/a[1],TP,FP,TP,FP,Shop internet. D
+[NODE_ADDED],,div,/html/body/div[8],,,,,,,,,,TP,FN,TP,NA,invisible div. A
+[PROP_CHANGED],,,,id,<>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[2],<skywalker-two-up-tile>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3],,,TP,TP,TP,FP,U
+[PROP_CHANGED],,,,class,<x-flex>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[2]/div[1],<lazyload-placeholder>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[3]/div[1],,,TP,FN,TP,FN,invisible div. U
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[2],,,,,,,,,,TP,FP,TP,NA,Unleash the potential....div A
+[PROP_CHANGED],Y,,,id,<>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1],<drive--0a8d05cd-c462-4d01-90ae-6db37ce0b1bb>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<x-ui-theme--grey>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1],<drive-banner x-ui-theme--light>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<shop-deals-wrap>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1],<drive-banner__wrap x-flex-row center-xs>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<shop-deals x-flex>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1],<x-flex__col-xs-12 x-flex__col-lg-6>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<x-flex__col-xs-12 x-flex__col-lg-8 x-flex>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2],<drive-banner__action>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<shop-deals__cta>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2],<drive-banner__cta-container>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2],,,FP,,,,
+[NODE_ADDED],,div,/html/body/div[7],,,,,,,,,,TP,FN,TP,NA,invisible div. A
+[PROP_CHANGED],Y,,,class,<x-button--solid>,a,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1],<df-button-secondary>,a,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/a[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<shop-deals__multi-list x-flex__col-lg-8 x-flex>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],<drive-banner__cta-container>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1],,,TP,,,,
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4],FP,FP,FP,FP,home security.
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3],FP,FP,FP,FP,phone.
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2],FP,FP,FP,FP,tv. D
+[NODE_ADDED],,a,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1],,,,,,,,,,FP,TP,TP,NA,shop ALL offers. U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1],FP,FP,FP,FP,internet.
+[NODE_ADDED],Y,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2],,,,,,,,,,FP,,,,
+[PROP_CHANGED],,,,class,<x-flex__col-xs-12 x-flex__col-lg-4>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1],<drive-banner__heading x-heading1>,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1],,,FP,TP,TP,FP->TP,Shop offers near you div. U
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],FP,TP,TP,FP,Shop offers near you.
+[NODE_ADDED],,div,/html/body/div[6],,,,,,,,,,TP,FN,TP,NA,invisible div. A
+[PROP_CHANGED],Y,,,class,<promo-hero__inner>,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1],<promo-hero__inner x--bg-c-c>,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[2]/div[1],FP,,,,
+[PROP_CHANGED],Y,,,class,<x-flex center-xs end-md>,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1],<x-flex center-xs start-md>,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1],,,FP,,,,
+[PROP_CHANGED],Y,,,class,<promo-hero__motion promo-hero__motion--fade-in>,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2],<promo-hero__motion promo-hero__motion--slide-in-top>,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2],,,FP,,,,
+[NODE_REMOVED],Y,,,,,,,,,,img,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/img[1],FP,,,,
+[NODE_ADDED],Y,strong,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/strong[1],,,,,,,,,,TP,,,,
+[NODE_ADDED],Y,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[2],,,,,,,,,,TP,,,,
+[NODE_ADDED],Y,div,/html/body/section[1]/div[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[1],,,,,,,,,,FP,,,,
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/main[1]/section[1]/div[1],,,,,,,,,,TP,FP,TP,NA,It's easy to get what you need right here....A
+[PROP_CHANGED],,,,class,<polaris-nav polarisSub>,div,/html/body/section[1]/div[1]/header[1]/div[2],<xc-polaris-secondary xc-polarisSub>,div,/html/body/section[1]/div[1]/header[1]/div[1],,,TP,FP,TP,FP,U
+[NODE_ADDED],,xc-footer,/html/body/section[1]/footer[1]/xc-footer[1],,,,,,,,,,FP,TP,TP,NA,footer. U
+[NODE_ADDED],,span,/html/body/section[1]/div[1]/header[1]/div[1]/span[1],,,,,,,,,,TP,FP,TP,NA,A
+[PROP_CHANGED],,,,class,<polarisSub-inner>,div,/html/body/section[1]/div[1]/header[1]/div[2]/div[1],<xc-polaris-secondary--content>,div,/html/body/section[1]/div[1]/header[1]/div[1]/div[1],,,TP,FP,TP,FP,lower nav in header. U
+[PROP_CHANGED],,,,class,<polarisSub-content polarisSub-content--utility>,div,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2],<xc-polarisSub-content xc-polarisSub-content--utility>,div,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1],,,TP,FP,TP,FP,shopping cart &search div. U
+[PROP_CHANGED],,,,class,<polaris-navigation>,ul,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2]/ul[1],<xc-polaris-navigation>,ul,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1]/ul[1],,,TP,FP,TP,FP,U
+[PROP_CHANGED],,,,class,<polaris-item polarisSub-languageChange>,li,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2]/ul[1]/li[3],<xc-polaris-item xc-polarisSub-languageChange>,li,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[3],,,TP,FP,TP,FP,En Espanol. U
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1],,,,,,,,,,FP,TP,TP,NA,En | Es
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2]/ul[1]/li[3]/a[1],FP,FP,FP,FP,En Espanol
+[PROP_CHANGED],,,,class,<polaris-item polarisSub-search>,li,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2]/ul[1]/li[2],<xc-polaris-item xc-polaris2-open-search>,li,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[2],,,TP,FP,TP,FP,search. U
+[NODE_ADDED],,button,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/button[1],,,,,,,,,,FP,FP,FP,NA,search
+[NODE_REMOVED],,,,,,,,,,,footer,/html/body/section[1]/footer[1]/footer[1],FP,TP,TP,FP->TP,footer
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2]/ul[1]/li[2]/div[1],FP,FP,FP,FP,search
+[PROP_CHANGED],,,,class,<polaris-item cart-indicator polarisSub-cart>,li,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2]/ul[1]/li[1],<xc-polaris-item cart-indicator xc-polarisSub-cart>,li,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[1],,,TP,FP,FP,FP,shopping cart. U
+[NODE_ADDED],,button,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/button[1],,,,,,,,,,FP,FP,FP,NA,shopping cart
+[NODE_REMOVED],,,,,,,,,,,a,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/a[1],FP,FP,FP,FP,shopping cart
+[NODE_ADDED],,nav,/html/body/section[1]/div[1]/header[1]/div[1]/div[1]/nav[1],,,,,,,,,,TP,FP,TP,NA,A
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/header[1]/div[2]/div[1]/div[1],TP,FP,TP,FP,D
+[NODE_ADDED],,xc-header,/html/body/section[1]/div[1]/header[1]/xc-header[1],,,,,,,,,,TP,FP,TP,NA,A
+[NODE_REMOVED],,,,,,,,,,,div,/html/body/section[1]/div[1]/header[1]/div[1],TP,FP,TP,FP,D
+[PROP_CHANGED],,,,class,<alert-wrap>,div,/html/body/section[1]/div[1]/div[1],<>,div,/html/body/section[1]/div[1]/div[1],,,TP,FN,TP,FN,invisible div. U
+[NODE_ADDED],,div,/html/body/section[1]/div[1]/div[1]/div[1],,,,,,,,,,TP,FN,TP,NA,invisible div. A
+[NODE_REMOVED],,,,,,,,,,,section,/html/body/section[1]/div[1]/main[1]/section[3],TP,FP,TP,FP,explore xfinity div. D
+[NODE_ADDED],,div,/html/body/div[5],,,,,,,,,,TP,FN,TP,NA,A
+[NODE_ADDED],,img,/html/body/img[1],,,,,,,,,,TP,FP,TP,NA,A
+[NODE_ADDED],,div,/html/body/div[3],,,,,,,,,,TP,FN,TP,NA,A
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
+ADD,,,,,,,,,,,,,,,,,
+Find a store,/html/body/section/div/header/xc-header/div[2]/div[2]/ul[1]/li[6],,,,,,,,,,,,,,,,
+Help me decide,/html/body/section/div/main/section[2]/div[1]/div/div/div/div[3]/div[2],,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+UPDATE,,,,,,,,,,,,,,,,,
+follow us for exclusive deals,/html/body/section/footer/footer/section[1]/div[1]/div/ul/li[2],,,,,,,,,,,,,,,,
+find tutorials and demos,/html/body/section/footer/footer/section[1]/div[1]/div/ul/li[3],,,,,,,,,,,,,,,,
+connect on facebook,/html/body/section/footer/footer/section[1]/div[1]/div/ul/li[4],,,,,,,,,,,,,,,,
+DELETE,,,,,,,,,,,,,,,,,
+TV,/html/body/section/div/header/div[1]/div/ul[5]/li[1],,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicate element is added/updated/deleted. Notes w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
