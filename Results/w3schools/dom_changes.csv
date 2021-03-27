@@ -1,0 +1,223 @@
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath
+[PROP_CHANGED],,,class,<fa fa-thumbs-o-up fa-2x>,i,/html/body/div[6]/footer[1]/a[2]/i[1],<fa fa-thumbs-o-up w3-xxlarge>,i,/html/body/div[9]/footer[1]/a[1]/i[1],,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[9]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[9]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[8]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[8]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[3],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[3],,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[7]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[7]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[6]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[6]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[5]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[5]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[2],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[2],,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[4]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[4]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[3]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[3]/span[1],,,,,,,,,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/p[1]/a[1],<w3-hover-text-green>,a,/html/body/div[9]/footer[1]/p[1]/a[1],,
+[NODE_ADDED],h3,/html/body/div[9]/div[1]/div[2]/div[1]/h3[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h4,/html/body/div[6]/div[1]/div[2]/div[1]/h4[1]
+[PROP_CHANGED],,,class,<w3-col l6 w3-center section>,div,/html/body/div[6]/div[1]/div[1],<w3-col l6 w3-center>,div,/html/body/div[9]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[1]/div[1]/a[2],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[1]/div[1]/a[2],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[1]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[1]/div[1]/a[1],,
+[PROP_CHANGED],,,class,<>,p,/html/body/div[6]/div[1]/div[1]/p[1],<w3-xlarge w3-text-dark-grey>,p,/html/body/div[9]/div[1]/div[1]/p[1],,
+[PROP_CHANGED],,,id,<sidemenu>,nav,/html/body/nav[6],<nav_exercises>,nav,/html/body/nav[5],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[27]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[26]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[25]
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[6]
+[NODE_REMOVED],,,,,,,,,,nav,/html/body/div[6]/footer[1]/nav[1]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[24]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[23]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[22]
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[5]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[21]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[20]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[19]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[18]
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[4]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[17]
+[NODE_REMOVED],,,,,,,,,,br,/html/body/div[6]/footer[1]/br[1]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[16]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[15]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[14]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[13]
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[3]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[12]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[11]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[10]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[9]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[8]
+[NODE_ADDED],div,/html/body/div[9]/footer[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[7]
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/nav[6]/h2[2]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[6]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[5]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[4]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[6]/a[3]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[6]/footer[1]/a[1]
+[NODE_ADDED],div,/html/body/div[9]/div[12],,,,,,,,,
+[NODE_ADDED],table,/html/body/table[1],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[9]/div[11],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[9]/div[10],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[9]/div[9],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-row>,div,/html/body/div[6]/div[5],<w3-row w3-white>,div,/html/body/div[9]/div[8],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[5]/div[3]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[8]/div[3]/a[2],,
+[NODE_ADDED],a,/html/body/div[9]/div[8]/div[3]/a[1],,,,,,,,,
+[NODE_ADDED],h4,/html/body/div[9]/div[8]/div[3]/h4[1],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[8],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[5]/div[3]/p[1]
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[62],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[61],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[60],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[59],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[58],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[57],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[56],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[55],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[54],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[53],,,,,,,,,
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[5]/div[3]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[8]/div[3]/h2[1],,
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[8],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[52],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[51],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[50],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[49],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[48],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[47],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[46],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[45],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[44],,,,,,,,,
+[NODE_ADDED],iframe,/html/body/iframe[1],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[5]/div[2],<w3-col l4 w3-center>,div,/html/body/div[9]/div[8]/div[2],,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[43],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[42],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[41],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[40],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[39],,,,,,,,,
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[7],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[38],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[37],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[36],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[35],,,,,,,,,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/div[5]/div[2]/a[1],<w3-hover-opacity>,a,/html/body/div[9]/div[8]/div[2]/a[1],,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[34],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[33],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[32],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[31],,,,,,,,,
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[6],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[30],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[29],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[28],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[27],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[26],,,,,,,,,
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[5]/div[2]/h2[1],<w3-xxlarge>,h2,/html/body/div[6]/div[5]/div[2]/h2[1],,
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[5],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[25],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[24],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[23],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[22],,,,,,,,,
+[NODE_ADDED],div,/html/body/nav[1]/div[1]/div[4],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[21],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[20],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[19],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[18],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[5]/div[1],<w3-col l4 w3-center>,div,/html/body/div[9]/div[8]/div[1],,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[17],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[5]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[8]/div[1]/a[1],,
+[NODE_ADDED],h4,/html/body/nav[1]/div[1]/div[3]/h4[1],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[16],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[15],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[14],,,,,,,,,
+[NODE_ADDED],h4,/html/body/div[9]/div[8]/div[1]/h4[1],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[13],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[12],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[11],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[10],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[5]/div[1]/p[1]
+[NODE_ADDED],h4,/html/body/nav[1]/div[1]/div[2]/h4[1],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[9],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[8],,,,,,,,,
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[5]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[8]/div[1]/h2[1],,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[7],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[6],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[5],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[4],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[3],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[2],,,,,,,,,
+[NODE_ADDED],a,/html/body/nav[1]/div[1]/a[1],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-col m4>,div,/html/body/nav[2]/div[1]/div[1],<w3-container>,div,/html/body/nav[1]/div[1]/div[1],,
+[PROP_CHANGED],,,class,<w3-row w3-light-grey>,div,/html/body/div[6]/div[4],<w3-row w3-dark-grey w3-padding-32>,div,/html/body/div[9]/div[7],,
+[NODE_ADDED],h4,/html/body/nav[1]/div[1]/div[1]/h4[1],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[4]/div[3],<w3-col l6 w3-center>,div,/html/body/div[9]/div[7]/div[4],,
+[NODE_ADDED],div,/html/body/div[7],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[6],,,,,,,,,
+[PROP_CHANGED],,,id,<nav_menu-xs>,div,/html/body/div[5],<googleSearch>,div,/html/body/div[5],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[3]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/a[3]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[5]/div[1]/div[2]
+[PROP_CHANGED],,,class,<>,div,/html/body/div[6],<w3-main>,div,/html/body/div[9],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/a[2]
+[NODE_ADDED],div,/html/body/div[5]/div[1]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/div[1]/a[1]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[5]/a[1]
+[PROP_CHANGED],,,class,<w3-theme w3-card-2 w3-topnav w3-right-align w3-slim>,div,/html/body/div[4],<w3-hide-large w3-hide-large w3-padding-16>,div,/html/body/div[4],,
+[PROP_CHANGED],,,class,<topnavlinks>,div,/html/body/div[4]/div[1],<w3-center w3-wide w3-hide-small>,div,/html/body/div[4]/div[2],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[5]
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[4]/div[3]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[7]/div[4]/div[1]/a[1],,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[4]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[3]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[2]
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[4]/div[1]/a[1]
+[NODE_ADDED],div,/html/body/div[4]/div[1],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[3]/div[2]/div[1],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[3]/div[1],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[4]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[3]/a[1]
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[4]/div[3]/div[1]/p[1]
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[4]/div[3]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[7]/div[4]/div[1]/h2[1],,
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[9]/div[7]/div[2]/div,<w3-col l6 w3-center>,div,/html/body/div[9]/div[7]/div[3],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[4]/div[2]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[7]/div[3]/div[1]/a[1],,
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[3]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[4]/div[2]/div[1]/p[1]
+[PROP_CHANGED],,,class,<w3-container w3-light-grey w3-center w3-padding-jumbo w3-text-black-opacity>,footer,/html/body/div[6]/footer[1],<w3-container w3-dark-grey w3-center w3-padding-32>,footer,/html/body/div[9]/footer[1],,
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[4]/div[2]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[7]/div[3]/div[1]/h2[1],,
+[PROP_CHANGED],,,class,<w3-col l4 w3-center section onethird>,div,/html/body/div[6]/div[4]/div[1],<w3-col l6 w3-center>,div,/html/body/div[9]/div[7]/div[2],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[4]/div[1]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[7]/div[2]/div[1]/a[1],,
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[2]/div[1]/div[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[4]/div[1]/div[1]/p[1]
+[PROP_CHANGED],,,class,<>,h2,/html/body/div[6]/div[4]/div[1]/div[1]/h2[1],<w3-xxlarge>,h2,/html/body/div[9]/div[7]/div[2]/div[1]/h2[1],,
+[NODE_ADDED],div,/html/body/div[9]/div[7]/div[1],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-row>,div,/html/body/div[6]/div[3],<w3-row w3-light-grey w3-hide-large>,div,/html/body/div[9]/div[6],,
+[PROP_CHANGED],,,class,<w3-col l6 section sectionexample>,div,/html/body/div[6]/div[3]/div[2],<w3-col l6 w3-hide-small>,div,/html/body/div[9]/div[6]/div[2],,
+[NODE_ADDED],a,/html/body/div[9]/div[6]/div[2]/a[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/div[6]/div[3]/div[2]/div[1]/a[1]
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[3]/div[2]/div[1]/div[1]
+[NODE_ADDED],span,/html/body/div[9]/div[6]/div[2]/div[1]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,h4,/html/body/div[6]/div[3]/div[2]/div[1]/h4[1]
+[NODE_ADDED],h3,/html/body/div[9]/div[6]/div[2]/h3[1],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-col l6 w3-center section>,div,/html/body/div[6]/div[3]/div[1],<w3-col l6 w3-center>,div,/html/body/div[9]/div[6]/div[1],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[3]/div[1]/a[2],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[6]/div[1]/a[2],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[3]/div[1]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[6]/div[1]/a[1],,
+[PROP_CHANGED],,,class,<>,p,/html/body/div[6]/div[3]/div[1]/p[1],<w3-xlarge>,p,/html/body/div[9]/div[6]/div[1]/p[1],,
+[NODE_ADDED],div,/html/body/div[9]/div[5],,,,,,,,,
+[NODE_ADDED],div,/html/body/div[9]/div[4],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-row w3-light-grey>,div,/html/body/div[6]/div[2],<w3-row w3-light-grey w3-hide-medium w3-hide-small>,div,/html/body/div[9]/div[2],,
+[PROP_CHANGED],,,class,<w3-col l6 w3-center section css-hide-when-small>,div,/html/body/div[6]/div[2]/div[3],<w3-col l6 w3-center>,div,/html/body/div[9]/div[2]/div[2],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[2]/div[3]/a[2],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[2]/div[2]/a[2],,
+[PROP_CHANGED],,,class,<w3-btn sectionbtn>,a,/html/body/div[6]/div[2]/div[3]/a[1],<w3-button w3-dark-grey>,a,/html/body/div[9]/div[2]/div[2]/a[1],,
+[PROP_CHANGED],,,class,<>,p,/html/body/div[6]/div[2]/div[3]/p[1],<w3-xlarge>,p,/html/body/div[9]/div[2]/div[2]/p[1],,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/div[6]/div[2]/div[2]
+[NODE_ADDED],div,/html/body/div[9]/div[2]/div[1]/div[1],,,,,,,,,
+[NODE_ADDED],h3,/html/body/div[9]/div[2]/div[1]/h3[1],,,,,,,,,
+[PROP_CHANGED],,,class,<w3-row>,div,/html/body/div[6]/div[1],<w3-row w3-margin-bottom>,div,/html/body/div[9]/div[1],,
+[PROP_CHANGED],,,class,<w3-col l6 section sectionexample>,div,/html/body/div[6]/div[1]/div[2],<w3-col l6>,div,/html/body/div[9]/div[1]/div[2],,
+[PROP_CHANGED],,,class,<>,a,/html/body/div[6]/footer[1]/a[2],<w3-hover-text-light-grey>,a,/html/body/div[9]/footer[1]/a[1],,
+[PROP_CHANGED],,,class,<w3-btn w3-theme>,a,/html/body/div[6]/div[1]/div[2]/div[1]/a[1],<w3-button w3-theme w3-hover-green w3-hover-shadow>,a,/html/body/div[9]/div[1]/div[2]/div[1]/a[1],,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[11]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[11]/span[1],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[10]/span[2],,,,,,,,,
+[NODE_ADDED],span,/html/body/div[9]/div[1]/div[2]/div[1]/div[1]/span[10]/span[1],,,,,,,,,
+[NODE_REMOVED],,,,,,,,,,p,/html/body/div[6]/div[5]/div[1]/p[1]
