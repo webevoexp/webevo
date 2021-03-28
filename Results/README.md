@@ -12,27 +12,16 @@ dom_changes.csv
 The columns of dom_changes.csv are:
 
 ChangedType - Three values: NODE_REMOVED, NODE_ADDED and PROP_CHANGED.
-
 AddedTag - Applicable for NODE_ADDED. The tag of the added node in the evolved page. E.g., span, li, a, etc.
-
 addedXpath - Applicable for NODE_ADDED. The XPath of the added node in the evolved page.
-
 typeChanged - Applicable for PROP_CHANGED. The attribute of the updated node. E.g., id, class, etc.
-
 oldType - Applicable for PROP_CHANGED. The value of the updated node's attribute in the target page.
-
 oldTag - Applicable for PROP_CHANGED. The tag of the updated node in the target page.
-
 oldXPath - Applicable for PROP_CHANGED. The XPath of the updated node in the target page.
-
 newType - Applicable for PROP_CHANGED. The value of the updated node's attribute in the evolved page.
-
 newTag - Applicable for PROP_CHANGED. The tag of the updated node in the evolved page.
-
 newXPath - Applicable for PROP_CHANGED. The XPath of the updated node in the evolved page.
-
 removedTag - Applicable for NODE_REMOVED. The tag of the removed node in the target page. E.g., span, li, a, etc.
-
 removedXPath - Applicable for NODE_REMOVED. The XPath of the removed node in the target page.
 
 + Example to execute the program.
