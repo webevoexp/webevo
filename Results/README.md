@@ -33,7 +33,7 @@ java -jar pi-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: w3school
 ```
 api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [History-based-change-detection](/History-based-change-detection).
 #### 3. Manually check every single XPath reported in dom_changes.csv on both target page and evolved page.
-1). Copy "dom_changes.csv" to "Result and Ground Truth.csv". Add a few more columns to store the results of each module. The columns are listed as below:
+Copy "dom_changes.csv" to "Result and Ground Truth.csv". Add a few more columns to store the results of each module. The columns are listed as below:
 
 ChangedType - Three change types: NODE_REMOVED, NODE_ADDED and PROP_CHANGED.
 
