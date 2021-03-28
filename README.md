@@ -40,7 +40,7 @@ The target webpage and three historical pages.
 
 + Output.
 
-dynamic.txt which contains XPaths associated with the labels, which indicate the XPath is dynamic or static.
+"dynamic.txt" contains the XPaths associated with the labels, which indicate whether the XPaths are dynamic or static.
 
 To run the jar files:
 ```bash
