@@ -14,7 +14,7 @@ dom_changes.csv
 ```bash
 java -jar api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: w3schools/2016.html -newpage: w3schools/2019.html
 ```
-api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar locates in [DOM-tree-based-change-detection](/DOM-tree-based-change-detection).
+api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar locates at [DOM-tree-based-change-detection](/DOM-tree-based-change-detection).
 
 #### 2. History-based Change Detection Module.
 + Input.
@@ -31,7 +31,7 @@ dynamic.txt
 java -jar pi-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: w3schools/2016.html
 -historypage1: 2016-01-13_history1/index.html -historypage2: 2016-01-12_history2/index.html -historypage3: 2016-01-11_history3/index.html
 ```
-api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar locates in [History-based-change-detection](/History-based-change-detection).
+api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar locates at [History-based-change-detection](/History-based-change-detection).
 #### 3. Manually check every single XPath reported in dom_changes.csv on both target page and evolved page.
 1). Copy "dom_changes.csv" to "Result and Ground Truth.csv". Add a few more columns to store the results of each module. The columns are listed as below:
 
@@ -74,5 +74,7 @@ GroundTruth - The notes indicate the ground truth webpage element the XPath refe
 #### 4. Semantics-based Visual Search 
 The inputs of the Semantic-based Visual Search Module are: the target web page and its screenshot (old.png), the evolved page and its screenshot (new.png) and "ds1_results.csv". The "ds1_results.csv" is the subset of "dom_changes.csv", which exclude the XPaths reported as "dynamic" in "dynamic.txt".
 The outputs of the Semantic-based Visual Search Module are the screenshots of the webpage elements located in the "target_img" folder and the "candidate_img" folder. 
+
+The source code locates at [graphic-image-analysis](/graphic-image-analysis).
 
 
