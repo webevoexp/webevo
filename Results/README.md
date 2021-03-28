@@ -41,7 +41,7 @@ removedXPath - Applicable for NODE_REMOVED. The XPath of the removed node in the
 java -jar api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: w3schools/2016.html -newpage: w3schools/2019.html
 ```
 
-api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar locates in [/DOM-tree-based-change-detection](DOM-tree-based-change-detection).
+api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar locates in [DOM-tree-based-change-detection](/DOM-tree-based-change-detection).
 
 #### History-based Change Detection Output
 The dynamic.txt file is the output of the History-based Change Detection Module.
