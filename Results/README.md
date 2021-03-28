@@ -59,7 +59,7 @@ removedTag - Applicable for NODE_REMOVED. The tag of the removed node in the tar
 
 removedXPath - Applicable for NODE_REMOVED. The XPath of the removed node in the target page.
 
-Dynamic? - Indicate whether a change reported by the DOMTree-based detection module is a content-based change or not. Y or N.
+Dynamic? - Based on "dynamic.txt", mark Y or N to indicate whether a change reported by the DOMTree-based detection module is a content-based change or not.
 
 DOM - Manually check whether a change reported by the DOMTree-based detection module is correct. Mark it as true positive or false positive.
 
@@ -72,8 +72,7 @@ Vista - The result of Vista.
 GroundTruth - The notes indicate the ground truth webpage element the XPath refers to. A(Added)/U(Updated)/D(Deleted) in the notes indicates the ground truth ChangedType of the element. The notes without A/U/D means the element was already counted. Do not double count it.
 
 #### 4. Semantics-based Visual Search 
-The inputs of the Semantic-based Visual Search Module are: the target web page and its screenshot (old.png), the evolved page and its screenshot (new.png), and ds1_results.csv. The ds1_results.csv contains all elements outputted by DOM-tree Based Change Detection Module except the elements which are in dynamic.txt.
-The outputs of the Semantic-based Visual Search Module are in the "target_img" folder and the "candidate_img" folder. 
-#### Experiment Results
-The experiment results and the ground truth are in Result and Ground Truth.xlsx.
+The inputs of the Semantic-based Visual Search Module are: the target web page and its screenshot (old.png), the evolved page and its screenshot (new.png), and ds1_results.csv. The "ds1_results.csv" is a subset of "dom_changes.csv", which exclude the XPaths reported as "dynamic" in "dynamic.txt".
+The outputs of the Semantic-based Visual Search Module are the screenshots of the webpage elements located in the "target_img" folder and the "candidate_img" folder. 
+
 
