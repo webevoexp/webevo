@@ -92,4 +92,18 @@ The outputs of the Semantic-based Visual Search Module are the screenshots of th
 
 The source code is in [graphic-image-analysis](/graphic-image-analysis).
 
++ Example:
+
+The location of the link "EXAMPLES" on w3schools is different between the target page and the evolved page.
+
+The location on the target page:
+
+<img src="w3schools2016.png">
+
+The location on the evolved page:
+
+<img src="w3schools2019.png">
+
+By DOMTree-based change detection module, the "EXAMPLES" link is incorrectly marked as "NODE_REMOVED". Semantics-based Visual Search can fix this error, it correctly identifies this link on the evolved page. Refer to [target screenshot](w3schools/target_img/target130.png) and [evolved screenshot](w3schools/candidate_img/target130_folder/candidate1.png).
+
 
