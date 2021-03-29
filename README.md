@@ -62,7 +62,7 @@ Apple website -  The promotion section is marked as dynamic in "dynamic.txt" (dy
 </table>
 
 ### Semantics-based Visual Search
-This module focuses on detecting the elements which have their locations changed in the web page. Rather that analyzing the screenshots of whole web page, WebEvo obtains the screenshots of the candidate changes and combines both text and image similarities to identify mappings between the original elements in old web page and the changed elements in new web page. The source code is in [graphic-image-analysis](graphic-image-analysis). Please check out [README.md](graphic-image-analysis/README.md) for the usage.
+This module focuses on detecting the elements which have their locations changed in the web pages. Rather that analyzing the screenshots of whole web pages, WebEvo obtains the screenshots of the candidate changes and combines both text and image similarities to identify mappings between the original elements in old web page and the changed elements in new web page. The source code is in [graphic-image-analysis](graphic-image-analysis). Please check out [README.md](graphic-image-analysis/README.md) for the usage.
 
 ### Experiment Steps and Results
 The experiment steps and the results are in [Results](Results). Please check out [README.md](Results/README.md) for more details.
