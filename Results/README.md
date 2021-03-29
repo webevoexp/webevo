@@ -35,7 +35,7 @@ api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [History-based-change
 
 + Example:
 
-Apple website -  The promotion section is marked as dynamic in "dynamic.txt" (dynamic  /body/main[1]/section[2]).
+Apple website -  The promotion section is marked as dynamic in "dynamic.txt" (dynamic  /body/main[1]/section[2]). As the change of the promotion section is not semantic, it will not be passed to the Semantics-based Visual Search module to have further analysis.
 
 <table>
   <tr>
