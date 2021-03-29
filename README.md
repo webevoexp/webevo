@@ -13,11 +13,11 @@ The major modules of WebEvo are listed below:
 
 ##### DOM-tree based change detection.
 
-We use the old and new versions of a web page as inputs to our DOM-tree based change detection module to detect changes on a web page based on DOM tree structures.
+We use the target page and the evolved page as the inputs of our DOM-tree based change detection module to detect changes on a web page based on DOM tree structures.
 
 + Input.
 
-Old and new version of the web page.
+The target page and the evolved page.
 
 + Ouput.
 
@@ -36,11 +36,11 @@ The goal of History-based semantic structure change detection is to prune the de
 
 + Input.
 
-Old version of the web page, and three history pages.
+The target webpage and three historical pages.
 
 + Output.
 
-XPaths labeled as dynamic or static.
+"dynamic.txt" contains the XPaths associated with the labels, which indicate whether the XPaths are dynamic or static.
 
 To run the jar files:
 ```bash
@@ -52,8 +52,8 @@ api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [History-based-change
 ### Semantics-based Visual Search
 This module detects the position and structure of different graphical elements through the use of optical character recognition (OCR), edge detection, and contour processing techniques to generate graphical areas that correspond to pictures or text areas on the web page. Then it is used to extract the visual hierarchical relationship among the web pages layout elements. The source code is in [graphic-image-analysis](graphic-image-analysis). Please check out [README.md](graphic-image-analysis/README.md) for the usage.
 
-### Results
-The experiment results are in [Results](Results). Please check out [README.md](Results/README.md) for more details.
+### Experiment Steps and Results
+The experiment steps and the results are in [Results](Results). Please check out [README.md](Results/README.md) for more details.
 
 ## Acknowledgement
 [Vista](https://github.com/saltlab/vista)
