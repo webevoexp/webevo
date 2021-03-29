@@ -62,7 +62,7 @@ Apple website -  The promotion section is marked as dynamic in "dynamic.txt" (dy
 </table>
 
 ### Semantics-based Visual Search
-This module detects the position and structure of different graphical elements through the use of optical character recognition (OCR), edge detection, and contour processing techniques to generate graphical areas that correspond to pictures or text areas on the web page. Then it is used to extract the visual hierarchical relationship among the web pages layout elements. The source code is in [graphic-image-analysis](graphic-image-analysis). Please check out [README.md](graphic-image-analysis/README.md) for the usage.
+This module focuses on detecting the elements which have their locations changed in the web page. Rather that analyzing the screenshots of whole web pages, WebEvo obtains the screenshots of the candidate changes and combines both text and image similarities to identify mappings between the original elements in old web pages and the changed elements in new web pages. The source code is in [graphic-image-analysis](graphic-image-analysis). Please check out [README.md](graphic-image-analysis/README.md) for the usage.
 
 ### Experiment Steps and Results
 The experiment steps and the results are in [Results](Results). Please check out [README.md](Results/README.md) for more details.
