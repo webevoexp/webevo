@@ -81,12 +81,12 @@ Copy "dom_changes.csv" to "Result and Ground Truth.csv". Add a few more columns 
 
 + Vista - The result of Vista.
 
-+ GroundTruth - The notes indicate the ground truth webpage element the XPath refers to. A(Added)/U(Updated)/D(Deleted) in the notes indicates the ground truth ChangedType of the element. The notes without A/U/D means the element was already counted. Do not double count it.
++ GroundTruth - The notes indicate the ground truth of the webpage element the XPath refers to. A(Added)/U(Updated)/D(Deleted) in the notes indicates the ground truth ChangedType of the element. The notes without A/U/D means the element was already counted. Do not double count it.
 
 During the process of the results verification, we are able to know what changed elements were missed by WebEvo and mark them as false negatives.
 
 #### 4. Semantics-based Visual Search 
-The inputs of the Semantic-based Visual Search Module are: the target web page and its screenshot (old.png), the evolved page and its screenshot (new.png) and "ds1_results.csv". The "ds1_results.csv" is the subset of "dom_changes.csv", which exclude the XPaths reported as "dynamic" in "dynamic.txt".
+The inputs of the Semantic-based Visual Search Module are: the target web page and its screenshot (old.png), the evolved page and its screenshot (new.png) and "ds1_results.csv". The "ds1_results.csv" is the subset of "dom_changes.csv", which excludes the XPaths reported as "dynamic" in "dynamic.txt".
 
 The outputs of the Semantic-based Visual Search Module are the screenshots of the webpage elements located in the "target_img" folder and the "candidate_img" folder. 
 
