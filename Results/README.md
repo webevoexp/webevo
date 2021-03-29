@@ -43,6 +43,8 @@ api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [History-based-change
 
 + Example:
 
+Below is an example of the content-based change.
+
 Apple website -  In the output (dynamic.txt) of History-based semantic structure change detection module, the promotion section in the target page is identified as a content-based change (dynamic  /body/main[1]/section[2]) because it is constantly updated in a very short period of time, therefore it will not be passed to the Semantics-based Visual Search module to have further analysis.
 
 <table>
