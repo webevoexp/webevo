@@ -2,6 +2,9 @@ We perform experiments on 13 websites.
 ### Experiment Steps
 
 #### 1. DOMTree-based Change Detection Module
+
+This module detects whether a part of the web page has changed using Levenshtein Edit Distance to compare the attributes and the structure of the corresponding DOM-trees. The inputs of DOM-tree based change detection module are the target page and the evolved page, the output contains changes in the DOM tree structures.
+
 + Input:
 
 The target page and the evolved page.
@@ -17,6 +20,11 @@ java -jar api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar -oldpage: w3schoo
 api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [DOM-tree-based-change-detection](/DOM-tree-based-change-detection).
 
 #### 2. History-based Change Detection Module.
+
+The goal of this module is to prune the content-based changes from the previous step to find only semantic structure changes. We define content-based chagnes as web contents being constantly updated based on what a web server delivers to the client browser. This types of changes usually do not cause RPA or test scripts failures therefore need to be identified and filtered. 
+
+We compare the target page with its historical pages to identify the content-based changes.
+
 + Input:
 
 The target page and three historical pages.
@@ -35,7 +43,7 @@ api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [History-based-change
 
 + Example:
 
-Apple website -  The promotion section is marked as dynamic in "dynamic.txt" (dynamic  /body/main[1]/section[2]). As the change of the promotion section is not semantic, it will not be passed to the Semantics-based Visual Search module to have further analysis.
+Apple website -  In the output (dynamic.txt) of History-based semantic structure change detection module, the promotion section in the target page is identified as a content-based change (dynamic  /body/main[1]/section[2]) because it is constantly updated in a very short period of time, therefore it will not be passed to the Semantics-based Visual Search module to have further analysis.
 
 <table>
   <tr>
@@ -86,6 +94,8 @@ Copy "dom_changes.csv" to "Result and Ground Truth.csv". Add a few more columns 
 During the process of the results verification, we are able to know what changed elements were missed by WebEvo and mark them as false negatives.
 
 #### 4. Semantics-based Visual Search 
+This module focuses on detecting the elements which have their locations changed in the web pages. Rather that analyzing the screenshots of whole web pages, WebEvo obtains the screenshots of the candidate changes and combines both text and image similarities to identify mappings between the original elements in old web page and the changed elements in new web page.
+
 The inputs of the Semantic-based Visual Search Module are: the target web page and its screenshot (old.png), the evolved page and its screenshot (new.png) and "ds1_results.csv". The "ds1_results.csv" is the subset of "dom_changes.csv", which excludes the XPaths reported as "dynamic" in "dynamic.txt".
 
 The outputs of the Semantic-based Visual Search Module are the screenshots of the webpage elements located in the "target_img" folder and the "candidate_img" folder. 
