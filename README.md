@@ -13,7 +13,7 @@ The major modules of WebEvo are listed below:
 
 ##### DOM-tree based change detection.
 
-We use the target page and the evolved page as the inputs of our DOM-tree based change detection module to detect changes on a web page based on DOM tree structures.
+This module detects whether a part of the web page has changed using Levenshtein Edit Distance to compare the attributes and the structure of the corresponding DOM-trees. The inputs of DOM-tree based change detection module are the target page and the evolved page, the output contains changes in the DOM tree structures.
 
 + Input:
 
@@ -21,7 +21,7 @@ The target page and the evolved page.
 
 + Ouput:
 
-Changes in the DOM tree structure.
+Changes in the DOM tree structures.
 
 To run the jar file:
 ```bash
@@ -32,7 +32,9 @@ api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [DOM-tree-based-chang
 
 ##### History-based semantic structure change detection.
 
-The goal of History-based semantic structure change detection is to prune the detected changes from the previous step to find only semantic structure changes.
+The goal of this module is to prune the content-based changes from the previous step to find only semantic structure changes. We define content-based chagnes as web contents being constantly updated based on what a web server delivers to the client browser. This types of changes usually do not cause RPA or test scripts failures therefore need to be identified and filtered. 
+
+We compare the target page with its historical pages to identify the content-based changes.
 
 + Input:
 
@@ -52,7 +54,7 @@ api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar is in [History-based-change
 
 + Example:
 
-Apple website -  The promotion section is marked as dynamic in "dynamic.txt" (dynamic  /body/main[1]/section[2]). As the change of the promotion section is not semantic, it will not be passed to the Semantics-based Visual Search module to have further analysis.
+Apple website -  In the output (dynamic.txt) of History-based semantic structure change detection module, the promotion section in the target page is identified as a content-based change (dynamic  /body/main[1]/section[2]) because it is constantly updated in a very short period of time, therefore this change will not be passed to the Semantics-based Visual Search module to have further analysis.
 
 <table>
   <tr>
