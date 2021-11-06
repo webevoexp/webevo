@@ -64,7 +64,7 @@ ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,new
 [NODE_REMOVED],,,,,,,,,,,div,/html/body/div[3]/div[1]/div[2]/div[1]/div[1],FP,,,,
 [NODE_REMOVED],,,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[3],FP,,,,
 [NODE_ADDED],,a,/html/body/div[3]/div[1]/div[2]/div[1]/a[2],,,,,,,,,,FP,,,,
-[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[2],TP,FP,TP,TP,???????in ???????popup D
+[NODE_REMOVED],,,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[2],TP,FP,TP,TP,???????in ??????? D
 [NODE_ADDED],,a,/html/body/div[3]/div[1]/div[2]/div[1]/a[1],,,,,,,,,,FP,,,,
 [NODE_REMOVED],,,,,,,,,,,p,/html/body/div[3]/div[1]/div[2]/div[1]/p[1],FP,,,,
 [PROP_CHANGED],,,,class,<nav-register>,a,/html/body/div[3]/div[1]/div[1]/a[2],<nav-login>,a,/html/body/div[3]/div[1]/div[1]/a[1],,,TP,TP,TP,TP,?? U
@@ -76,9 +76,9 @@ ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,new
 ,,,,,,,,,,,,,,,,,
 * Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
 ADD,,DELETE,,,,,,,,,,,,,,,
-2018?????,/html/body/div[4]/div[2]/div/ul/li[5],??,,,,,,,,,,,,,,,
-???,/html/body/div[4]/div[2]/div/ul/li[6],??,,,,,,,,,,,,,,,
-??,/html/body/div[3]/div/div[3]/ul/li[9],,,,,,,,,,,,,,,,
+2018?????,,??,,,,,,,,,,,,,,,
+???,,??,,,,,,,,,,,,,,,
+??,,,,,,,,,,,,,,,,,
 ??,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,

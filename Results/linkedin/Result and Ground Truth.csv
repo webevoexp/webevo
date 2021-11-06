@@ -1,77 +1,77 @@
-ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,Dynamic?,DOM,CV,Result,Vista,GroundTruth
-[NODE_ADDED],form,/html/body/form[1],,,,,,,,,,,TP,TP,TP,NA,A
-[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[4],,,,,,,,,,,FP,FP,FP,NA,Directories in footer.
-[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[4],,FP,TP,TP,TP,Directories in footer. U
-[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[3],,,,,,,,,,,FP,TP,TP,NA,Business solutions in footer.
-[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[3],,FP,TP,TP,TP,Business in footer. U
-[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[2],,,,,,,,,,,FP,TP,TP,NA,Browse linkedin in footer.
-[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[2],,FP,TP,TP,TP,Browse in footer. U
-[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[1],,,,,,,,,,,FP,FP,FP,NA,General in footer
-[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[1],,FP,TP,TP,TP,General in footer. U
-[NODE_ADDED],icon,/html/body/main[1]/section[8]/div[1]/icon[1],,,,,,,,,,,FP,FP,FP,NA,linkedin icon in footer. U
-[PROP_CHANGED],,,class,<dropdown language-selector dropdown--footer language-selector--footer>,div,/html/body/footer[1]/ul[1]/li[10]/div[1],<collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up language-selector>,div,/html/body/footer[1]/ul[1]/li[11]/div[1],,,,TP,TP,TP,TP,Language ddl -> Language U
-[NODE_REMOVED],,,,,,,,,,li-icon,/html/body/main[1]/section[8]/div[1]/li-icon[1],,FP,FP,FP,TP,linkedin icon in footer.
-[PROP_CHANGED],,,class,<marketing__iframe onload>,iframe,/html/body/main[1]/section[6]/div[1]/div[1]/iframe[1],<marketing__iframe>,iframe,/html/body/main[1]/section[6]/div[1]/div[1]/iframe[1],,,,TP,FP,TP,TP,Find your community video. U
-[PROP_CHANGED],,,class,<section>,section,/html/body/main[1]/section[5],<section section--no-min-height>,section,/html/body/main[1]/section[5],,,,FP,FP,FP,FP,Who is linkedin for? D
-[PROP_CHANGED],,,class,<brand-discovery>,div,/html/body/main[1]/section[5]/div[1],<product-cta>,div,/html/body/main[1]/section[5]/div[1],,,,FP,TP,TP,FP,img of Who is linkedin for? D
-[NODE_REMOVED],,,,,,,,,,img,/html/body/main[1]/section[5]/div[1]/img[1],,TP,FP,TP,FP,Who is linkedin for?
-[PROP_CHANGED],,,class,<brand-discovery__cta>,div,/html/body/main[1]/section[5]/div[1]/div[1],<people-cta full-width-product-cta>,div,/html/body/main[1]/section[5]/div[1]/div[1],,,,FP,FP,FP,FP,text part of Who is linkedin for? D
-[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[5]/div[1]/div[1]/ul[1],,TP,TP,TP,FP,text part of Who is linkedin for? D
-[NODE_ADDED],div,/html/body/main[1]/section[5]/div[1]/div[1]/div[1],,,,,,,,,,,FP,TP,TP,NA,Connect with people... U
-[NODE_REMOVED],,,,,,,,,,h3,/html/body/main[1]/section[5]/div[1]/div[1]/h3[1],,TP,FP,TP,FP,h3-anyone looking to... D
-[NODE_ADDED],img,/html/body/main[1]/section[5]/div[1]/div[1]/img[1],,,,,,,,,,,FP,FP,FP,NA,img next to connect with people...U
-[NODE_ADDED],button,/html/body/footer[1]/ul[1]/li[11]/div[1]/button[1],,,,,,,,,,,FP,TP,TP,NA,language button
-[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[5]/div[1]/div[1]/h2[1],,TP,FP,TP,FP,h2-who is linkedin for? D
-[NODE_ADDED],div,/html/body/main[1]/div[1],,,,,,,,,,,TP,FP,TP,NA,Noel got a job....div A
-[PROP_CHANGED],,,class,<section>,section,/html/body/main[1]/section[4],<section section--full>,section,/html/body/main[1]/section[4],,,Y,FP,TP,,,
-[PROP_CHANGED],,,class,<product-cta>,div,/html/body/main[1]/section[4]/div[1],<talent-finder-cta>,div,/html/body/main[1]/section[4]/div[1],,,Y,FP,TP,,,
-[NODE_ADDED],a,/html/body/main[1]/section[4]/div[1]/a[1],,,,,,,,,,,FP,TP,TP,NA,Post a job button.
-[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[4]/div[1]/div[2],Y,FP,TP,,,Learn the skills you need to succeed
-[NODE_ADDED],h2,/html/body/main[1]/section[4]/div[1]/h2[1],,,,,,,,,,,FP,TP,TP,NA,Post your job and find the people you need. U
-[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[4]/div[1]/div[1],,FP,TP,TP,FP,Connect with people...U Location change.
-[PROP_CHANGED],,,class,<section section--full>,section,/html/body/main[1]/section[3],<section section--no-min-height>,section,/html/body/main[1]/section[3],,,,FP,TP,TP,TP,Post your job... U Location change
-[PROP_CHANGED],,,class,<talent-finder-cta>,div,/html/body/main[1]/section[3]/div[1],<search-cta>,div,/html/body/main[1]/section[3]/div[1],,,,FP,TP,TP,TP,Post your job... U Location change
-[NODE_ADDED],ul,/html/body/footer[1]/ul[1]/li[11]/div[1]/ul[1],,,,,,,,,,,FP,FP,FP,NA,language options.
-[NODE_ADDED],div,/html/body/main[1]/section[3]/div[1]/div[2],,,,,,,,,,,FP,TP,TP,NA,Suggested Searches.
-[NODE_REMOVED],,,,,,,,,,a,/html/body/main[1]/section[3]/div[1]/a[1],,FP,TP,TP,TP,Post a job button. U
-[NODE_ADDED],div,/html/body/main[1]/section[3]/div[1]/div[1],,,,,,,,,,,FP,TP,TP,NA,Find open jobs and internships.text. U
-[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[3]/div[1]/h2[1],,FP,TP,TP,FP,h2-Post your job.... U
-[PROP_CHANGED],,,class,<section section--full>,section,/html/body/main[1]/section[2],<section section--no-min-height>,section,/html/body/main[1]/section[2],,,,FP,TP,TP,TP,Find the right job...section U
-[PROP_CHANGED],,,class,<search-cta>,div,/html/body/main[1]/section[2]/div[1],<feature-learning>,div,/html/body/main[1]/section[2]/div[1],,,,FP,TP,TP,TP,Find the right job...section U
-[NODE_ADDED],section,/html/body/main[1]/section[2]/div[1]/section[1],,,,,,,,,,,TP,TP,TP,NA,img next to Learn the skills that can help you now. A
-[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[2]/div[1]/div[2],,FP,TP,TP,TP,Suggested Searches div U
-[PROP_CHANGED],,,class,<job-finder-cta>,div,/html/body/main[1]/section[2]/div[1]/div[1],<learning-cta>,div,/html/body/main[1]/section[2]/div[1]/div[1],,,,FP,TP,TP,TP,Find the right job...div U
-[NODE_ADDED],div,/html/body/main[1]/section[2]/div[1]/div[1]/div[1],,,,,,,,,,,FP,TP,TP,NA,Learn the skills div. U
-[NODE_REMOVED],,,,,,,,,,div,/html/body/footer[1]/ul[1]/li[10]/div[1]/div[1],,FP,TP,TP,TP,languages ddl
-[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[2]/div[1]/div[1]/h2[1],,FP,TP,TP,TP,h2-Find the right job...
-[NODE_ADDED],div,/html/body/main[1]/section[1]/div[2],,,,,,,,,,,FP,FP,FP,NA,sign in div.
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[11],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[9],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[8],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[7],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[6],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[5],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[4],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_REMOVED],,,,,,,,,,span,/html/body/footer[1]/ul[1]/li[1]/span[1],,FP,FP,FP,TP,@2019 U
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[3],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[2],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_ADDED],code,/html/body/main[1]/section[1]/code[1],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A
-[NODE_REMOVED],,,,,,,,,,section,/html/body/main[1]/section[1]/section[1],,TP,FP,TP,FP,"Find jobs, people and more searchbox D"
-[PROP_CHANGED],,,class,<hero>,div,/html/body/main[1]/section[1]/div[1],<hero hero--with-form>,div,/html/body/main[1]/section[1]/div[1],,,,TP,TP,TP,FP,Welcome to your professional community U-class changed
-[PROP_CHANGED],,,class,<hero__illustration--mobile>,img,/html/body/main[1]/section[1]/div[1]/img[2],<hero__illustration--mobile flip-rtl>,img,/html/body/main[1]/section[1]/div[1]/img[2],,,,,,,,0X0 invisible img. S
-[PROP_CHANGED],,,class,<hero__illustration--desktop>,img,/html/body/main[1]/section[1]/div[1]/img[1],<hero__illustration--desktop flip-rtl>,img,/html/body/main[1]/section[1]/div[1]/img[1],,,,TP,FN,TP,FP,img of Welcome to your professional...U
-[NODE_REMOVED],,,,,,,,,,section,/html/body/nav[1]/section[2],,FP,TP,TP,FP,Sign in popup. U. Location change
-[NODE_REMOVED],,,,,,,,,,section,/html/body/nav[1]/section[1],Y,FP,TN,,,
-[NODE_ADDED],icon,/html/body/nav[1]/a[1]/icon[1],,,,,,,,,,,FP,FP,FP,NA,linkedin logo in header
-[NODE_ADDED],a,/html/body/footer[1]/ul[1]/li[2]/a[1],,,,,,,,,,,FP,FP,FP,NA,About after @2020. U
-[NODE_ADDED],span,/html/body/nav[1]/a[1]/span[1],,,,,,,,,,,TP,TP,TP,NA,A
-[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[1]/a[1],,TP,FP,TP,FP,Linkedin logo in header. D
-[NODE_REMOVED],,,,,,,,,,li-icon,/html/body/footer[1]/ul[1]/li[1]/li-icon[1],,TP,FP,TP,FP,linkedin icon before @2019. D
-[NODE_ADDED],li,/html/body/footer[1]/ul[1]/li[1],,,,,,,,,,,FP,TP,TP,NA,@2020
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
-ADD,,,,,,,,,,,,,,,,,
-Accessbility,/html/body/footer/ul/li[3]/a,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-"* A/U/D in GroundTruth column indicate element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
+ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,Dynamic?,DOM,CV,Result,Vista,GroundTruth,,,
+[NODE_ADDED],form,/html/body/form[1],,,,,,,,,,,TP,TP,TP,NA,A,,,
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[4],,,,,,,,,,,FP,FP,FP,NA,Directories in footer.,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[4],,FP,TP,TP,TP,Directories in footer. U,,,ul -> div
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[3],,,,,,,,,,,FP,TP,TP,NA,Business solutions in footer.,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[3],,FP,TP,TP,TP,Business in footer. U,,,
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[2],,,,,,,,,,,FP,TP,TP,NA,Browse linkedin in footer.,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[2],,FP,TP,TP,TP,Browse in footer. U,,,
+[NODE_ADDED],div,/html/body/main[1]/section[8]/div[1]/div[1]/div[1],,,,,,,,,,,FP,FP,FP,NA,General in footer,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[8]/div[1]/div[1]/ul[1],,FP,TP,TP,TP,General in footer. U,,,
+[NODE_ADDED],icon,/html/body/main[1]/section[8]/div[1]/icon[1],,,,,,,,,,,FP,FP,FP,NA,linkedin icon in footer. U,,,
+[PROP_CHANGED],,,class,<dropdown language-selector dropdown--footer language-selector--footer>,div,/html/body/footer[1]/ul[1]/li[10]/div[1],<collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up language-selector>,div,/html/body/footer[1]/ul[1]/li[11]/div[1],,,,TP,TP,TP,TP,Language ddl -> Language U,,,
+[NODE_REMOVED],,,,,,,,,,li-icon,/html/body/main[1]/section[8]/div[1]/li-icon[1],,FP,FP,FP,TP,linkedin icon in footer.,,,
+[PROP_CHANGED],,,class,<marketing__iframe onload>,iframe,/html/body/main[1]/section[6]/div[1]/div[1]/iframe[1],<marketing__iframe>,iframe,/html/body/main[1]/section[6]/div[1]/div[1]/iframe[1],,,,TP,FP,TP,TP,Find your community video. U,,,
+[PROP_CHANGED],,,class,<section>,section,/html/body/main[1]/section[5],<section section--no-min-height>,section,/html/body/main[1]/section[5],,,,FP,FP,FP,FP,Who is linkedin for? D,,,
+[PROP_CHANGED],,,class,<brand-discovery>,div,/html/body/main[1]/section[5]/div[1],<product-cta>,div,/html/body/main[1]/section[5]/div[1],,,,FP,TP,TP,FP,img of Who is linkedin for? D,,,
+[NODE_REMOVED],,,,,,,,,,img,/html/body/main[1]/section[5]/div[1]/img[1],,TP,FP,TP,FP,Who is linkedin for?,,,
+[PROP_CHANGED],,,class,<brand-discovery__cta>,div,/html/body/main[1]/section[5]/div[1]/div[1],<people-cta full-width-product-cta>,div,/html/body/main[1]/section[5]/div[1]/div[1],,,,FP,FP,FP,FP,text part of Who is linkedin for? D,,,
+[NODE_REMOVED],,,,,,,,,,ul,/html/body/main[1]/section[5]/div[1]/div[1]/ul[1],,TP,TP,TP,FP,text part of Who is linkedin for? D,,,
+[NODE_ADDED],div,/html/body/main[1]/section[5]/div[1]/div[1]/div[1],,,,,,,,,,,FP,TP,TP,NA,Connect with people... U,,,
+[NODE_REMOVED],,,,,,,,,,h3,/html/body/main[1]/section[5]/div[1]/div[1]/h3[1],,TP,FP,TP,FP,h3-anyone looking to... D,,,
+[NODE_ADDED],img,/html/body/main[1]/section[5]/div[1]/div[1]/img[1],,,,,,,,,,,FP,FP,FP,NA,img next to connect with people...U,,,
+[NODE_ADDED],button,/html/body/footer[1]/ul[1]/li[11]/div[1]/button[1],,,,,,,,,,,FP,TP,TP,NA,language button,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[5]/div[1]/div[1]/h2[1],,TP,FP,TP,FP,h2-who is linkedin for? D,,,
+[NODE_ADDED],div,/html/body/main[1]/div[1],,,,,,,,,,,TP,FP,TP,NA,Noel got a job....div A,,,
+[PROP_CHANGED],,,class,<section>,section,/html/body/main[1]/section[4],<section section--full>,section,/html/body/main[1]/section[4],,,Y,FP,TP,,,,,,
+[PROP_CHANGED],,,class,<product-cta>,div,/html/body/main[1]/section[4]/div[1],<talent-finder-cta>,div,/html/body/main[1]/section[4]/div[1],,,Y,FP,TP,,,,,,
+[NODE_ADDED],a,/html/body/main[1]/section[4]/div[1]/a[1],,,,,,,,,,,FP,TP,TP,NA,Post a job button.,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[4]/div[1]/div[2],Y,FP,TP,,,Learn the skills you need to succeed,,,
+[NODE_ADDED],h2,/html/body/main[1]/section[4]/div[1]/h2[1],,,,,,,,,,,FP,TP,TP,NA,Post your job and find the people you need. U,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[4]/div[1]/div[1],,FP,TP,TP,FP,Connect with people...U Location change.,,,
+[PROP_CHANGED],,,class,<section section--full>,section,/html/body/main[1]/section[3],<section section--no-min-height>,section,/html/body/main[1]/section[3],,,,FP,TP,TP,TP,Post your job... U Location change,,,
+[PROP_CHANGED],,,class,<talent-finder-cta>,div,/html/body/main[1]/section[3]/div[1],<search-cta>,div,/html/body/main[1]/section[3]/div[1],,,,FP,TP,TP,TP,Post your job... U Location change,,,
+[NODE_ADDED],ul,/html/body/footer[1]/ul[1]/li[11]/div[1]/ul[1],,,,,,,,,,,FP,FP,FP,NA,language options.,,,
+[NODE_ADDED],div,/html/body/main[1]/section[3]/div[1]/div[2],,,,,,,,,,,FP,TP,TP,NA,Suggested Searches.,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/main[1]/section[3]/div[1]/a[1],,FP,TP,TP,TP,Post a job button. U,,,
+[NODE_ADDED],div,/html/body/main[1]/section[3]/div[1]/div[1],,,,,,,,,,,FP,TP,TP,NA,Find open jobs and internships.text. U,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[3]/div[1]/h2[1],,FP,TP,TP,FP,h2-Post your job.... U,,,
+[PROP_CHANGED],,,class,<section section--full>,section,/html/body/main[1]/section[2],<section section--no-min-height>,section,/html/body/main[1]/section[2],,,,FP,TP,TP,TP,Find the right job...section U,,,
+[PROP_CHANGED],,,class,<search-cta>,div,/html/body/main[1]/section[2]/div[1],<feature-learning>,div,/html/body/main[1]/section[2]/div[1],,,,FP,TP,TP,TP,Find the right job...section U,,,
+[NODE_ADDED],section,/html/body/main[1]/section[2]/div[1]/section[1],,,,,,,,,,,TP,TP,TP,NA,img next to Learn the skills that can help you now. A,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/main[1]/section[2]/div[1]/div[2],,FP,TP,TP,TP,Suggested Searches div U,,,
+[PROP_CHANGED],,,class,<job-finder-cta>,div,/html/body/main[1]/section[2]/div[1]/div[1],<learning-cta>,div,/html/body/main[1]/section[2]/div[1]/div[1],,,,FP,TP,TP,TP,Find the right job...div U,,,
+[NODE_ADDED],div,/html/body/main[1]/section[2]/div[1]/div[1]/div[1],,,,,,,,,,,FP,TP,TP,NA,Learn the skills div. U,,,
+[NODE_REMOVED],,,,,,,,,,div,/html/body/footer[1]/ul[1]/li[10]/div[1]/div[1],,FP,TP,TP,TP,languages ddl,,,
+[NODE_REMOVED],,,,,,,,,,h2,/html/body/main[1]/section[2]/div[1]/div[1]/h2[1],,FP,TP,TP,TP,h2-Find the right job...,,,
+[NODE_ADDED],div,/html/body/main[1]/section[1]/div[2],,,,,,,,,,,FP,FP,FP,NA,sign in div.,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[11],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[9],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[8],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[7],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[6],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[5],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[4],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_REMOVED],,,,,,,,,,span,/html/body/footer[1]/ul[1]/li[1]/span[1],,FP,FP,FP,TP,@2019 U,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[3],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[2],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_ADDED],code,/html/body/main[1]/section[1]/code[1],,,,,,,,,,,TP,TP,TP,NA,invisible <code>. A,,,
+[NODE_REMOVED],,,,,,,,,,section,/html/body/main[1]/section[1]/section[1],,TP,FP,TP,FP,"Find jobs, people and more searchbox D",,,
+[PROP_CHANGED],,,class,<hero>,div,/html/body/main[1]/section[1]/div[1],<hero hero--with-form>,div,/html/body/main[1]/section[1]/div[1],,,,TP,TP,TP,FP,Welcome to your professional community U-class changed,,,
+[PROP_CHANGED],,,class,<hero__illustration--mobile>,img,/html/body/main[1]/section[1]/div[1]/img[2],<hero__illustration--mobile flip-rtl>,img,/html/body/main[1]/section[1]/div[1]/img[2],,,,,,,,0X0 invisible img. S,,,
+[PROP_CHANGED],,,class,<hero__illustration--desktop>,img,/html/body/main[1]/section[1]/div[1]/img[1],<hero__illustration--desktop flip-rtl>,img,/html/body/main[1]/section[1]/div[1]/img[1],,,,TP,FN,TP,FP,img of Welcome to your professional...U,,,
+[NODE_REMOVED],,,,,,,,,,section,/html/body/nav[1]/section[2],,FP,TP,TP,FP,Sign in popup. U. Location change,,,
+[NODE_REMOVED],,,,,,,,,,section,/html/body/nav[1]/section[1],Y,FP,TN,,,,,,
+[NODE_ADDED],icon,/html/body/nav[1]/a[1]/icon[1],,,,,,,,,,,FP,FP,FP,NA,linkedin logo in header,,,
+[NODE_ADDED],a,/html/body/footer[1]/ul[1]/li[2]/a[1],,,,,,,,,,,FP,FP,FP,NA,About after @2020. U,,,
+[NODE_ADDED],span,/html/body/nav[1]/a[1]/span[1],,,,,,,,,,,TP,TP,TP,NA,A,,,
+[NODE_REMOVED],,,,,,,,,,a,/html/body/nav[1]/a[1],,TP,FP,TP,FP,Linkedin logo in header. D,,,
+[NODE_REMOVED],,,,,,,,,,li-icon,/html/body/footer[1]/ul[1]/li[1]/li-icon[1],,TP,FP,TP,FP,linkedin icon before @2019. D,,,
+[NODE_ADDED],li,/html/body/footer[1]/ul[1]/li[1],,,,,,,,,,,FP,TP,TP,NA,@2020,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,,,,
+ADD,,,,,,,,,,,,,,,,,,,,
+Accessbility,/html/body/footer/ul/li[3]/a,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicate element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,,,,

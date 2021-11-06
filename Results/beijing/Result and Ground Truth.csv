@@ -122,7 +122,7 @@ ChangedType,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newT
 * Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
 ADD,,DELETE,,,,,,,,,,,,,,,
 ??,,??,,,,,,,,,,,,,,,
-?? div.,/html/body/div[6]/div[1]/div/div[1]/div[5]/div[2],??,,,,,,,,,,,,,,,
+?? div.,,??,,,,,,,,,,,,,,,
 ,,2016?????,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 "* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,

@@ -1,165 +1,165 @@
-ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,DOM,CV,Result,vista,GroundTruth
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[9],,,,,,,,,,TP,FP,TP,NA,Discover Anna Sui. A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[5],,,,,,,,,,TP,TP,TP,NA,hr below above. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[8],,,,,,,,,,TP,FP,TP,NA,Discover Lemlem. A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[4],,,,,,,,,,TP,TP,TP,NA,hr above. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[7],,,,,,,,,,TP,FP,TP,NA,"Prep for colledge, for less. A"
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[6],,,,,,,,,,TP,FP,TP,NA,Home upgrades ideas. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[5],,,,,,,,,,TP,FP,TP,NA,The summer sandal edit. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[4],,,,,,,,,,TP,FP,TP,NA,Freshen up with new color. A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[3],,,,,,,,,,TP,TP,TP,NA,hr below for the content creator. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[3],,,,,,,,,,TP,FP,TP,NA,for the content creator. A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[2],,,,,,,,,,TP,TP,TP,NA,hr above for the content creator. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[2],,,,,,,,,,TP,FP,TP,NA,Deals on tools...A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[1],,,,,,,,,,TP,TP,TP,NA,hr above Deals on tools...A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[1],,,,,,,,,,TP,FP,TP,NA,Prep for colledge for less. A
-[NODE_ADDED],NO,form,/html/body/div[3]/div[2]/div[3]/form[1],,,,,,,,,,TP,TP,TP,NA,invisible div. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[3],,,,,,,,,,FP,FP,FP,NA,popup of try prime-U
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[2],,,,,,,,,,TP,TP,TP,NA,A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[1],,,,,,,,,,TP,FP,TP,NA,div between gallery and prep for...A
-[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[2],<desktop-banner>,div,/html/body/div[3]/div[2]/div[2],,,FP,,,,
-[PROP_CHANGED],YES,,,class,<a-section a-spacing-none gw-desktop-herotator-ready>,div,/html/body/div[3]/div[2]/div[2]/div[1],<a-section a-spacing-none aok-relative tall>,div,/html/body/div[3]/div[2]/div[2]/div[1],,,FP,,,,
-[PROP_CHANGED],YES,,,class,<a-begin a-carousel-container a-carousel-display-single a-carousel-transition-slideCircular gw-desktop-herotator a-carousel-initialized>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1],<a-begin a-carousel-container a-carousel-static a-carousel-display-single a-carousel-transition-slideCircular gw-desktop-herotator>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1],,,FP,,,,
-[PROP_CHANGED],NO,,,class,<a-carousel-col a-carousel-right celwidget>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3],<a-carousel-col a-carousel-right>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3],,,TP,FP,TP,FP,right arrow. U
-[PROP_CHANGED],YES,,,id,<anonCarousel1>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],<>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],,,FP,TN,,,gallery
-[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-kindle-B>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[5]/div[1],<gw-ftGr-desktop-tall-hero-M>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[9]/div[1],,,TP,FP,TP,FP,the most right picture of the gallery. U
-[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[5]/div[1]/div[1],FP,TN,,,div inside the above picture
-[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-piv>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4]/div[1],<gw-ftGr-desktop-tall-hero-C>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[8]/div[1],,,TP,FP,TP,FP,10.99. U
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4]/div[1]/div[1],TP,FP,TP,FP,subdiv of above. D
-[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-softlines>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[3]/div[1],<gw-ftGr-desktop-tall-hero-H>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[7]/div[1],,,TP,FN,TP,FP,10 key pieces....U
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[3]/div[1]/div[1],TP,FN,TP,FP,subdiv of above. D
-[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-kindle-A>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2]/div[1],<gw-ftGr-desktop-tall-hero-J>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[6]/div[1],,,TP,FN,TP,FP,left to 10 key ...U
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2]/div[1]/div[1],TP,FN,TP,FP,subdiv of above. D
-[PROP_CHANGED],YES,,,id,<gw-ftGr-desktop-hero-H>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1]/div[1],<gw-ftGr-desktop-tall-hero-kindle-B>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[5]/div[1],,,FP,,,,1st left picture.
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1]/div[1]/div[1],TP,TP,TP,FP,div inside above div. D
-[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4],,,,,,,,,,TP,FP,TP,NA,li in gallery. A
-[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[3],,,,,,,,,,TP,FP,TP,NA,li in gallery. A
-[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2],,,,,,,,,,TP,TP,TP,NA,li in gallery. A
-[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1],,,,,,,,,,TP,TP,TP,NA,li in gallery. A
-[PROP_CHANGED],NO,,,class,<a-carousel-col a-carousel-left celwidget>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1],<a-carousel-col a-carousel-left>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1],,,TP,FP,TP,FP,left arrow. U
-[NODE_ADDED],NO,a,/html/body/div[3]/a[3],,,,,,,,,,TP,TP,TP,NA,invisible <a>. A
-[NODE_REMOVED],YES,,,,,,,,,,map,/html/body/div[3]/map[1],FP,,,,invisible map under header (topnav is above header). D
-[PROP_CHANGED],NO,,,id,<nav-subnav>,div,/html/body/div[3]/header[1]/div[1]/div[3],<nav-subnav-toaster>,div,/html/body/div[3]/header[1]/div[1]/div[3],,,TP,TP,TP,FN,invisible div. U
-[PROP_CHANGED],NO,,,id,<nav-your-amazon>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1],<>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[10],,,FP,FP,FP,FP,Your Amazon.com inside header. D
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[9],,,,,,,,,,TP,FP,TP,NA,Registry link. A
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[8],,,,,,,,,,TP,FP,TP,NA,Free shipping link. A
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[7],,,,,,,,,,FP,TP,TP,NA,Gift cards link. U
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[6],,,,,,,,,,TP,FP,TP,NA,Whole foods link. A
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[5],,,,,,,,,,TP,FP,TP,NA,Find a gift link. A
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[4],,,,,,,,,,TP,FP,TP,NA,New releases. A
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[3],,,,,,,,,,FP,TP,TP,NA,Today's Deals. U
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[2],,,,,,,,,,TP,FP,TP,NA,Customer Service. A
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[1],,,,,,,,,,TP,FP,TP,NA,Best Sellers. A
-[NODE_ADDED],NO,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[1],,,,,,,,,,TP,TP,TP,NA,invisible div. A
-[PROP_CHANGED],NO,,,id,<nav-tools>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1],<nav-swmslot>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1],,,FP,TP,TP,TP,nav inside header -EN to cart. U
-[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[5],FP,TP,TP,TP,cart link. U
-[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[4],FP,TP,TP,TP,Try Prime. U
-[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[3],FP,TP,TP,FN,Orders->Returns&Orders. U
-[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[2],FP,TP,TP,TP,"Hello,....& Lists. U"
-[PROP_CHANGED],NO,,,id,<icp-nav-flyout>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1],<>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1],,,FP,TP,TP,FP,EN. U
-[NODE_REMOVED],NO,,,,,,,,,,span,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1]/span[2],TP,FP,TP,TP,span only has class attr. D
-[NODE_REMOVED],NO,,,,,,,,,,span,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1]/span[1],FP,TP,TP,FP,EN span. U
-[PROP_CHANGED],NO,,,id,<nav-shop>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1],<nav-global-location-slot>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1],,,TP,FP,TP,FP,Departments div -> select your address div. U
-[NODE_ADDED],NO,input,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/input[2],,,,,,,,,,TP,FN,TP,NA,popup ship to. A
-[NODE_ADDED],NO,input,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/input[1],,,,,,,,,,TP,FN,TP,NA,popup ship location. A
-[NODE_ADDED],NO,span,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/span[1],,,,,,,,,,TP,FN,TP,NA,popup ship span. A
-[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/a[1],TP,FP,TP,FP,Departments link. D
-[PROP_CHANGED],NO,,,id,<nav-flyout-iss-anchor>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5],<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3],,,TP,FN,TP,FN,invisible div. U
-[PROP_CHANGED],NO,,,id,<nav-flyout-searchAjax>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5]/div[1],<nav-search>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1],,,TP,FN,TP,FN,invisible div. U
-[NODE_ADDED],NO,form,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1],,,,,,,,,,FP,FP,FP,NA,search form. U
-[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5]/div[1]/div[1],<nav-bar-left>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/div[1],,,TP,FN,TP,FN,invisible div. U
-[PROP_CHANGED],NO,,,class,<nav-template nav-flyout-content>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5]/div[1]/div[1],<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/div[1],,,TP,FN,TP,FN,U
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[4],FP,FN,FP,FN,U
-[PROP_CHANGED],NO,,,class,<nav-fill>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3],<nav-right>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2],,,FP,FP,FP,FN,upper part of header. U
-[PROP_CHANGED],YES,,,id,<nav-search>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1],<nav-tools>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1],,,FP,,,,search box
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[5],,,,,,,,,,FP,TP,,NA,cart
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[4],,,,,,,,,,FP,TP,,NA,Try Prime
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[3],,,,,,,,,,FP,TP,,NA,returns & orders
-[NODE_REMOVED],NO,,,,,,,,,,form,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1],FP,TP,,,search form inside search box
-[PROP_CHANGED],NO,,,id,<nav-bar-left>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/div[1],<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/div[1],,,TP,FN,TP,FN,invisible div. U
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[2],,,,,,,,,,FP,TP,,NA,Hello... & Lists.
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[1],,,,,,,,,,FP,TP,,NA,EN
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2],TP,TP,TP,FP,Off-to-colledge checklist. D
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[4],TP,TN,,,invisible div.
-[NODE_ADDED],NO,div,/html/body/div[3]/div[5]/div[2],,,,,,,,,,TP,FN,TP,NA,div below Get to know us ~ Let us help you. A
-[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/div[1]/a[2],TP,TN,,,Try Prime link next to amazon logo
-[PROP_CHANGED],NO,,,class,<nav-logo-base nav-sprite>,span,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1],<nav-sprite nav-logo-base>,span,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1],,,TP,FP,TP,TP,span inside amazon logo. class change. U
-[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/a[1],,,,,,,,,,TP,FN,TP,NA,top left triple lines-nav. A
-[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/div[1]/a[1],TP,FP,TP,FP,top nav. D
-[PROP_CHANGED],NO,,,id,<nav-top>,a,/html/body/div[3]/a[1],<skiplink>,a,/html/body/div[3]/a[2],,,,,,,invisible <a> w/o value. S
-[NODE_ADDED],NO,a,/html/body/div[3]/a[1],,,,,,,,,,FP,TN,,NA,invisible <a> w/o value.
-[NODE_REMOVED],NO,,,,,,,,,,table,/html/body/div[3]/div[3]/table[1],FP,TP,TP,TP,Get to know US ~ Let us help you. U
-[NODE_ADDED],NO,div,/html/body/div[3]/div[4],,,,,,,,,,TP,FN,TP,NA,invisible div. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[3],,,,,,,,,,TP,,,NA,div above back to top.
-[PROP_CHANGED],NO,,,id,<unrec-pageContent>,div,/html/body/div[3]/div[2],<pageContent>,div,/html/body/div[3]/div[2],,,FP,,,,content includes galery. class change.
-[NODE_REMOVED],NO,,,,,,,,,,form,/html/body/div[3]/div[2]/form[1],TP,FP,TP,,invisible form. D
-[NODE_ADDED],NO,span,/html/body/div[3]/div[2]/span[1],,,,,,,,,,TP,FP,TP,NA,A
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[5],FP,TN,,,popup of Try Prime of amazon logo
-[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/div[2]/div[4],<a-popover-gw-asin-popover>,div,/html/body/div[3]/div[2]/div[4],,,FP,FN,FN,FN,popup of something related to prime. U
-[NODE_ADDED],NO,img,/html/body/div[3]/img[3],,,,,,,,,,TP,FN,TP,NA,A
-[PROP_CHANGED],NO,,,id,<nav-prime-menu>,div,/html/body/div[3]/div[2]/div[4]/div[1],<gw-popover-wrapper>,div,/html/body/div[3]/div[2]/div[4]/div[1],,,TP,,,,popup of something related to prime.
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[3],TP,TP,TP,,D
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[2]/div[1],,,,,,,,,,TP,TN,,NA,invisible Quick look. A
-[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1],<gw-asin-popover>,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1],,,TP,TP,,,invisible div. U
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1]/div[2],,,,,,,,,,,,,NA,invisible div.
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1]/div[1],,,,,,,,,,,,,NA,invisible div.
-[NODE_ADDED],NO,i,/html/body/div[3]/div[2]/div[4]/div[1]/div[1]/i[1],,,,,,,,,,TP,TP,,NA,invisible div.
-[NODE_REMOVED],NO,,,,,,,,,,noscript,/html/body/div[3]/div[2]/noscript[1],TP,FN,TP,TP,noscript. D
-[PROP_CHANGED],NO,,,id,<gw-content-grid>,div,/html/body/div[3]/div[2]/div[3],<gw-layout>,div,/html/body/div[3]/div[2]/div[3],,,FP,,,TN,content grid.
-[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1],<gw-content-grid>,div,/html/body/div[3]/div[2]/div[3]/div[4],,,FP,,,,content grid (dynamic)
-[PROP_CHANGED],YES,,,class,<a-section>,div,/html/body/div[3]/div[2]/div[3]/div[1],<a-section a-spacing-large>,div,/html/body/div[3]/div[2]/div[3]/div[4],,,FP,,,,content grid (dynamic)
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[11],,,,,,,,,,TP,FN,TP,NA,hr. A
-[PROP_CHANGED],YES,,,id,<gw-col-4>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4],<desktop-7>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20],,,FP,,,,$18.95 
-[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4]/div[1],<_dqpC57GKwiy49pf_z_i8g>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1],,,FP,,,,$18.95 
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[2],,,,,,,,,,FP,,,,images below Current customer favorites. A
-[PROP_CHANGED],YES,,,class,<sidebar>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1],<a-section as-title-block>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[1],,,FP,,,,$18.95 
-[NODE_ADDED],NO,span,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[1]/span[1],,,,,,,,,,TP,FP,TP,NA,see more link next to Current customer favorites. A
-[NODE_ADDED],NO,h2,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[1]/h2[1],,,,,,,,,,TP,FP,TP,NA,<h2>Current customer favorites</h2>. A
-[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1],FP,,,,$18.95 
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[10],,,,,,,,,,TP,TP,TP,NA,hr above Current customer favorites. A
-[PROP_CHANGED],YES,,,id,<gw-col-3>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3],<desktop-btf-grid-12>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19],,,FP,,,,Everyday Essentials
-[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1],<E0MkSIHBCus6f7UXsYERfA>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1],,,FP,,,,Everyday Essentials
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1]/div[3],,,,,,,,,,FP,,,NA,invisible div.
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1]/div[2],,,,,,,,,,FP,,,NA,invisible div.
-[PROP_CHANGED],YES,,,id,<desktop-unrec-col-3>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1],<>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1]/div[1],,,FP,,,,Everyday Essentials
-[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1],FP,,,,Everyday Essentials w/o Explore link
-[PROP_CHANGED],NO,,,id,<gw-col-2>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2],<desktop-btf-grid-11>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18],,,FP,,,TN,The Dress Shop.
-[NODE_ADDED],NO,a,/html/body/div[3]/div[5]/div[5]/table[1]/tbody[1]/tr[11]/td[1]/a[1],,,,,,,,,,TP,FP,TP,NA,h2-Affordable home upgrades. A
-[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1],<AOu6VGOMX9ZO3phND9027g>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1],,,FP,,,,subdiv of the above The Dress Shop.
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[3],,,,,,,,,,FP,,,NA,invisible div-shop the summer event.
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[2],,,,,,,,,,FP,,,NA,invisible div.
-[PROP_CHANGED],NO,,,id,<desktop-unrec-col-2>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1],<>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[1],,,FP,,,,subsubdiv of the above The Dress Shop.
-[NODE_ADDED],NO,h2,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[1]/h2[1],,,,,,,,,,TP,FP,TP,NA,h2-Decorate your patio. A
-[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1],FP,,,,The Dress Shop w/o sh link.
-[PROP_CHANGED],YES,,,id,<gw-col-1>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1],<desktop-btf-grid-10>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17],,,FP,,,,Welcome
-[PROP_CHANGED],YES,,,id,<desktop-unrec-col-1>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1],<tWwyZ4Kl5xMrJARKt2F9sQ>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1],,,FP,,,,Welcome
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[3],,,,,,,,,,TP,FP,TP,NA,see more from amazon launchpad link. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[2],,,,,,,,,,FP,,,,
-[PROP_CHANGED],YES,,,id,<desktop-unrec-first-col>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1],<>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[1],,,FP,,,,Welcome
-[NODE_ADDED],NO,h2,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[1]/h2[1],,,,,,,,,,TP,FP,TP,NA,h2-Household must haves. A
-[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],FP,,,,Welcome
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[16],,,,,,,,,,TP,FP,TP,NA,Get ready for school. A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[9],,,,,,,,,,TP,TP,TP,NA,hr below Dresses with 4+...A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[15],,,,,,,,,,TP,FP,TP,NA,Dresses with 4+. A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[8],,,,,,,,,,TP,TP,TP,NA,hr above Dresses with 4+...A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[14],,,,,,,,,,TP,FP,TP,NA,Best sellers in beauty..A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[7],,,,,,,,,,TP,TP,TP,NA,hr above Best sellers in beauty..A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[13],,,,,,,,,,TP,FP,TP,NA,Home improvement ideas. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[12],,,,,,,,,,TP,FP,TP,NA,Find great gifts. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[11],,,,,,,,,,TP,FP,TP,NA,Amazon's response to covid-19. A
-[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[10],,,,,,,,,,TP,FP,TP,NA,Prep for colledge. A
-[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[6],,,,,,,,,,TP,TP,TP,NA,"hr above ""above"". A"
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,
-ADD,UPDATE,DELETE,,,,,,,,,,,,,,,
-Blog,Amazon Fresh,Zappos,,,,,,,,,,,,,,,
-Sustainability,Amazon Drive,ACX,,,,,,,,,,,,,,,
-Amazon and COVID-19,Amazon Global,Amazon Rapids,,,,,,,,,,,,,,,
-Neibors app,East Dane,TenMarks.com,,,,,,,,,,,,,,,
-ComiXology,Home Services,Souq.com,,,,,,,,,,,,,,,
-Whole Foods Market,AbaBooks,Alexa,,,,,,,,,,,,,,,
-,Prime photos -> Amazon photos,Amazon Restaraunts,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-"* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,
+ChangedType,Dynamic?,AddedTag,addedXpath,typeChanged,oldType,oldTag,oldXpath,newType,newTag,newXpath,removedTag,removedXpath,DOM,CV,Result,vista,GroundTruth,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[9],,,,,,,,,,TP,FP,TP,NA,Discover Anna Sui. A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[5],,,,,,,,,,TP,TP,TP,NA,hr below above. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[8],,,,,,,,,,TP,FP,TP,NA,Discover Lemlem. A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[4],,,,,,,,,,TP,TP,TP,NA,hr above. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[7],,,,,,,,,,TP,FP,TP,NA,"Prep for colledge, for less. A",,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[6],,,,,,,,,,TP,FP,TP,NA,Home upgrades ideas. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[5],,,,,,,,,,TP,FP,TP,NA,The summer sandal edit. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[4],,,,,,,,,,TP,FP,TP,NA,Freshen up with new color. A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[3],,,,,,,,,,TP,TP,TP,NA,hr below for the content creator. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[3],,,,,,,,,,TP,FP,TP,NA,for the content creator. A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[2],,,,,,,,,,TP,TP,TP,NA,hr above for the content creator. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[2],,,,,,,,,,TP,FP,TP,NA,Deals on tools...A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[1],,,,,,,,,,TP,TP,TP,NA,hr above Deals on tools...A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[1],,,,,,,,,,TP,FP,TP,NA,Prep for colledge for less. A,,,,
+[NODE_ADDED],NO,form,/html/body/div[3]/div[2]/div[3]/form[1],,,,,,,,,,TP,TP,TP,NA,invisible div. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[3],,,,,,,,,,FP,FP,FP,NA,popup of try prime-U,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[2],,,,,,,,,,TP,TP,TP,NA,A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[1],,,,,,,,,,TP,FP,TP,NA,div between gallery and prep for...A,,,,
+[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[2],<desktop-banner>,div,/html/body/div[3]/div[2]/div[2],,,FP,,,,,,,,
+[PROP_CHANGED],YES,,,class,<a-section a-spacing-none gw-desktop-herotator-ready>,div,/html/body/div[3]/div[2]/div[2]/div[1],<a-section a-spacing-none aok-relative tall>,div,/html/body/div[3]/div[2]/div[2]/div[1],,,FP,,,,,,,,
+[PROP_CHANGED],YES,,,class,<a-begin a-carousel-container a-carousel-display-single a-carousel-transition-slideCircular gw-desktop-herotator a-carousel-initialized>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1],<a-begin a-carousel-container a-carousel-static a-carousel-display-single a-carousel-transition-slideCircular gw-desktop-herotator>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1],,,FP,,,,,,,,
+[PROP_CHANGED],NO,,,class,<a-carousel-col a-carousel-right celwidget>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3],<a-carousel-col a-carousel-right>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3],,,TP,FP,TP,FP,right arrow. U,,,,
+[PROP_CHANGED],YES,,,id,<anonCarousel1>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],<>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1],,,FP,TN,,,gallery,,,,
+[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-kindle-B>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[5]/div[1],<gw-ftGr-desktop-tall-hero-M>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[9]/div[1],,,TP,FP,TP,FP,the most right picture of the gallery. U,,,,
+[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[5]/div[1]/div[1],FP,TN,,,div inside the above picture,,,,
+[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-piv>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4]/div[1],<gw-ftGr-desktop-tall-hero-C>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[8]/div[1],,,TP,FP,TP,FP,10.99. U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4]/div[1]/div[1],TP,FP,TP,FP,subdiv of above. D,,,,
+[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-softlines>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[3]/div[1],<gw-ftGr-desktop-tall-hero-H>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[7]/div[1],,,TP,FN,TP,FP,10 key pieces....U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[3]/div[1]/div[1],TP,FN,TP,FP,subdiv of above. D,,,,
+[PROP_CHANGED],NO,,,id,<gw-ftGr-desktop-hero-kindle-A>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2]/div[1],<gw-ftGr-desktop-tall-hero-J>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[6]/div[1],,,TP,FN,TP,FP,left to 10 key ...U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2]/div[1]/div[1],TP,FN,TP,FP,subdiv of above. D,,,,
+[PROP_CHANGED],YES,,,id,<gw-ftGr-desktop-hero-H>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1]/div[1],<gw-ftGr-desktop-tall-hero-kindle-B>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[5]/div[1],,,FP,,,,1st left picture.,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1]/div[1]/div[1],TP,TP,TP,FP,div inside above div. D,,,,
+[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4],,,,,,,,,,TP,FP,TP,NA,li in gallery. A,,,,
+[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[3],,,,,,,,,,TP,FP,TP,NA,li in gallery. A,,,,
+[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2],,,,,,,,,,TP,TP,TP,NA,li in gallery. A,,,,
+[NODE_ADDED],NO,li,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1],,,,,,,,,,TP,TP,TP,NA,li in gallery. A,,,,
+[PROP_CHANGED],NO,,,class,<a-carousel-col a-carousel-left celwidget>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1],<a-carousel-col a-carousel-left>,div,/html/body/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1],,,TP,FP,TP,FP,left arrow. U,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/a[3],,,,,,,,,,TP,TP,TP,NA,invisible <a>. A,,,,
+[NODE_REMOVED],YES,,,,,,,,,,map,/html/body/div[3]/map[1],FP,,,,invisible map under header (topnav is above header). D,,,,
+[PROP_CHANGED],NO,,,id,<nav-subnav>,div,/html/body/div[3]/header[1]/div[1]/div[3],<nav-subnav-toaster>,div,/html/body/div[3]/header[1]/div[1]/div[3],,,TP,TP,TP,FN,invisible div. U,,,,
+[PROP_CHANGED],NO,,,id,<nav-your-amazon>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1],<>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[10],,,FP,FP,FP,FP,Your Amazon.com inside header. D,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[9],,,,,,,,,,TP,FP,TP,NA,Registry link. A,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[8],,,,,,,,,,TP,FP,TP,NA,Free shipping link. A,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[7],,,,,,,,,,FP,TP,TP,NA,Gift cards link. U,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[6],,,,,,,,,,TP,FP,TP,NA,Whole foods link. A,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[5],,,,,,,,,,TP,FP,TP,NA,Find a gift link. A,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[4],,,,,,,,,,TP,FP,TP,NA,New releases. A,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[3],,,,,,,,,,FP,TP,TP,NA,Today's Deals. U,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[2],,,,,,,,,,TP,FP,TP,NA,Customer Service. A,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[1],,,,,,,,,,TP,FP,TP,NA,Best Sellers. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[3]/div[1],,,,,,,,,,TP,TP,TP,NA,invisible div. A,,,,
+[PROP_CHANGED],NO,,,id,<nav-tools>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1],<nav-swmslot>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1],,,FP,TP,TP,TP,nav inside header -EN to cart. U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[5],FP,TP,TP,TP,cart link. U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[4],FP,TP,TP,TP,Try Prime. U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[3],FP,TP,TP,FN,Orders->Returns&Orders. U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[2],FP,TP,TP,TP,"Hello,....& Lists. U",,,,
+[PROP_CHANGED],NO,,,id,<icp-nav-flyout>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1],<>,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1],,,FP,TP,TP,FP,EN. U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,span,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1]/span[2],TP,FP,TP,TP,span only has class attr. D,,,,
+[NODE_REMOVED],NO,,,,,,,,,,span,/html/body/div[3]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1]/span[1],FP,TP,TP,FP,EN span. U,,,,
+[PROP_CHANGED],NO,,,id,<nav-shop>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1],<nav-global-location-slot>,div,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1],,,TP,FP,TP,FP,Departments div -> select your address div. U,,,,
+[NODE_ADDED],NO,input,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/input[2],,,,,,,,,,TP,FN,TP,NA,popup ship to. A,,,,
+[NODE_ADDED],NO,input,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/input[1],,,,,,,,,,TP,FN,TP,NA,popup ship location. A,,,,
+[NODE_ADDED],NO,span,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/span[1],,,,,,,,,,TP,FN,TP,NA,popup ship span. A,,,,
+[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[2]/div[1]/div[1]/a[1],TP,FP,TP,FP,Departments link. D,,,,
+[PROP_CHANGED],NO,,,id,<nav-flyout-iss-anchor>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5],<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3],,,TP,FN,TP,FN,invisible div. U,,,,
+[PROP_CHANGED],NO,,,id,<nav-flyout-searchAjax>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5]/div[1],<nav-search>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1],,,TP,FN,TP,FN,invisible div. U,,,,
+[NODE_ADDED],NO,form,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1],,,,,,,,,,FP,FP,FP,NA,search form. U,,,,
+[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5]/div[1]/div[1],<nav-bar-left>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/div[1],,,TP,FN,TP,FN,invisible div. U,,,,
+[PROP_CHANGED],NO,,,class,<nav-template nav-flyout-content>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[5]/div[1]/div[1],<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/div[1],,,TP,FN,TP,FN,U,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[4],FP,FN,FP,FN,U,,,,
+[PROP_CHANGED],NO,,,class,<nav-fill>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3],<nav-right>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2],,,FP,FP,FP,FN,upper part of header. U,,,,
+[PROP_CHANGED],YES,,,id,<nav-search>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1],<nav-tools>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1],,,FP,,,,search box,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[5],,,,,,,,,,FP,TP,,NA,cart,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[4],,,,,,,,,,FP,TP,,NA,Try Prime,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[3],,,,,,,,,,FP,TP,,NA,returns & orders,,,,
+[NODE_REMOVED],NO,,,,,,,,,,form,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1],FP,TP,,,search form inside search box,,,,
+[PROP_CHANGED],NO,,,id,<nav-bar-left>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[3]/div[1]/div[1],<>,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/div[1],,,TP,FN,TP,FN,invisible div. U,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[2],,,,,,,,,,FP,TP,,NA,Hello... & Lists.,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[2]/div[1]/a[1],,,,,,,,,,FP,TP,,NA,EN,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/header[1]/div[1]/div[1]/div[2],TP,TP,TP,FP,Off-to-colledge checklist. D,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[4],TP,TN,,,invisible div.,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[5]/div[2],,,,,,,,,,TP,FN,TP,NA,div below Get to know us ~ Let us help you. A,,,,
+[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/div[1]/a[2],TP,TN,,,Try Prime link next to amazon logo,,,,
+[PROP_CHANGED],NO,,,class,<nav-logo-base nav-sprite>,span,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1],<nav-sprite nav-logo-base>,span,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1],,,TP,FP,TP,TP,span inside amazon logo. class change. U,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/header[1]/div[1]/div[1]/div[1]/a[1],,,,,,,,,,TP,FN,TP,NA,top left triple lines-nav. A,,,,
+[NODE_REMOVED],NO,,,,,,,,,,a,/html/body/div[3]/div[1]/a[1],TP,FP,TP,FP,top nav. D,,,,
+[PROP_CHANGED],NO,,,id,<nav-top>,a,/html/body/div[3]/a[1],<skiplink>,a,/html/body/div[3]/a[2],,,,,,,invisible <a> w/o value. S,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/a[1],,,,,,,,,,FP,TN,,NA,invisible <a> w/o value.,,,,
+[NODE_REMOVED],NO,,,,,,,,,,table,/html/body/div[3]/div[3]/table[1],FP,TP,TP,TP,Get to know US ~ Let us help you. U,,,,table -> div
+[NODE_ADDED],NO,div,/html/body/div[3]/div[4],,,,,,,,,,TP,FN,TP,NA,invisible div. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[3],,,,,,,,,,TP,,,NA,div above back to top.,,,,
+[PROP_CHANGED],NO,,,id,<unrec-pageContent>,div,/html/body/div[3]/div[2],<pageContent>,div,/html/body/div[3]/div[2],,,FP,,,,content includes galery. class change.,,,,
+[NODE_REMOVED],NO,,,,,,,,,,form,/html/body/div[3]/div[2]/form[1],TP,FP,TP,,invisible form. D,,,,
+[NODE_ADDED],NO,span,/html/body/div[3]/div[2]/span[1],,,,,,,,,,TP,FP,TP,NA,A,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[5],FP,TN,,,popup of Try Prime of amazon logo,,,,
+[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/div[2]/div[4],<a-popover-gw-asin-popover>,div,/html/body/div[3]/div[2]/div[4],,,FP,FN,FN,FN,popup of something related to prime. U,,,,
+[NODE_ADDED],NO,img,/html/body/div[3]/img[3],,,,,,,,,,TP,FN,TP,NA,A,,,,
+[PROP_CHANGED],NO,,,id,<nav-prime-menu>,div,/html/body/div[3]/div[2]/div[4]/div[1],<gw-popover-wrapper>,div,/html/body/div[3]/div[2]/div[4]/div[1],,,TP,,,,popup of something related to prime.,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[3],TP,TP,TP,,D,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[2]/div[1],,,,,,,,,,TP,TN,,NA,invisible Quick look. A,,,,
+[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1],<gw-asin-popover>,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1],,,TP,TP,,,invisible div. U,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1]/div[2],,,,,,,,,,,,,NA,invisible div.,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[4]/div[1]/div[1]/div[1],,,,,,,,,,,,,NA,invisible div.,,,,
+[NODE_ADDED],NO,i,/html/body/div[3]/div[2]/div[4]/div[1]/div[1]/i[1],,,,,,,,,,TP,TP,,NA,invisible div.,,,,
+[NODE_REMOVED],NO,,,,,,,,,,noscript,/html/body/div[3]/div[2]/noscript[1],TP,FN,TP,TP,noscript. D,,,,
+[PROP_CHANGED],NO,,,id,<gw-content-grid>,div,/html/body/div[3]/div[2]/div[3],<gw-layout>,div,/html/body/div[3]/div[2]/div[3],,,FP,,,TN,content grid.,,,,
+[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1],<gw-content-grid>,div,/html/body/div[3]/div[2]/div[3]/div[4],,,FP,,,,content grid (dynamic),,,,
+[PROP_CHANGED],YES,,,class,<a-section>,div,/html/body/div[3]/div[2]/div[3]/div[1],<a-section a-spacing-large>,div,/html/body/div[3]/div[2]/div[3]/div[4],,,FP,,,,content grid (dynamic),,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[11],,,,,,,,,,TP,FN,TP,NA,hr. A,,,,
+[PROP_CHANGED],YES,,,id,<gw-col-4>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4],<desktop-7>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20],,,FP,,,,$18.95 ,,,,
+[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4]/div[1],<_dqpC57GKwiy49pf_z_i8g>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1],,,FP,,,,$18.95 ,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[2],,,,,,,,,,FP,,,,images below Current customer favorites. A,,,,
+[PROP_CHANGED],YES,,,class,<sidebar>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1],<a-section as-title-block>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[1],,,FP,,,,$18.95 ,,,,
+[NODE_ADDED],NO,span,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[1]/span[1],,,,,,,,,,TP,FP,TP,NA,see more link next to Current customer favorites. A,,,,
+[NODE_ADDED],NO,h2,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[20]/div[1]/div[1]/h2[1],,,,,,,,,,TP,FP,TP,NA,<h2>Current customer favorites</h2>. A,,,,
+[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1],FP,,,,$18.95 ,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[10],,,,,,,,,,TP,TP,TP,NA,hr above Current customer favorites. A,,,,
+[PROP_CHANGED],YES,,,id,<gw-col-3>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3],<desktop-btf-grid-12>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19],,,FP,,,,Everyday Essentials,,,,
+[PROP_CHANGED],YES,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1],<E0MkSIHBCus6f7UXsYERfA>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1],,,FP,,,,Everyday Essentials,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1]/div[3],,,,,,,,,,FP,,,NA,invisible div.,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1]/div[2],,,,,,,,,,FP,,,NA,invisible div.,,,,
+[PROP_CHANGED],YES,,,id,<desktop-unrec-col-3>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1],<>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[19]/div[1]/div[1],,,FP,,,,Everyday Essentials,,,,
+[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1],FP,,,,Everyday Essentials w/o Explore link,,,,
+[PROP_CHANGED],NO,,,id,<gw-col-2>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2],<desktop-btf-grid-11>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18],,,FP,,,TN,The Dress Shop.,,,,
+[NODE_ADDED],NO,a,/html/body/div[3]/div[5]/div[5]/table[1]/tbody[1]/tr[11]/td[1]/a[1],,,,,,,,,,TP,FP,TP,NA,h2-Affordable home upgrades. A,,,,
+[PROP_CHANGED],NO,,,id,<>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1],<AOu6VGOMX9ZO3phND9027g>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1],,,FP,,,,subdiv of the above The Dress Shop.,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[3],,,,,,,,,,FP,,,NA,invisible div-shop the summer event.,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[2],,,,,,,,,,FP,,,NA,invisible div.,,,,
+[PROP_CHANGED],NO,,,id,<desktop-unrec-col-2>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1],<>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[1],,,FP,,,,subsubdiv of the above The Dress Shop.,,,,
+[NODE_ADDED],NO,h2,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[18]/div[1]/div[1]/h2[1],,,,,,,,,,TP,FP,TP,NA,h2-Decorate your patio. A,,,,
+[NODE_REMOVED],NO,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1],FP,,,,The Dress Shop w/o sh link.,,,,
+[PROP_CHANGED],YES,,,id,<gw-col-1>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1],<desktop-btf-grid-10>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17],,,FP,,,,Welcome,,,,
+[PROP_CHANGED],YES,,,id,<desktop-unrec-col-1>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1],<tWwyZ4Kl5xMrJARKt2F9sQ>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1],,,FP,,,,Welcome,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[3],,,,,,,,,,TP,FP,TP,NA,see more from amazon launchpad link. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[2],,,,,,,,,,FP,,,,,,,,
+[PROP_CHANGED],YES,,,id,<desktop-unrec-first-col>,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1],<>,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[1],,,FP,,,,Welcome,,,,
+[NODE_ADDED],NO,h2,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[17]/div[1]/div[1]/h2[1],,,,,,,,,,TP,FP,TP,NA,h2-Household must haves. A,,,,
+[NODE_REMOVED],YES,,,,,,,,,,div,/html/body/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1],FP,,,,Welcome,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[16],,,,,,,,,,TP,FP,TP,NA,Get ready for school. A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[9],,,,,,,,,,TP,TP,TP,NA,hr below Dresses with 4+...A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[15],,,,,,,,,,TP,FP,TP,NA,Dresses with 4+. A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[8],,,,,,,,,,TP,TP,TP,NA,hr above Dresses with 4+...A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[14],,,,,,,,,,TP,FP,TP,NA,Best sellers in beauty..A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[7],,,,,,,,,,TP,TP,TP,NA,hr above Best sellers in beauty..A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[13],,,,,,,,,,TP,FP,TP,NA,Home improvement ideas. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[12],,,,,,,,,,TP,FP,TP,NA,Find great gifts. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[11],,,,,,,,,,TP,FP,TP,NA,Amazon's response to covid-19. A,,,,
+[NODE_ADDED],NO,div,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/div[10],,,,,,,,,,TP,FP,TP,NA,Prep for colledge. A,,,,
+[NODE_ADDED],NO,hr,/html/body/div[3]/div[2]/div[3]/div[4]/div[1]/hr[6],,,,,,,,,,TP,TP,TP,NA,"hr above ""above"". A",,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+* Changed elements not detected by WebEvo,,,,,,,,,,,,,,,,,,,,,
+ADD,UPDATE,DELETE,,,,,,,,,,,,,,,,,,,
+Blog,Amazon Fresh,Zappos,,,,,,,,,,,,,,,,,,,
+Sustainability,Amazon Drive,ACX,,,,,,,,,,,,,,,,,,,
+Amazon and COVID-19,Amazon Global,Amazon Rapids,,,,,,,,,,,,,,,,,,,
+Neibors app,East Dane,TenMarks.com,,,,,,,,,,,,,,,,,,,
+ComiXology,Home Services,Souq.com,,,,,,,,,,,,,,,,,,,
+Whole Foods Market,AbaBooks,Alexa,,,,,,,,,,,,,,,,,,,
+,Prime photos -> Amazon photos,Amazon Restaraunts,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+"* A/U/D in GroundTruth column indicates element is added/updated/deleted. Note w/o A/U/D means the element has already been counted, don't double count.",,,,,,,,,,,,,,,,,,,,,
