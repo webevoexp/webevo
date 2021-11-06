@@ -68,7 +68,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  * 
  * (A) if target text is no empty
  * 1. look for same text,compare result,require less smility, if no, look for similar text
- * 2. look for similar pic in those simliar text
+ * 1.5. look for similar pic in those simliar text
  * 
  * (B) if target text is empty, look for all similiar pic with empty text
  * 1.compare pics
@@ -104,17 +104,17 @@ public class ImageCompare3 {
 		Date startDate = new Date();
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS");
 		String start = sdf.format(startDate);
-		System.out.println("Batch insert file start::::::::::::::::" + start);
+		System.out.println("CV process start::::::::::::::::" + start);
 
-		System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "C:/Users/anity/Downloads/chromedriver.exe");
 		System.setProperty(ChromeDriverService.CHROME_DRIVER_SILENT_OUTPUT_PROPERTY, "true");
 		WebDriver driver = new ChromeDriver();
 
-		newURL = "file:///Users/me/Desktop/PhD/WebEvo/cases/w3schools/2019.html";
-		oldURL = "file:///Users/me/Desktop/PhD/WebEvo/cases/w3schools/2016.html";
-		newImage = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/new.png";
-		oldImage = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/old.png";
-		String csvPath = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/ds4_results.csv";
+		newURL = "C:/Users/anity/Desktop/PhD/WebEvo/apple/2020.html";
+		oldURL = "C:/Users/anity/Desktop/PhD/WebEvo/apple/2018.html";
+		newImage = "C:/Users/anity/Desktop/PhD/WebEvo/apple/new.png";
+		oldImage = "C:/Users/anity/Desktop/PhD/WebEvo/apple/old.png";
+		String csvPath = "/C:/Users/anity/Desktop/PhD/WebEvo/apple/ds1_results.csv";
 
 		// (2)read csv
 		readCSV(csvPath);
@@ -136,6 +136,7 @@ public class ImageCompare3 {
 			targetXpath = allXpaths.get(i);
 			String targetURL = "";
 			if (isXpathExist(targetXpath, driver, oldURL)) {
+				//Added by FS in 2021 to fix the Rui's bug.
 				if (allTypes.get(i).contains("ADDED")) {
 					targetURL = newURL;
 				} else {
@@ -157,7 +158,7 @@ public class ImageCompare3 {
 				continue;
 			}
 
-			targetLocation = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/target_img4/";
+			targetLocation = "C:/Users/anity/Desktop/PhD/WebEvo/apple/target_img/";
 			if (targetURL == oldURL) {
 				processingTargetImage(driver, targetXpath, targetLocation, oldImage, i);
 			} else {
@@ -183,7 +184,7 @@ public class ImageCompare3 {
 					// System.out.println("adaptation system time outed!!");
 				}
 				driver.manage().window().maximize();
-				candidateLocation = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/candidate_img4/";
+				candidateLocation = "C:/Users/anity/Desktop/PhD/WebEvo/apple/candidate_img/";
 				new File(candidateLocation + "target" + i + "_folder").mkdirs();
 				if (candidateURL == oldURL) {
 					processingCandidatesImage(driver, candidateLocation + "target" + i + "_folder/", oldImage);
@@ -220,7 +221,7 @@ public class ImageCompare3 {
 
 		Date endDate = new Date();
 		String end = sdf.format(endDate);
-		System.out.println("Batch insert file end::::::::::::::::" + end);
+		System.out.println("CV process end::::::::::::::::" + end);
 
 		// System.out.println("TP | TN | FP | FN | ACCURACY | PRECISION | RECALL | F1");
 		// PRECISION=(double)(TP+FpChange)/(TP+FP);
@@ -261,7 +262,7 @@ public class ImageCompare3 {
 			// saveTarget
 
 			cutJPG(new FileInputStream(image), new FileOutputStream(location + "target" + index + ".png"),
-					(int) (targetX * 2), (int) (targetY * 2), (int) (targetW * 2), (int) (targetH * 2));
+					(int) (targetX * 1.5), (int) (targetY * 1.5), (int) (targetW * 1.5), (int) (targetH * 1.5));
 		} catch (Exception e) {
 			System.out.println("errors when finding target image!");
 			isPresent = false; // assign false to avoid generating a huge amount of candidate images.
@@ -277,7 +278,7 @@ public class ImageCompare3 {
 		eleWithText = new ArrayList<>();
 		eleWithOutText = new ArrayList<>();
 		elementsSim = new HashMap<>();
-		String targetPath = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/target_img4/target" + targetName + ".png";
+		String targetPath = "C:/Users/anity/Desktop/PhD/WebEvo/apple/target_img/target" + targetName + ".png";
 
 		System.out.println("target text:|" + targetText + "|");
 		List<WebElement> eletest = new ArrayList<>();
@@ -323,9 +324,9 @@ public class ImageCompare3 {
 						candidateW = eletest.get(j).getSize().getWidth();
 						candidateH = eletest.get(j).getSize().getHeight();
 						ScreenPNG.cutJPG(new FileInputStream(image),
-								new FileOutputStream(location + "candidate" + (count) + ".png"), (int) (candidateX * 2),
-								(int) (candidateY * 2), (int) (candidateW * 2), (int) (candidateH * 2));
-						String tempTargetPath = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/target_img4/target"
+								new FileOutputStream(location + "candidate" + (count) + ".png"), (int) (candidateX * 1.5),
+								(int) (candidateY * 1.5), (int) (candidateW * 1.5), (int) (candidateH * 1.5));
+						String tempTargetPath = "C:/Users/anity/Desktop/PhD/WebEvo/apple/target_img/target"
 								+ targetName + "_" + count + ".png";
 						copyFile(targetPath, tempTargetPath);
 
@@ -386,9 +387,9 @@ public class ImageCompare3 {
 						double candidateH = eletest.get(key).getSize().getHeight();
 
 						ScreenPNG.cutJPG(new FileInputStream(image),
-								new FileOutputStream(location + "candidate" + (count) + ".png"), (int) (candidateX * 2),
-								(int) (candidateY * 2), (int) (candidateW * 2), (int) (candidateH * 2));
-						String tempTargetPath = "/Users/me/Desktop/PhD/WebEvo/cases/w3schools/target_img4/target"
+								new FileOutputStream(location + "candidate" + (count) + ".png"), (int) (candidateX * 1.5),
+								(int) (candidateY * 1.5), (int) (candidateW * 1.5), (int) (candidateH * 1.5));
+						String tempTargetPath = "C:/Users/anity/Desktop/PhD/WebEvo/apple/target_img/target"
 								+ targetName + "_" + count + ".png";
 						copyFile(targetPath, tempTargetPath);
 
