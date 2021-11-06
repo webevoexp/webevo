@@ -34,7 +34,7 @@ To run the jar file:
 java -jar domdiff-writer.jar -outputtxt:/apple/output.txt -domdiffpath:/apple
 ```
 
-domdiff-writer.jar is in [DOM-tree-based-change-detection](DOM-tree-based-change-detection).
+domdiff-writer.jar is in [DOM-tree-based-change-detection](/DOM-tree-based-change-detection).
 
 #### 2. History-based Change Detection Module.
 
